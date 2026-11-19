@@ -44,19 +44,34 @@ kab["nama_prov"] = kab.kode_prov.map(prov)
 kab["is_kota"] = kab.kode.str[2] == "7"  # kode BPS xx71-xx79 = kota
 pv = d[d.is_prov].set_index(["kode_prov", "tahun"]).tpt.rename("tpt_prov")
 kab = kab.join(pv, on=["kode_prov", "tahun"]).join(nas, on="tahun")
+# 4 provinsi Papua hasil pemekaran 2022 belum punya TPT provinsi sebelum 2024: pakai provinsi induk (ditandai)
+INDUK = {"92": "91", "95": "94", "96": "94", "97": "94"}
+kosong = kab.tpt_prov.isna() & kab.kode_prov.isin(INDUK)
+kab["tpt_prov_induk"] = kosong
+kab.loc[kosong, "tpt_prov"] = [pv.get((INDUK[kp], th)) for kp, th in zip(kab.loc[kosong, "kode_prov"], kab.loc[kosong, "tahun"])]
+assert kab.tpt_prov.notna().all(), kab[kab.tpt_prov.isna()][["nama", "tahun"]]
+# Pembanding sejenis: median TPT semua kota (atau semua kabupaten) di tahun yang sama.
+# Kota hampir selalu ber-TPT lebih tinggi, jadi "di atas nasional" saja bisa sekadar efek kota.
+kab["tpt_median_sejenis"] = kab.groupby(["tahun", "is_kota"]).tpt.transform("median")
 # Kota Pekalongan 2017: tabel nasional 10,44 vs BPS Jateng (NjQjMg==) 5,05; tahun lain kedua sumber identik -> dianggap salah ketik, dikosongkan
 kab["anomali"] = (kab.kode == "3375") & (kab.tahun == 2017)
 kab.loc[kab.anomali, ["tpt", "tpt_l", "tpt_p"]] = float("nan")
-kab = kab[["kode", "nama", "kode_prov", "nama_prov", "is_kota", "tahun", "tpt", "tpt_l", "tpt_p", "tpt_prov", "tpt_nasional", "anomali"]]
+kab = kab[["kode", "nama", "kode_prov", "nama_prov", "is_kota", "tahun", "tpt", "tpt_l", "tpt_p", "tpt_prov", "tpt_prov_induk", "tpt_nasional", "tpt_median_sejenis", "anomali"]]
 kab.sort_values(["kode", "tahun"]).to_csv(os.path.join(OUT, "kabkota_tpt_2017_2025.csv"), index=False)
 
-g = kab.assign(atas_prov=kab.tpt > kab.tpt_prov, atas_nas=kab.tpt > kab.tpt_nasional).groupby(
+ada = kab.tpt.notna()  # perbandingan dengan NaN harus dihitung "tidak ada data", bukan "di bawah"
+g = kab.assign(atas_prov=ada & (kab.tpt > kab.tpt_prov), atas_nas=ada & (kab.tpt > kab.tpt_nasional),
+               atas_sejenis=ada & (kab.tpt > kab.tpt_median_sejenis)).groupby(
     ["kode", "nama", "kode_prov", "nama_prov", "is_kota"])
 agg = g.agg(n_tahun=("tpt", "count"), tahun_atas_prov=("atas_prov", "sum"),
-            tahun_atas_nasional=("atas_nas", "sum"), rata_tpt=("tpt", "mean"), rata_prov=("tpt_prov", "mean")).reset_index()
+            tahun_atas_nasional=("atas_nas", "sum"), tahun_atas_sejenis=("atas_sejenis", "sum"),
+            rata_tpt=("tpt", "mean"), rata_prov=("tpt_prov", "mean")).reset_index()
 agg["rata_selisih_prov"] = (agg.rata_tpt - agg.rata_prov).round(2)
 agg["rata_tpt"] = agg.rata_tpt.round(2)
+# Persisten = di atas pembanding di SEMUA tahun yang ada datanya (minimal 8 dari 9 tahun)
 agg["persisten_tinggi"] = (agg.tahun_atas_nasional == agg.n_tahun) & (agg.n_tahun >= 8)
+agg["persisten_sejenis"] = (agg.tahun_atas_sejenis == agg.n_tahun) & (agg.n_tahun >= 8)
+agg["persisten_ganda"] = agg.persisten_tinggi & agg.persisten_sejenis
 agg.drop(columns="rata_prov").sort_values(["tahun_atas_nasional", "rata_tpt"], ascending=False).to_csv(
     os.path.join(OUT, "kabkota_jejak_2017_2025.csv"), index=False)
 
@@ -64,4 +79,7 @@ agg.drop(columns="rata_prov").sort_values(["tahun_atas_nasional", "rata_tpt"], a
 assert kab.kode.nunique() == 514, kab.kode.nunique()
 assert not kab.duplicated(["kode", "tahun"]).any() and nas.notna().all()
 assert abs(kab.query("nama == 'Cilacap' and tahun == 2025").tpt.iloc[0] - 7.40) < 0.01
-print("kab/kota:", kab.kode.nunique(), "| baris:", len(kab), "| persisten tinggi:", int(agg.persisten_tinggi.sum()))
+for c in ["persisten_tinggi", "persisten_sejenis", "persisten_ganda"]:
+    s = agg[agg[c]]
+    print(f"{c}: {len(s)} (kota {int(s.is_kota.sum())}, kabupaten {int((~s.is_kota).sum())})")
+print("kab/kota:", kab.kode.nunique(), "| baris:", len(kab), "| tpt_prov dari induk:", int(kab.tpt_prov_induk.sum()))

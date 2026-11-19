@@ -1,7 +1,7 @@
 """
 Siapkan paket CSV siap-Tableau (satu file per kelompok visual) di Processed_Dataset/tableau/.
 
-Pakai: python scripts/siapkan_tableau.py   (jalankan setelah analisis_lanjutan_v5.py, olah_kabkota_nasional.py, analisis_kembaran_v6.py)
+Pakai: python scripts/siapkan_tableau.py   (jalankan setelah analisis_lanjutan_v5.py, olah_kabkota_nasional.py, analisis_pembanding_v6.py, uji_forecast_kabkota_nasional.py)
 """
 import os
 import pandas as pd
@@ -44,14 +44,17 @@ TILE = {"ACEH": (0, 0), "SUMATERA UTARA": (1, 1), "RIAU": (2, 1), "KEP. RIAU": (
 assert set(TILE) == set(b.wilayah) and len(set(TILE.values())) == len(TILE)
 b["tile_x"] = b.wilayah.map(lambda w: TILE[w][0])
 b["tile_y"] = b.wilayah.map(lambda w: TILE[w][1])
-k = pd.read_csv(P("v6", "kembaran_provinsi.csv"))
-kw = k.pivot(index="provinsi", columns="urutan", values="kembaran").add_prefix("kembaran_")
-b = b.join(kw, on="wilayah")  # 6 provinsi Papua baru tidak punya data 2018 -> kosong
+k = pd.read_csv(P("v6", "pembanding_provinsi.csv"))
+kw = k.pivot(index="provinsi", columns="urutan", values="pembanding").add_prefix("pembanding_")
+b = b.join(kw, on="wilayah")
+# Papua & Papua Barat (dimekarkan 2022) + 4 provinsi baru tidak sebanding 2018 vs 2025 -> tidak punya pembanding
+b["pembanding_tersedia"] = b.pembanding_1.notna()
 b.to_csv(os.path.join(OUT, "t3_provinsi_2025.csv"), index=False)
 
-# 4. Kembaran provinsi + 5. kab/kota (nama provinsi diseragamkan dengan t3)
+# 4. Provinsi pembanding + 5. kab/kota + 7. uji forecast (nama provinsi diseragamkan dengan t3)
 SAMA = {"KEPULAUAN RIAU": "KEP. RIAU", "D I YOGYAKARTA": "DI YOGYAKARTA"}
-for src, dst in [("kembaran_provinsi.csv", "t4_kembaran.csv"), ("kembaran_uji.csv", "t4_kembaran_uji.csv"),
+for src, dst in [("pembanding_provinsi.csv", "t4_pembanding.csv"), ("pembanding_uji.csv", "t4_pembanding_uji.csv"),
+                 ("uji_forecast_kabkota_nasional.csv", "t7_uji_forecast_kabkota.csv"),
                  ("kabkota_tpt_2017_2025.csv", "t5_kabkota_tren.csv"), ("kabkota_jejak_2017_2025.csv", "t5_kabkota_jejak.csv")]:
     d = pd.read_csv(P("v6", src), dtype={"kode": str, "kode_prov": str})
     if "nama_prov" in d:

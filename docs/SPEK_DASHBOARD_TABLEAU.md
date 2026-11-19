@@ -13,19 +13,22 @@ Semua visual dibuat tim di Tableau (FAQ 9). Dokumen ini hanya daftar data, formu
 | `t1_jenjang_tren.csv` | indikator × jenjang × tahun (2015–2025) | Dumbbell, tren, KPI Hal. 1 |
 | `t2_jenjang_sektor_2025.csv` | sektor × jenjang | Heatmap Hal. 1 |
 | `t3_provinsi_2025.csv` | 38 provinsi | Peta berbalik, penimbang, kuadran, narasi |
-| `t4_kembaran.csv` | provinsi × 3 kembaran | Dumbbell kembaran, kartu target |
-| `t4_kembaran_uji.csv` | hasil uji | Kartu "kenapa bisa dipercaya" |
+| `t4_pembanding.csv` | provinsi × 3 pembanding (32 provinsi) | Dumbbell perubahan 2018→2025 berdampingan |
+| `t4_pembanding_uji.csv` | hasil uji | Kartu metode (termasuk keterbatasan) |
 | `t5_kabkota_tren.csv` | 514 kab/kota × 2017–2025 | Heatmap jejak kab/kota |
 | `t5_kabkota_jejak.csv` | 514 kab/kota | Daftar persisten, KPI |
 | `t6_transisi_2018_2025.csv` | 32 provinsi | Panah kuadran 2018 → 2025 (opsional) |
+| `t7_uji_forecast_kabkota.csv` | tahun target 2021–2025 + RATA2 | Kartu metode sheet I |
 
 Relasi (Data Source → Relationships):
-- `t3.wilayah` = `t4.provinsi`
+- `t3.wilayah` = `t4_pembanding.provinsi`
 - `t3.wilayah` = `t5_kabkota_jejak.nama_prov` dan `t5_kabkota_tren.nama_prov`
 
 Catatan data yang wajib ditulis di dashboard:
 - `t1` jenjang "SD" = tamat SD ke bawah.
 - `t5`: Kota Pekalongan 2017 dikosongkan (anomali sumber), Lombok Utara 2018 tidak tersedia di BPS.
+- `t5`: kab/kota di 4 provinsi Papua baru memakai TPT provinsi induk sebelum 2024 (`tpt_prov_induk` = TRUE) → label ESTIMASI di tooltip.
+- `t3`/`t4`: urbanisasi 2018 di pembanding = interpolasi proyeksi (ESTIMASI). Kemiskinan = periode Maret (2018 dan 2025).
 
 ---
 
@@ -40,6 +43,7 @@ Catatan data yang wajib ditulis di dashboard:
 | `W Setengah` | Float 0–1, langkah 0,05 | slider | 0,25 |
 | `W Informal` | Float 0–1, langkah 0,05 | slider | 0,25 |
 | `Langkah Cerita` | Integer 1–4 | tombol/slider | 1 |
+| `Pembanding Jejak` | String, list | `Nasional`, `Sesama kota/kabupaten` | `Sesama kota/kabupaten` |
 
 Tambahkan **Parameter Action**: klik tile provinsi di peta mana pun → set `Pilih Provinsi` = `wilayah`.
 
@@ -55,19 +59,25 @@ Tambahkan **Parameter Action**: klik tile provinsi di peta mana pun → set `Pil
 [Terpilih]        = [wilayah] = [Pilih Provinsi]
 
 // Penimbang: skor & ranking dinamis (sama dengan Monte Carlo di skrip v5, 4 komponen min-max)
-[Skor Dinamis]    = 100 * ([W TPT]*[z_tpt] + [W NEET]*[z_neet] + [W Setengah]*[z_tsp] + [W Informal]*[z_informal])
-                    / ([W TPT] + [W NEET] + [W Setengah] + [W Informal])
+[Total Bobot]     = [W TPT] + [W NEET] + [W Setengah] + [W Informal]
+[Skor Dinamis]    = IF [Total Bobot] = 0 THEN NULL     // semua slider 0 -> tampilkan pesan "isi minimal satu bobot"
+                    ELSE 100 * ([W TPT]*[z_tpt] + [W NEET]*[z_neet] + [W Setengah]*[z_tsp] + [W Informal]*[z_informal])
+                         / [Total Bobot] END
 [Rank Dinamis]    = RANK(SUM([Skor Dinamis]), 'desc')          // compute using: wilayah
-[Prioritas Tetap] = WINDOW_SUM(IIF([Rank Dinamis] <= 10 AND MIN([prob_top10]) >= 0.9, 1, 0))
-                    // tampilkan "Prioritas stabil: x provinsi" (provinsi dengan peluang ≥90% di 1.000 skenario)
+[Prioritas Stabil] = [prob_top10] >= 0.9
+                    // STATIS dari Monte Carlo 1.000 skenario, TIDAK ikut slider. Tampilkan sebagai penanda (★) di bar
+                    // dan teks tetap: "3 provinsi masuk 10 terburuk di ≥90% skenario: Aceh, Maluku, Maluku Utara".
+                    // Jangan dicampur dengan [Rank Dinamis]: slider = eksplorasi juri, Monte Carlo = jawaban tim.
 
-// Kembaran: peran tiap tile terhadap provinsi terpilih
-[K1 Terpilih]     = { FIXED : MAX(IF [wilayah] = [Pilih Provinsi] THEN [kembaran_1] END) }
-[K2 Terpilih]     = { FIXED : MAX(IF [wilayah] = [Pilih Provinsi] THEN [kembaran_2] END) }
-[K3 Terpilih]     = { FIXED : MAX(IF [wilayah] = [Pilih Provinsi] THEN [kembaran_3] END) }
-[Peran Kembaran]  = IF [wilayah] = [Pilih Provinsi] THEN "Terpilih"
-                    ELSEIF [wilayah] = [K1 Terpilih] OR [wilayah] = [K2 Terpilih] OR [wilayah] = [K3 Terpilih] THEN "Kembaran"
+// Pembanding: peran tiap tile terhadap provinsi terpilih
+[P1 Terpilih]     = { FIXED : MAX(IF [wilayah] = [Pilih Provinsi] THEN [pembanding_1] END) }
+[P2 Terpilih]     = { FIXED : MAX(IF [wilayah] = [Pilih Provinsi] THEN [pembanding_2] END) }
+[P3 Terpilih]     = { FIXED : MAX(IF [wilayah] = [Pilih Provinsi] THEN [pembanding_3] END) }
+[Peran Pembanding]= IF [wilayah] = [Pilih Provinsi] THEN "Terpilih"
+                    ELSEIF [wilayah] = [P1 Terpilih] OR [wilayah] = [P2 Terpilih] OR [wilayah] = [P3 Terpilih] THEN "Pembanding"
                     ELSE "Lain" END
+[Pesan Pembanding]= IF [Pilih Provinsi] <> "Indonesia" AND ISNULL([P1 Terpilih])
+                    THEN "Pembanding tidak tersedia: wilayah provinsi ini berubah karena pemekaran Papua 2022, data 2018 tidak sebanding." END
 
 // Narasi dinamis (pengganti Smart Narrative)
 [Narasi Provinsi] = IF ISNULL([Pilih Provinsi]) OR [Pilih Provinsi] = "Indonesia"
@@ -76,9 +86,10 @@ Tambahkan **Parameter Action**: klik tile provinsi di peta mana pun → set `Pil
                          + STR([rank_ktl]) + ". Tipe: " + [kuadran] + "." END
 
 // Kab/kota: hanya provinsi terpilih; default = semua kab/kota persisten tinggi
-[Tampil KabKota]  = IF [Pilih Provinsi] = "Indonesia" THEN [persisten_tinggi] ELSE [nama_prov] = [Pilih Provinsi] END
+[Tampil KabKota]  = IF [Pilih Provinsi] = "Indonesia" THEN [persisten_ganda] ELSE [nama_prov] = [Pilih Provinsi] END
+[Acuan Tahun]     = IF [Pembanding Jejak] = "Nasional" THEN [tpt_nasional] ELSE [tpt_median_sejenis] END
 [Status Tahun]    = IF ISNULL([tpt]) THEN "Tidak ada data"
-                    ELSEIF [tpt] > [tpt_nasional] THEN "Di atas nasional" ELSE "Di bawah nasional" END
+                    ELSEIF [tpt] > [Acuan Tahun] THEN "Di atas acuan" ELSE "Di bawah acuan" END
 ```
 
 ---
@@ -142,11 +153,11 @@ y=110  ├───────────────────────�
        │ warna = [Rank Peta], tepi tebal = [Terpilih]    │ x = tidak_bekerja, y = ktl,   │
        │ w=1150                                          │ warna = kuadran, garis median │
 y=540  ├──────────────────────┬─────────────────────────┼─────────────────────────────┤
-       │ G. PENIMBANG          │ H. KEMBARAN PROVINSI     │ I. JEJAK KAB/KOTA 2017–2025  │ h=500
+       │ G. PENIMBANG          │ H. PROVINSI PEMBANDING   │ I. JEJAK KAB/KOTA 2017–2025  │ h=500
        │ 4 slider bobot        │ mini tile map [Peran     │ heatmap kab/kota × tahun,    │
-       │ + bar ranking dinamis │ Kembaran] + dumbbell     │ warna = [Status Tahun],      │
+       │ + bar ranking dinamis │ Pembanding] + dumbbell   │ warna = [Status Tahun],      │
        │ + pita p05–p95        │ informal 2018→2025       │ filter [Tampil KabKota]      │
-       │ + "prioritas stabil"  │ + kartu target           │ + KPI 81 kab/kota persisten  │
+       │ + ★ prioritas stabil  │ + kartu metode (no target)│ + KPI 66 persisten ganda    │
        │ w=560                 │ w=590                    │ w=750                        │
 y=1040 ├──────────────────────┴─────────────────────────┴─────────────────────────────┤
        │ Rekomendasi per kuadran (1 baris) · Sumber BPS · Catatan metode                │ h=60
@@ -157,28 +168,28 @@ y=1040 ├──────────────────────┴�
 |---|---|---|---|
 | E | `t3`, Columns = `tile_x`, Rows = `tile_y` (reversed), mark Square, label singkatan, warna `[Rank Peta]` | "Peta pengangguran dan peta kerja tidak layak hampir berkebalikan: NTB peringkat 34 → 2, DKI 7 → 38" | Tombol `Mode Peta`; klik = set `Pilih Provinsi` |
 | F | `t3` scatter + reference line median | "Empat tipe masalah: rendahnya pengangguran tidak berarti kerjanya layak" | Klik = set `Pilih Provinsi` |
-| G | `t3` bar `[Rank Dinamis]`, Gantt `rank_p05`–`rank_p95` | "Geser bobotnya: Aceh dan Maluku tetap prioritas di 100% dari 1.000 skenario" | 4 slider |
-| H | `t3` tile mini warna `[Peran Kembaran]`; `t4` filter `provinsi = [Pilih Provinsi]`, dumbbell awal → akhir | "[Provinsi] bisa belajar dari [target_informal_dari]: informal turun [x] poin" | Ikut `Pilih Provinsi` |
-| I | `t5_kabkota_tren`, Rows = nama (urut `rata_tpt`), Columns = tahun, warna `[Status Tahun]`, filter `[Tampil KabKota]` | "81 kab/kota selalu di atas TPT nasional 9 tahun berturut-turut; 47 di antaranya kota" | Ikut `Pilih Provinsi` |
+| G | `t3` bar `[Rank Dinamis]`, Gantt `rank_p05`–`rank_p95`, ★ = `[Prioritas Stabil]` | "Geser bobotnya: Aceh dan Maluku tetap prioritas di 100% dari 1.000 skenario" | 4 slider; pesan jika total bobot 0 |
+| H | `t3` tile mini warna `[Peran Pembanding]`; `t4_pembanding` filter `provinsi = [Pilih Provinsi]`, dumbbell `awal_informal` → `akhir_informal` untuk provinsi + 3 pembanding | "[Provinsi] dibandingkan 3 provinsi yang kondisinya mirip pada 2018" (tanpa angka target) | Ikut `Pilih Provinsi`; `[Pesan Pembanding]` bila kosong |
+| I | `t5_kabkota_tren`, Rows = nama (urut `rata_tpt`), Columns = tahun, warna `[Status Tahun]`, filter `[Tampil KabKota]` | "66 kab/kota selalu di atas TPT nasional dan di atas sesamanya selama 9 tahun" | Ikut `Pilih Provinsi`; tombol `Pembanding Jejak` |
 
-Kartu metode di H (wajib, dari `t4_kembaran_uji.csv`):
-> "Kembaran dipilih dengan kNN pada 7 indikator 2018. Stabil 82% saat satu indikator dibuang. Perubahan 2018–2025 kembaran lebih mirip daripada provinsi acak (p = 0,001)."
+Kartu metode di H (wajib, dari `t4_pembanding_uji.csv`):
+> "Pembanding = 3 provinsi paling mirip pada 2018 (kNN, 7 indikator BPS). Stabil 81% saat satu indikator dibuang. Ini alat banding, bukan ramalan: perubahan pembanding tidak lebih akurat daripada tren umum 'yang tinggi cenderung turun', jadi kami tidak memasang target."
 
-Kartu metode di I:
-> "Kami menguji 4 model ML untuk memprediksi TPT kab/kota; tidak ada yang lebih akurat dari tebakan 'sama seperti tahun lalu'. Pengangguran kab/kota bersifat struktural."
+Kartu metode di I (dari `t7_uji_forecast_kabkota.csv`, baris RATA2):
+> "Kami menguji regresi linear dan gradient boosting untuk menebak posisi TPT 514 kab/kota tahun depan (2021–2025). Keduanya tidak lebih baik dari tebakan 'sama seperti tahun lalu' (galat 0,51 vs 0,51 poin), karena urutan kab/kota hampir tidak berubah (ρ = 0,91). Pengangguran kab/kota bersifat struktural."
 
 Mode cerita (bookmark pengganti di Tableau = **Dynamic Zone Visibility**): buat field boolean per langkah (`[Langkah Cerita] = 1`, dst.) untuk menampilkan kotak teks sorotan di atas visual. Tetap 1 halaman (FAQ 36).
 
 ---
 
 ## 7. Status PDF default (yang dilihat juri di PDF)
-- `Pilih Provinsi` = `Indonesia` → sheet I menampilkan 81 kab/kota persisten nasional, narasi berisi ajakan klik.
+- `Pilih Provinsi` = `Indonesia` → sheet I menampilkan 66 kab/kota persisten ganda, narasi berisi ajakan klik.
 - `Mode Peta` = `Kerja tidak layak` (paradoks langsung terlihat), bobot semua 0,25.
-- Sheet H butuh satu provinsi: di PDF tampilkan contoh statis NTB (filter khusus sheet H saat ekspor).
+- Sheet H butuh satu provinsi: di PDF tampilkan contoh statis NTB (filter khusus sheet H saat ekspor) **dengan judul "Contoh: NTB"**, supaya tidak bertentangan dengan narasi yang masih "Indonesia".
 
 ## 8. Checklist sebelum ekspor
 - [ ] Semua angka di judul cocok dengan CSV
-- [ ] Estimasi diberi tanda (urbanisasi 2018 di kembaran = interpolasi proyeksi)
+- [ ] Estimasi diberi tanda (urbanisasi 2018 di pembanding = interpolasi proyeksi; TPT provinsi induk untuk Papua baru sebelum 2024)
 - [ ] Sumber BPS di tooltip setiap sheet
 - [ ] Watermark terbaru, tidak diubah
 - [ ] Publish ke Tableau Public, link "Anyone with the link" dimasukkan ke PDF (FAQ 37)
