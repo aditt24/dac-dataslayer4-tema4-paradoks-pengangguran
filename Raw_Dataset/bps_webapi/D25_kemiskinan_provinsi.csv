@@ -1,0 +1,2350 @@
+wilayah_kategori,turvar,tahun,periode,nilai
+ACEH,Perkotaan,2015,Semester 1 (Maret),11.13
+ACEH,Perkotaan,2015,Semester 2 (September),10.92
+ACEH,Perdesaan,2015,Semester 1 (Maret),19.44
+ACEH,Perdesaan,2015,Semester 2 (September),19.56
+ACEH,Jumlah,2015,Semester 1 (Maret),17.08
+ACEH,Jumlah,2015,Semester 2 (September),17.11
+SUMATERA UTARA,Perkotaan,2015,Semester 1 (Maret),10.16
+SUMATERA UTARA,Perkotaan,2015,Semester 2 (September),10.51
+SUMATERA UTARA,Perdesaan,2015,Semester 1 (Maret),10.89
+SUMATERA UTARA,Perdesaan,2015,Semester 2 (September),11.06
+SUMATERA UTARA,Jumlah,2015,Semester 1 (Maret),10.53
+SUMATERA UTARA,Jumlah,2015,Semester 2 (September),10.79
+SUMATERA BARAT,Perkotaan,2015,Semester 1 (Maret),5.73
+SUMATERA BARAT,Perkotaan,2015,Semester 2 (September),5.73
+SUMATERA BARAT,Perdesaan,2015,Semester 1 (Maret),8.35
+SUMATERA BARAT,Perdesaan,2015,Semester 2 (September),7.35
+SUMATERA BARAT,Jumlah,2015,Semester 1 (Maret),7.31
+SUMATERA BARAT,Jumlah,2015,Semester 2 (September),6.71
+RIAU,Perkotaan,2015,Semester 1 (Maret),6.79
+RIAU,Perkotaan,2015,Semester 2 (September),7.05
+RIAU,Perdesaan,2015,Semester 1 (Maret),9.46
+RIAU,Perdesaan,2015,Semester 2 (September),9.95
+RIAU,Jumlah,2015,Semester 1 (Maret),8.42
+RIAU,Jumlah,2015,Semester 2 (September),8.82
+JAMBI,Perkotaan,2015,Semester 1 (Maret),11.6
+JAMBI,Perkotaan,2015,Semester 2 (September),12.11
+JAMBI,Perdesaan,2015,Semester 1 (Maret),7.67
+JAMBI,Perdesaan,2015,Semester 2 (September),7.82
+JAMBI,Jumlah,2015,Semester 1 (Maret),8.86
+JAMBI,Jumlah,2015,Semester 2 (September),9.12
+SUMATERA SELATAN,Perkotaan,2015,Semester 1 (Maret),13.62
+SUMATERA SELATAN,Perkotaan,2015,Semester 2 (September),12.51
+SUMATERA SELATAN,Perdesaan,2015,Semester 1 (Maret),14.6
+SUMATERA SELATAN,Perdesaan,2015,Semester 2 (September),14.47
+SUMATERA SELATAN,Jumlah,2015,Semester 1 (Maret),14.25
+SUMATERA SELATAN,Jumlah,2015,Semester 2 (September),13.77
+BENGKULU,Perkotaan,2015,Semester 1 (Maret),17.79
+BENGKULU,Perkotaan,2015,Semester 2 (September),18.15
+BENGKULU,Perdesaan,2015,Semester 1 (Maret),17.93
+BENGKULU,Perdesaan,2015,Semester 2 (September),16.71
+BENGKULU,Jumlah,2015,Semester 1 (Maret),17.88
+BENGKULU,Jumlah,2015,Semester 2 (September),17.16
+LAMPUNG,Perkotaan,2015,Semester 1 (Maret),10.94
+LAMPUNG,Perkotaan,2015,Semester 2 (September),9.25
+LAMPUNG,Perdesaan,2015,Semester 1 (Maret),15.56
+LAMPUNG,Perdesaan,2015,Semester 2 (September),15.05
+LAMPUNG,Jumlah,2015,Semester 1 (Maret),14.35
+LAMPUNG,Jumlah,2015,Semester 2 (September),13.53
+KEP. BANGKA BELITUNG,Perkotaan,2015,Semester 1 (Maret),2.98
+KEP. BANGKA BELITUNG,Perkotaan,2015,Semester 2 (September),2.77
+KEP. BANGKA BELITUNG,Perdesaan,2015,Semester 1 (Maret),7.75
+KEP. BANGKA BELITUNG,Perdesaan,2015,Semester 2 (September),6.83
+KEP. BANGKA BELITUNG,Jumlah,2015,Semester 1 (Maret),5.4
+KEP. BANGKA BELITUNG,Jumlah,2015,Semester 2 (September),4.83
+KEP. RIAU,Perkotaan,2015,Semester 1 (Maret),5.46
+KEP. RIAU,Perkotaan,2015,Semester 2 (September),5
+KEP. RIAU,Perdesaan,2015,Semester 1 (Maret),10.23
+KEP. RIAU,Perdesaan,2015,Semester 2 (September),9.75
+KEP. RIAU,Jumlah,2015,Semester 1 (Maret),6.24
+KEP. RIAU,Jumlah,2015,Semester 2 (September),5.78
+DKI JAKARTA,Perkotaan,2015,Semester 1 (Maret),3.93
+DKI JAKARTA,Perkotaan,2015,Semester 2 (September),3.61
+DKI JAKARTA,Jumlah,2015,Semester 1 (Maret),3.93
+DKI JAKARTA,Jumlah,2015,Semester 2 (September),3.61
+JAWA BARAT,Perkotaan,2015,Semester 1 (Maret),8.43
+JAWA BARAT,Perkotaan,2015,Semester 2 (September),8.58
+JAWA BARAT,Perdesaan,2015,Semester 1 (Maret),11.82
+JAWA BARAT,Perdesaan,2015,Semester 2 (September),11.61
+JAWA BARAT,Jumlah,2015,Semester 1 (Maret),9.53
+JAWA BARAT,Jumlah,2015,Semester 2 (September),9.57
+JAWA TENGAH,Perkotaan,2015,Semester 1 (Maret),11.85
+JAWA TENGAH,Perkotaan,2015,Semester 2 (September),11.5
+JAWA TENGAH,Perdesaan,2015,Semester 1 (Maret),15.05
+JAWA TENGAH,Perdesaan,2015,Semester 2 (September),14.86
+JAWA TENGAH,Jumlah,2015,Semester 1 (Maret),13.58
+JAWA TENGAH,Jumlah,2015,Semester 2 (September),13.32
+DI YOGYAKARTA,Perkotaan,2015,Semester 1 (Maret),13.43
+DI YOGYAKARTA,Perkotaan,2015,Semester 2 (September),11.93
+DI YOGYAKARTA,Perdesaan,2015,Semester 1 (Maret),17.85
+DI YOGYAKARTA,Perdesaan,2015,Semester 2 (September),15.62
+DI YOGYAKARTA,Jumlah,2015,Semester 1 (Maret),14.91
+DI YOGYAKARTA,Jumlah,2015,Semester 2 (September),13.16
+JAWA TIMUR,Perkotaan,2015,Semester 1 (Maret),8.19
+JAWA TIMUR,Perkotaan,2015,Semester 2 (September),8.41
+JAWA TIMUR,Perdesaan,2015,Semester 1 (Maret),16.18
+JAWA TIMUR,Perdesaan,2015,Semester 2 (September),15.84
+JAWA TIMUR,Jumlah,2015,Semester 1 (Maret),12.34
+JAWA TIMUR,Jumlah,2015,Semester 2 (September),12.28
+BANTEN,Perkotaan,2015,Semester 1 (Maret),5.03
+BANTEN,Perkotaan,2015,Semester 2 (September),5.11
+BANTEN,Perdesaan,2015,Semester 1 (Maret),7.78
+BANTEN,Perdesaan,2015,Semester 2 (September),7.12
+BANTEN,Jumlah,2015,Semester 1 (Maret),5.9
+BANTEN,Jumlah,2015,Semester 2 (September),5.75
+BALI,Perkotaan,2015,Semester 1 (Maret),4.31
+BALI,Perkotaan,2015,Semester 2 (September),4.52
+BALI,Perdesaan,2015,Semester 1 (Maret),5.44
+BALI,Perdesaan,2015,Semester 2 (September),6.42
+BALI,Jumlah,2015,Semester 1 (Maret),4.74
+BALI,Jumlah,2015,Semester 2 (September),5.25
+NUSA TENGGARA BARAT,Perkotaan,2015,Semester 1 (Maret),19.24
+NUSA TENGGARA BARAT,Perkotaan,2015,Semester 2 (September),18.4
+NUSA TENGGARA BARAT,Perdesaan,2015,Semester 1 (Maret),15.53
+NUSA TENGGARA BARAT,Perdesaan,2015,Semester 2 (September),15.18
+NUSA TENGGARA BARAT,Jumlah,2015,Semester 1 (Maret),17.1
+NUSA TENGGARA BARAT,Jumlah,2015,Semester 2 (September),16.54
+NUSA TENGGARA TIMUR,Perkotaan,2015,Semester 1 (Maret),11.28
+NUSA TENGGARA TIMUR,Perkotaan,2015,Semester 2 (September),9.41
+NUSA TENGGARA TIMUR,Perdesaan,2015,Semester 1 (Maret),25.46
+NUSA TENGGARA TIMUR,Perdesaan,2015,Semester 2 (September),25.89
+NUSA TENGGARA TIMUR,Jumlah,2015,Semester 1 (Maret),22.61
+NUSA TENGGARA TIMUR,Jumlah,2015,Semester 2 (September),22.58
+KALIMANTAN BARAT,Perkotaan,2015,Semester 1 (Maret),5.62
+KALIMANTAN BARAT,Perkotaan,2015,Semester 2 (September),6
+KALIMANTAN BARAT,Perdesaan,2015,Semester 1 (Maret),9.09
+KALIMANTAN BARAT,Perdesaan,2015,Semester 2 (September),9.51
+KALIMANTAN BARAT,Jumlah,2015,Semester 1 (Maret),8.03
+KALIMANTAN BARAT,Jumlah,2015,Semester 2 (September),8.44
+KALIMANTAN TENGAH,Perkotaan,2015,Semester 1 (Maret),4.86
+KALIMANTAN TENGAH,Perkotaan,2015,Semester 2 (September),5.68
+KALIMANTAN TENGAH,Perdesaan,2015,Semester 1 (Maret),6.5
+KALIMANTAN TENGAH,Perdesaan,2015,Semester 2 (September),6.02
+KALIMANTAN TENGAH,Jumlah,2015,Semester 1 (Maret),5.94
+KALIMANTAN TENGAH,Jumlah,2015,Semester 2 (September),5.91
+KALIMANTAN SELATAN,Perkotaan,2015,Semester 1 (Maret),3.91
+KALIMANTAN SELATAN,Perkotaan,2015,Semester 2 (September),4.27
+KALIMANTAN SELATAN,Perdesaan,2015,Semester 1 (Maret),5.78
+KALIMANTAN SELATAN,Perdesaan,2015,Semester 2 (September),5.06
+KALIMANTAN SELATAN,Jumlah,2015,Semester 1 (Maret),4.99
+KALIMANTAN SELATAN,Jumlah,2015,Semester 2 (September),4.72
+KALIMANTAN TIMUR,Perkotaan,2015,Semester 1 (Maret),4.03
+KALIMANTAN TIMUR,Perkotaan,2015,Semester 2 (September),3.73
+KALIMANTAN TIMUR,Perdesaan,2015,Semester 1 (Maret),9.96
+KALIMANTAN TIMUR,Perdesaan,2015,Semester 2 (September),10.13
+KALIMANTAN TIMUR,Jumlah,2015,Semester 1 (Maret),6.23
+KALIMANTAN TIMUR,Jumlah,2015,Semester 2 (September),6.1
+KALIMANTAN UTARA,Perkotaan,2015,Semester 1 (Maret),3.67
+KALIMANTAN UTARA,Perkotaan,2015,Semester 2 (September),3.68
+KALIMANTAN UTARA,Perdesaan,2015,Semester 1 (Maret),9.49
+KALIMANTAN UTARA,Perdesaan,2015,Semester 2 (September),9.67
+KALIMANTAN UTARA,Jumlah,2015,Semester 1 (Maret),6.24
+KALIMANTAN UTARA,Jumlah,2015,Semester 2 (September),6.32
+SULAWESI UTARA,Perkotaan,2015,Semester 1 (Maret),5.52
+SULAWESI UTARA,Perkotaan,2015,Semester 2 (September),5.26
+SULAWESI UTARA,Perdesaan,2015,Semester 1 (Maret),11.27
+SULAWESI UTARA,Perdesaan,2015,Semester 2 (September),12.1
+SULAWESI UTARA,Jumlah,2015,Semester 1 (Maret),8.65
+SULAWESI UTARA,Jumlah,2015,Semester 2 (September),8.98
+SULAWESI TENGAH,Perkotaan,2015,Semester 1 (Maret),10.93
+SULAWESI TENGAH,Perkotaan,2015,Semester 2 (September),11.06
+SULAWESI TENGAH,Perdesaan,2015,Semester 1 (Maret),15.9
+SULAWESI TENGAH,Perdesaan,2015,Semester 2 (September),15.07
+SULAWESI TENGAH,Jumlah,2015,Semester 1 (Maret),14.66
+SULAWESI TENGAH,Jumlah,2015,Semester 2 (September),14.07
+SULAWESI SELATAN,Perkotaan,2015,Semester 1 (Maret),4.61
+SULAWESI SELATAN,Perkotaan,2015,Semester 2 (September),4.93
+SULAWESI SELATAN,Perdesaan,2015,Semester 1 (Maret),12.23
+SULAWESI SELATAN,Perdesaan,2015,Semester 2 (September),13.22
+SULAWESI SELATAN,Jumlah,2015,Semester 1 (Maret),9.39
+SULAWESI SELATAN,Jumlah,2015,Semester 2 (September),10.12
+SULAWESI TENGGARA,Perkotaan,2015,Semester 1 (Maret),7.24
+SULAWESI TENGGARA,Perkotaan,2015,Semester 2 (September),7.84
+SULAWESI TENGGARA,Perdesaan,2015,Semester 1 (Maret),15.19
+SULAWESI TENGGARA,Perdesaan,2015,Semester 2 (September),16.12
+SULAWESI TENGGARA,Jumlah,2015,Semester 1 (Maret),12.9
+SULAWESI TENGGARA,Jumlah,2015,Semester 2 (September),13.74
+GORONTALO,Perkotaan,2015,Semester 1 (Maret),6.48
+GORONTALO,Perkotaan,2015,Semester 2 (September),6.84
+GORONTALO,Perdesaan,2015,Semester 1 (Maret),24.62
+GORONTALO,Perdesaan,2015,Semester 2 (September),24.17
+GORONTALO,Jumlah,2015,Semester 1 (Maret),18.32
+GORONTALO,Jumlah,2015,Semester 2 (September),18.16
+SULAWESI BARAT,Perkotaan,2015,Semester 1 (Maret),10.52
+SULAWESI BARAT,Perkotaan,2015,Semester 2 (September),8.69
+SULAWESI BARAT,Perdesaan,2015,Semester 1 (Maret),12.87
+SULAWESI BARAT,Perdesaan,2015,Semester 2 (September),12.7
+SULAWESI BARAT,Jumlah,2015,Semester 1 (Maret),12.4
+SULAWESI BARAT,Jumlah,2015,Semester 2 (September),11.9
+MALUKU,Perkotaan,2015,Semester 1 (Maret),7.91
+MALUKU,Perkotaan,2015,Semester 2 (September),7.83
+MALUKU,Perdesaan,2015,Semester 1 (Maret),26.9
+MALUKU,Perdesaan,2015,Semester 2 (September),26.7
+MALUKU,Jumlah,2015,Semester 1 (Maret),19.51
+MALUKU,Jumlah,2015,Semester 2 (September),19.36
+MALUKU UTARA,Perkotaan,2015,Semester 1 (Maret),3.85
+MALUKU UTARA,Perkotaan,2015,Semester 2 (September),2.61
+MALUKU UTARA,Perdesaan,2015,Semester 1 (Maret),7.95
+MALUKU UTARA,Perdesaan,2015,Semester 2 (September),7.57
+MALUKU UTARA,Jumlah,2015,Semester 1 (Maret),6.84
+MALUKU UTARA,Jumlah,2015,Semester 2 (September),6.22
+PAPUA BARAT,Perkotaan,2015,Semester 1 (Maret),5.86
+PAPUA BARAT,Perkotaan,2015,Semester 2 (September),5.68
+PAPUA BARAT,Perdesaan,2015,Semester 1 (Maret),37.97
+PAPUA BARAT,Perdesaan,2015,Semester 2 (September),37.94
+PAPUA BARAT,Jumlah,2015,Semester 1 (Maret),25.82
+PAPUA BARAT,Jumlah,2015,Semester 2 (September),25.73
+PAPUA,Perkotaan,2015,Semester 1 (Maret),4.61
+PAPUA,Perkotaan,2015,Semester 2 (September),3.61
+PAPUA,Perdesaan,2015,Semester 1 (Maret),36.66
+PAPUA,Perdesaan,2015,Semester 2 (September),37.34
+PAPUA,Jumlah,2015,Semester 1 (Maret),28.17
+PAPUA,Jumlah,2015,Semester 2 (September),28.4
+INDONESIA,Perkotaan,2015,Semester 1 (Maret),8.29
+INDONESIA,Perkotaan,2015,Semester 2 (September),8.22
+INDONESIA,Perdesaan,2015,Semester 1 (Maret),14.21
+INDONESIA,Perdesaan,2015,Semester 2 (September),14.09
+INDONESIA,Jumlah,2015,Semester 1 (Maret),11.22
+INDONESIA,Jumlah,2015,Semester 2 (September),11.13
+ACEH,Perkotaan,2016,Semester 1 (Maret),10.82
+ACEH,Perkotaan,2016,Semester 2 (September),10.79
+ACEH,Perdesaan,2016,Semester 1 (Maret),19.15
+ACEH,Perdesaan,2016,Semester 2 (September),18.8
+ACEH,Jumlah,2016,Semester 1 (Maret),16.73
+ACEH,Jumlah,2016,Semester 2 (September),16.43
+SUMATERA UTARA,Perkotaan,2016,Semester 1 (Maret),9.75
+SUMATERA UTARA,Perkotaan,2016,Semester 2 (September),9.69
+SUMATERA UTARA,Perdesaan,2016,Semester 1 (Maret),10.97
+SUMATERA UTARA,Perdesaan,2016,Semester 2 (September),10.86
+SUMATERA UTARA,Jumlah,2016,Semester 1 (Maret),10.35
+SUMATERA UTARA,Jumlah,2016,Semester 2 (September),10.27
+SUMATERA BARAT,Perkotaan,2016,Semester 1 (Maret),5.54
+SUMATERA BARAT,Perkotaan,2016,Semester 2 (September),5.52
+SUMATERA BARAT,Perdesaan,2016,Semester 1 (Maret),8.16
+SUMATERA BARAT,Perdesaan,2016,Semester 2 (September),8.27
+SUMATERA BARAT,Jumlah,2016,Semester 1 (Maret),7.09
+SUMATERA BARAT,Jumlah,2016,Semester 2 (September),7.14
+RIAU,Perkotaan,2016,Semester 1 (Maret),6.4
+RIAU,Perkotaan,2016,Semester 2 (September),6.38
+RIAU,Perdesaan,2016,Semester 1 (Maret),9
+RIAU,Perdesaan,2016,Semester 2 (September),8.51
+RIAU,Jumlah,2016,Semester 1 (Maret),7.98
+RIAU,Jumlah,2016,Semester 2 (September),7.67
+JAMBI,Perkotaan,2016,Semester 1 (Maret),10.86
+JAMBI,Perkotaan,2016,Semester 2 (September),10.73
+JAMBI,Perdesaan,2016,Semester 1 (Maret),7.32
+JAMBI,Perdesaan,2016,Semester 2 (September),7.3
+JAMBI,Jumlah,2016,Semester 1 (Maret),8.41
+JAMBI,Jumlah,2016,Semester 2 (September),8.37
+SUMATERA SELATAN,Perkotaan,2016,Semester 1 (Maret),12.74
+SUMATERA SELATAN,Perkotaan,2016,Semester 2 (September),12.73
+SUMATERA SELATAN,Perdesaan,2016,Semester 1 (Maret),13.99
+SUMATERA SELATAN,Perdesaan,2016,Semester 2 (September),13.77
+SUMATERA SELATAN,Jumlah,2016,Semester 1 (Maret),13.54
+SUMATERA SELATAN,Jumlah,2016,Semester 2 (September),13.39
+BENGKULU,Perkotaan,2016,Semester 1 (Maret),16.19
+BENGKULU,Perkotaan,2016,Semester 2 (September),16.16
+BENGKULU,Perdesaan,2016,Semester 1 (Maret),17.85
+BENGKULU,Perdesaan,2016,Semester 2 (September),17.43
+BENGKULU,Jumlah,2016,Semester 1 (Maret),17.32
+BENGKULU,Jumlah,2016,Semester 2 (September),17.03
+LAMPUNG,Perkotaan,2016,Semester 1 (Maret),10.53
+LAMPUNG,Perkotaan,2016,Semester 2 (September),10.15
+LAMPUNG,Perdesaan,2016,Semester 1 (Maret),15.69
+LAMPUNG,Perdesaan,2016,Semester 2 (September),15.24
+LAMPUNG,Jumlah,2016,Semester 1 (Maret),14.29
+LAMPUNG,Jumlah,2016,Semester 2 (September),13.86
+KEP. BANGKA BELITUNG,Perkotaan,2016,Semester 1 (Maret),2.78
+KEP. BANGKA BELITUNG,Perkotaan,2016,Semester 2 (September),2.67
+KEP. BANGKA BELITUNG,Perdesaan,2016,Semester 1 (Maret),7.72
+KEP. BANGKA BELITUNG,Perdesaan,2016,Semester 2 (September),7.57
+KEP. BANGKA BELITUNG,Jumlah,2016,Semester 1 (Maret),5.22
+KEP. BANGKA BELITUNG,Jumlah,2016,Semester 2 (September),5.04
+KEP. RIAU,Perkotaan,2016,Semester 1 (Maret),5.16
+KEP. RIAU,Perkotaan,2016,Semester 2 (September),4.99
+KEP. RIAU,Perdesaan,2016,Semester 1 (Maret),10.43
+KEP. RIAU,Perdesaan,2016,Semester 2 (September),10.47
+KEP. RIAU,Jumlah,2016,Semester 1 (Maret),5.98
+KEP. RIAU,Jumlah,2016,Semester 2 (September),5.84
+DKI JAKARTA,Perkotaan,2016,Semester 1 (Maret),3.75
+DKI JAKARTA,Perkotaan,2016,Semester 2 (September),3.75
+DKI JAKARTA,Perdesaan,2016,Semester 2 (September),0
+DKI JAKARTA,Jumlah,2016,Semester 1 (Maret),3.75
+DKI JAKARTA,Jumlah,2016,Semester 2 (September),3.75
+JAWA BARAT,Perkotaan,2016,Semester 1 (Maret),7.67
+JAWA BARAT,Perkotaan,2016,Semester 2 (September),7.55
+JAWA BARAT,Perdesaan,2016,Semester 1 (Maret),11.8
+JAWA BARAT,Perdesaan,2016,Semester 2 (September),11.72
+JAWA BARAT,Jumlah,2016,Semester 1 (Maret),8.95
+JAWA BARAT,Jumlah,2016,Semester 2 (September),8.77
+JAWA TENGAH,Perkotaan,2016,Semester 1 (Maret),11.44
+JAWA TENGAH,Perkotaan,2016,Semester 2 (September),11.38
+JAWA TENGAH,Perdesaan,2016,Semester 1 (Maret),14.89
+JAWA TENGAH,Perdesaan,2016,Semester 2 (September),14.88
+JAWA TENGAH,Jumlah,2016,Semester 1 (Maret),13.27
+JAWA TENGAH,Jumlah,2016,Semester 2 (September),13.19
+DI YOGYAKARTA,Perkotaan,2016,Semester 1 (Maret),11.79
+DI YOGYAKARTA,Perkotaan,2016,Semester 2 (September),11.68
+DI YOGYAKARTA,Perdesaan,2016,Semester 1 (Maret),16.63
+DI YOGYAKARTA,Perdesaan,2016,Semester 2 (September),16.27
+DI YOGYAKARTA,Jumlah,2016,Semester 1 (Maret),13.34
+DI YOGYAKARTA,Jumlah,2016,Semester 2 (September),13.1
+JAWA TIMUR,Perkotaan,2016,Semester 1 (Maret),7.94
+JAWA TIMUR,Perkotaan,2016,Semester 2 (September),7.91
+JAWA TIMUR,Perdesaan,2016,Semester 1 (Maret),16.01
+JAWA TIMUR,Perdesaan,2016,Semester 2 (September),15.83
+JAWA TIMUR,Jumlah,2016,Semester 1 (Maret),12.05
+JAWA TIMUR,Jumlah,2016,Semester 2 (September),11.85
+BANTEN,Perkotaan,2016,Semester 1 (Maret),4.51
+BANTEN,Perkotaan,2016,Semester 2 (September),4.49
+BANTEN,Perdesaan,2016,Semester 1 (Maret),7.45
+BANTEN,Perdesaan,2016,Semester 2 (September),7.32
+BANTEN,Jumlah,2016,Semester 1 (Maret),5.42
+BANTEN,Jumlah,2016,Semester 2 (September),5.36
+BALI,Perkotaan,2016,Semester 1 (Maret),3.68
+BALI,Perkotaan,2016,Semester 2 (September),3.53
+BALI,Perdesaan,2016,Semester 1 (Maret),5.23
+BALI,Perdesaan,2016,Semester 2 (September),5.21
+BALI,Jumlah,2016,Semester 1 (Maret),4.25
+BALI,Jumlah,2016,Semester 2 (September),4.15
+NUSA TENGGARA BARAT,Perkotaan,2016,Semester 1 (Maret),18.2
+NUSA TENGGARA BARAT,Perkotaan,2016,Semester 2 (September),17.55
+NUSA TENGGARA BARAT,Perdesaan,2016,Semester 1 (Maret),15.17
+NUSA TENGGARA BARAT,Perdesaan,2016,Semester 2 (September),14.82
+NUSA TENGGARA BARAT,Jumlah,2016,Semester 1 (Maret),16.48
+NUSA TENGGARA BARAT,Jumlah,2016,Semester 2 (September),16.02
+NUSA TENGGARA TIMUR,Perkotaan,2016,Semester 1 (Maret),10.58
+NUSA TENGGARA TIMUR,Perkotaan,2016,Semester 2 (September),10.17
+NUSA TENGGARA TIMUR,Perdesaan,2016,Semester 1 (Maret),25.17
+NUSA TENGGARA TIMUR,Perdesaan,2016,Semester 2 (September),25.19
+NUSA TENGGARA TIMUR,Jumlah,2016,Semester 1 (Maret),22.19
+NUSA TENGGARA TIMUR,Jumlah,2016,Semester 2 (September),22.01
+KALIMANTAN BARAT,Perkotaan,2016,Semester 1 (Maret),5.16
+KALIMANTAN BARAT,Perkotaan,2016,Semester 2 (September),4.97
+KALIMANTAN BARAT,Perdesaan,2016,Semester 1 (Maret),9.11
+KALIMANTAN BARAT,Perdesaan,2016,Semester 2 (September),9.38
+KALIMANTAN BARAT,Jumlah,2016,Semester 1 (Maret),7.87
+KALIMANTAN BARAT,Jumlah,2016,Semester 2 (September),8
+KALIMANTAN TENGAH,Perkotaan,2016,Semester 1 (Maret),4.6
+KALIMANTAN TENGAH,Perkotaan,2016,Semester 2 (September),4.49
+KALIMANTAN TENGAH,Perdesaan,2016,Semester 1 (Maret),6.23
+KALIMANTAN TENGAH,Perdesaan,2016,Semester 2 (September),5.83
+KALIMANTAN TENGAH,Jumlah,2016,Semester 1 (Maret),5.66
+KALIMANTAN TENGAH,Jumlah,2016,Semester 2 (September),5.36
+KALIMANTAN SELATAN,Perkotaan,2016,Semester 1 (Maret),3.48
+KALIMANTAN SELATAN,Perkotaan,2016,Semester 2 (September),3.43
+KALIMANTAN SELATAN,Perdesaan,2016,Semester 1 (Maret),5.89
+KALIMANTAN SELATAN,Perdesaan,2016,Semester 2 (September),5.37
+KALIMANTAN SELATAN,Jumlah,2016,Semester 1 (Maret),4.85
+KALIMANTAN SELATAN,Jumlah,2016,Semester 2 (September),4.52
+KALIMANTAN TIMUR,Perkotaan,2016,Semester 1 (Maret),3.93
+KALIMANTAN TIMUR,Perkotaan,2016,Semester 2 (September),3.86
+KALIMANTAN TIMUR,Perdesaan,2016,Semester 1 (Maret),10.05
+KALIMANTAN TIMUR,Perdesaan,2016,Semester 2 (September),10.15
+KALIMANTAN TIMUR,Jumlah,2016,Semester 1 (Maret),6.11
+KALIMANTAN TIMUR,Jumlah,2016,Semester 2 (September),6
+KALIMANTAN UTARA,Perkotaan,2016,Semester 1 (Maret),3.78
+KALIMANTAN UTARA,Perkotaan,2016,Semester 2 (September),4.5
+KALIMANTAN UTARA,Perdesaan,2016,Semester 1 (Maret),9.47
+KALIMANTAN UTARA,Perdesaan,2016,Semester 2 (September),10.29
+KALIMANTAN UTARA,Jumlah,2016,Semester 1 (Maret),6.23
+KALIMANTAN UTARA,Jumlah,2016,Semester 2 (September),6.99
+SULAWESI UTARA,Perkotaan,2016,Semester 1 (Maret),5.34
+SULAWESI UTARA,Perkotaan,2016,Semester 2 (September),5.22
+SULAWESI UTARA,Perdesaan,2016,Semester 1 (Maret),10.97
+SULAWESI UTARA,Perdesaan,2016,Semester 2 (September),10.82
+SULAWESI UTARA,Jumlah,2016,Semester 1 (Maret),8.34
+SULAWESI UTARA,Jumlah,2016,Semester 2 (September),8.2
+SULAWESI TENGAH,Perkotaan,2016,Semester 1 (Maret),10.18
+SULAWESI TENGAH,Perkotaan,2016,Semester 2 (September),10.07
+SULAWESI TENGAH,Perdesaan,2016,Semester 1 (Maret),15.91
+SULAWESI TENGAH,Perdesaan,2016,Semester 2 (September),15.48
+SULAWESI TENGAH,Jumlah,2016,Semester 1 (Maret),14.45
+SULAWESI TENGAH,Jumlah,2016,Semester 2 (September),14.09
+SULAWESI SELATAN,Perkotaan,2016,Semester 1 (Maret),4.51
+SULAWESI SELATAN,Perkotaan,2016,Semester 2 (September),4.47
+SULAWESI SELATAN,Perdesaan,2016,Semester 1 (Maret),12.46
+SULAWESI SELATAN,Perdesaan,2016,Semester 2 (September),12.3
+SULAWESI SELATAN,Jumlah,2016,Semester 1 (Maret),9.4
+SULAWESI SELATAN,Jumlah,2016,Semester 2 (September),9.24
+SULAWESI TENGGARA,Perkotaan,2016,Semester 1 (Maret),6.74
+SULAWESI TENGGARA,Perkotaan,2016,Semester 2 (September),6.87
+SULAWESI TENGGARA,Perdesaan,2016,Semester 1 (Maret),15.49
+SULAWESI TENGGARA,Perdesaan,2016,Semester 2 (September),15.31
+SULAWESI TENGGARA,Jumlah,2016,Semester 1 (Maret),12.88
+SULAWESI TENGGARA,Jumlah,2016,Semester 2 (September),12.77
+GORONTALO,Perkotaan,2016,Semester 1 (Maret),5.84
+GORONTALO,Perkotaan,2016,Semester 2 (September),5.78
+GORONTALO,Perdesaan,2016,Semester 1 (Maret),24.41
+GORONTALO,Perdesaan,2016,Semester 2 (September),24.3
+GORONTALO,Jumlah,2016,Semester 1 (Maret),17.72
+GORONTALO,Jumlah,2016,Semester 2 (September),17.63
+SULAWESI BARAT,Perkotaan,2016,Semester 1 (Maret),8.59
+SULAWESI BARAT,Perkotaan,2016,Semester 2 (September),8.43
+SULAWESI BARAT,Perdesaan,2016,Semester 1 (Maret),12.56
+SULAWESI BARAT,Perdesaan,2016,Semester 2 (September),12
+SULAWESI BARAT,Jumlah,2016,Semester 1 (Maret),11.74
+SULAWESI BARAT,Jumlah,2016,Semester 2 (September),11.19
+MALUKU,Perkotaan,2016,Semester 1 (Maret),7.66
+MALUKU,Perkotaan,2016,Semester 2 (September),7.86
+MALUKU,Perdesaan,2016,Semester 1 (Maret),26.82
+MALUKU,Perdesaan,2016,Semester 2 (September),26.88
+MALUKU,Jumlah,2016,Semester 1 (Maret),19.18
+MALUKU,Jumlah,2016,Semester 2 (September),19.26
+MALUKU UTARA,Perkotaan,2016,Semester 1 (Maret),3.32
+MALUKU UTARA,Perkotaan,2016,Semester 2 (September),3.76
+MALUKU UTARA,Perdesaan,2016,Semester 1 (Maret),7.44
+MALUKU UTARA,Perdesaan,2016,Semester 2 (September),7.43
+MALUKU UTARA,Jumlah,2016,Semester 1 (Maret),6.33
+MALUKU UTARA,Jumlah,2016,Semester 2 (September),6.41
+PAPUA BARAT,Perkotaan,2016,Semester 1 (Maret),6.14
+PAPUA BARAT,Perkotaan,2016,Semester 2 (September),5.69
+PAPUA BARAT,Perdesaan,2016,Semester 1 (Maret),37.48
+PAPUA BARAT,Perdesaan,2016,Semester 2 (September),37.33
+PAPUA BARAT,Jumlah,2016,Semester 1 (Maret),25.43
+PAPUA BARAT,Jumlah,2016,Semester 2 (September),24.88
+PAPUA,Perkotaan,2016,Semester 1 (Maret),4.42
+PAPUA,Perkotaan,2016,Semester 2 (September),4.21
+PAPUA,Perdesaan,2016,Semester 1 (Maret),37.14
+PAPUA,Perdesaan,2016,Semester 2 (September),37.07
+PAPUA,Jumlah,2016,Semester 1 (Maret),28.54
+PAPUA,Jumlah,2016,Semester 2 (September),28.4
+INDONESIA,Perkotaan,2016,Semester 1 (Maret),7.79
+INDONESIA,Perkotaan,2016,Semester 2 (September),7.73
+INDONESIA,Perdesaan,2016,Semester 1 (Maret),14.11
+INDONESIA,Perdesaan,2016,Semester 2 (September),13.96
+INDONESIA,Jumlah,2016,Semester 1 (Maret),10.86
+INDONESIA,Jumlah,2016,Semester 2 (September),10.7
+ACEH,Perkotaan,2017,Semester 1 (Maret),11.11
+ACEH,Perkotaan,2017,Semester 2 (September),10.42
+ACEH,Perdesaan,2017,Semester 1 (Maret),19.37
+ACEH,Perdesaan,2017,Semester 2 (September),18.36
+ACEH,Jumlah,2017,Semester 1 (Maret),16.89
+ACEH,Jumlah,2017,Semester 2 (September),15.92
+SUMATERA UTARA,Perkotaan,2017,Semester 1 (Maret),9.8
+SUMATERA UTARA,Perkotaan,2017,Semester 2 (September),8.96
+SUMATERA UTARA,Perdesaan,2017,Semester 1 (Maret),10.66
+SUMATERA UTARA,Perdesaan,2017,Semester 2 (September),9.62
+SUMATERA UTARA,Jumlah,2017,Semester 1 (Maret),10.22
+SUMATERA UTARA,Jumlah,2017,Semester 2 (September),9.28
+SUMATERA BARAT,Perkotaan,2017,Semester 1 (Maret),5.14
+SUMATERA BARAT,Perkotaan,2017,Semester 2 (September),5.11
+SUMATERA BARAT,Perdesaan,2017,Semester 1 (Maret),8.1
+SUMATERA BARAT,Perdesaan,2017,Semester 2 (September),7.94
+SUMATERA BARAT,Jumlah,2017,Semester 1 (Maret),6.87
+SUMATERA BARAT,Jumlah,2017,Semester 2 (September),6.75
+RIAU,Perkotaan,2017,Semester 1 (Maret),6.79
+RIAU,Perkotaan,2017,Semester 2 (September),6.55
+RIAU,Perdesaan,2017,Semester 1 (Maret),8.43
+RIAU,Perdesaan,2017,Semester 2 (September),7.99
+RIAU,Jumlah,2017,Semester 1 (Maret),7.78
+RIAU,Jumlah,2017,Semester 2 (September),7.41
+JAMBI,Perkotaan,2017,Semester 1 (Maret),10.94
+JAMBI,Perkotaan,2017,Semester 2 (September),10.53
+JAMBI,Perdesaan,2017,Semester 1 (Maret),6.92
+JAMBI,Perdesaan,2017,Semester 2 (September),6.66
+JAMBI,Jumlah,2017,Semester 1 (Maret),8.19
+JAMBI,Jumlah,2017,Semester 2 (September),7.9
+SUMATERA SELATAN,Perkotaan,2017,Semester 1 (Maret),12.45
+SUMATERA SELATAN,Perkotaan,2017,Semester 2 (September),12.36
+SUMATERA SELATAN,Perdesaan,2017,Semester 1 (Maret),13.62
+SUMATERA SELATAN,Perdesaan,2017,Semester 2 (September),13.54
+SUMATERA SELATAN,Jumlah,2017,Semester 1 (Maret),13.19
+SUMATERA SELATAN,Jumlah,2017,Semester 2 (September),13.1
+BENGKULU,Perkotaan,2017,Semester 1 (Maret),16.33
+BENGKULU,Perkotaan,2017,Semester 2 (September),15.41
+BENGKULU,Perdesaan,2017,Semester 1 (Maret),16.51
+BENGKULU,Perdesaan,2017,Semester 2 (September),15.67
+BENGKULU,Jumlah,2017,Semester 1 (Maret),16.45
+BENGKULU,Jumlah,2017,Semester 2 (September),15.59
+LAMPUNG,Perkotaan,2017,Semester 1 (Maret),10.03
+LAMPUNG,Perkotaan,2017,Semester 2 (September),9.13
+LAMPUNG,Perdesaan,2017,Semester 1 (Maret),15.08
+LAMPUNG,Perdesaan,2017,Semester 2 (September),14.56
+LAMPUNG,Jumlah,2017,Semester 1 (Maret),13.69
+LAMPUNG,Jumlah,2017,Semester 2 (September),13.04
+KEP. BANGKA BELITUNG,Perkotaan,2017,Semester 1 (Maret),2.89
+KEP. BANGKA BELITUNG,Perkotaan,2017,Semester 2 (September),3
+KEP. BANGKA BELITUNG,Perdesaan,2017,Semester 1 (Maret),7.74
+KEP. BANGKA BELITUNG,Perdesaan,2017,Semester 2 (September),7.92
+KEP. BANGKA BELITUNG,Jumlah,2017,Semester 1 (Maret),5.2
+KEP. BANGKA BELITUNG,Jumlah,2017,Semester 2 (September),5.3
+KEP. RIAU,Perkotaan,2017,Semester 1 (Maret),5.2
+KEP. RIAU,Perkotaan,2017,Semester 2 (September),5.39
+KEP. RIAU,Perdesaan,2017,Semester 1 (Maret),10.92
+KEP. RIAU,Perdesaan,2017,Semester 2 (September),10.49
+KEP. RIAU,Jumlah,2017,Semester 1 (Maret),6.06
+KEP. RIAU,Jumlah,2017,Semester 2 (September),6.13
+DKI JAKARTA,Perkotaan,2017,Semester 1 (Maret),3.77
+DKI JAKARTA,Perkotaan,2017,Semester 2 (September),3.78
+DKI JAKARTA,Jumlah,2017,Semester 1 (Maret),3.77
+DKI JAKARTA,Jumlah,2017,Semester 2 (September),3.78
+JAWA BARAT,Perkotaan,2017,Semester 1 (Maret),7.52
+JAWA BARAT,Perkotaan,2017,Semester 2 (September),6.76
+JAWA BARAT,Perdesaan,2017,Semester 1 (Maret),11.75
+JAWA BARAT,Perdesaan,2017,Semester 2 (September),10.77
+JAWA BARAT,Jumlah,2017,Semester 1 (Maret),8.71
+JAWA BARAT,Jumlah,2017,Semester 2 (September),7.83
+JAWA TENGAH,Perkotaan,2017,Semester 1 (Maret),11.21
+JAWA TENGAH,Perkotaan,2017,Semester 2 (September),10.55
+JAWA TENGAH,Perdesaan,2017,Semester 1 (Maret),14.77
+JAWA TENGAH,Perdesaan,2017,Semester 2 (September),13.92
+JAWA TENGAH,Jumlah,2017,Semester 1 (Maret),13.01
+JAWA TENGAH,Jumlah,2017,Semester 2 (September),12.23
+DI YOGYAKARTA,Perkotaan,2017,Semester 1 (Maret),11.72
+DI YOGYAKARTA,Perkotaan,2017,Semester 2 (September),11
+DI YOGYAKARTA,Perdesaan,2017,Semester 1 (Maret),16.11
+DI YOGYAKARTA,Perdesaan,2017,Semester 2 (September),15.86
+DI YOGYAKARTA,Jumlah,2017,Semester 1 (Maret),13.02
+DI YOGYAKARTA,Jumlah,2017,Semester 2 (September),12.36
+JAWA TIMUR,Perkotaan,2017,Semester 1 (Maret),7.87
+JAWA TIMUR,Perkotaan,2017,Semester 2 (September),7.13
+JAWA TIMUR,Perdesaan,2017,Semester 1 (Maret),15.82
+JAWA TIMUR,Perdesaan,2017,Semester 2 (September),15.58
+JAWA TIMUR,Jumlah,2017,Semester 1 (Maret),11.77
+JAWA TIMUR,Jumlah,2017,Semester 2 (September),11.2
+BANTEN,Perkotaan,2017,Semester 1 (Maret),4.52
+BANTEN,Perkotaan,2017,Semester 2 (September),4.69
+BANTEN,Perdesaan,2017,Semester 1 (Maret),7.61
+BANTEN,Perdesaan,2017,Semester 2 (September),7.81
+BANTEN,Jumlah,2017,Semester 1 (Maret),5.45
+BANTEN,Jumlah,2017,Semester 2 (September),5.59
+BALI,Perkotaan,2017,Semester 1 (Maret),3.58
+BALI,Perkotaan,2017,Semester 2 (September),3.46
+BALI,Perdesaan,2017,Semester 1 (Maret),5.45
+BALI,Perdesaan,2017,Semester 2 (September),5.42
+BALI,Jumlah,2017,Semester 1 (Maret),4.25
+BALI,Jumlah,2017,Semester 2 (September),4.14
+NUSA TENGGARA BARAT,Perkotaan,2017,Semester 1 (Maret),17.53
+NUSA TENGGARA BARAT,Perkotaan,2017,Semester 2 (September),16.23
+NUSA TENGGARA BARAT,Perdesaan,2017,Semester 1 (Maret),14.89
+NUSA TENGGARA BARAT,Perdesaan,2017,Semester 2 (September),14.06
+NUSA TENGGARA BARAT,Jumlah,2017,Semester 1 (Maret),16.07
+NUSA TENGGARA BARAT,Jumlah,2017,Semester 2 (September),15.05
+NUSA TENGGARA TIMUR,Perkotaan,2017,Semester 1 (Maret),10.32
+NUSA TENGGARA TIMUR,Perkotaan,2017,Semester 2 (September),10.11
+NUSA TENGGARA TIMUR,Perdesaan,2017,Semester 1 (Maret),25.03
+NUSA TENGGARA TIMUR,Perdesaan,2017,Semester 2 (September),24.59
+NUSA TENGGARA TIMUR,Jumlah,2017,Semester 1 (Maret),21.85
+NUSA TENGGARA TIMUR,Jumlah,2017,Semester 2 (September),21.38
+KALIMANTAN BARAT,Perkotaan,2017,Semester 1 (Maret),4.88
+KALIMANTAN BARAT,Perkotaan,2017,Semester 2 (September),5.25
+KALIMANTAN BARAT,Perdesaan,2017,Semester 1 (Maret),9.28
+KALIMANTAN BARAT,Perdesaan,2017,Semester 2 (September),9.09
+KALIMANTAN BARAT,Jumlah,2017,Semester 1 (Maret),7.88
+KALIMANTAN BARAT,Jumlah,2017,Semester 2 (September),7.86
+KALIMANTAN TENGAH,Perkotaan,2017,Semester 1 (Maret),4.59
+KALIMANTAN TENGAH,Perkotaan,2017,Semester 2 (September),5.01
+KALIMANTAN TENGAH,Perdesaan,2017,Semester 1 (Maret),5.81
+KALIMANTAN TENGAH,Perdesaan,2017,Semester 2 (September),5.41
+KALIMANTAN TENGAH,Jumlah,2017,Semester 1 (Maret),5.37
+KALIMANTAN TENGAH,Jumlah,2017,Semester 2 (September),5.26
+KALIMANTAN SELATAN,Perkotaan,2017,Semester 1 (Maret),3.46
+KALIMANTAN SELATAN,Perkotaan,2017,Semester 2 (September),3.59
+KALIMANTAN SELATAN,Perdesaan,2017,Semester 1 (Maret),5.73
+KALIMANTAN SELATAN,Perdesaan,2017,Semester 2 (September),5.6
+KALIMANTAN SELATAN,Jumlah,2017,Semester 1 (Maret),4.73
+KALIMANTAN SELATAN,Jumlah,2017,Semester 2 (September),4.7
+KALIMANTAN TIMUR,Perkotaan,2017,Semester 1 (Maret),3.99
+KALIMANTAN TIMUR,Perkotaan,2017,Semester 2 (September),4.27
+KALIMANTAN TIMUR,Perdesaan,2017,Semester 1 (Maret),10.5
+KALIMANTAN TIMUR,Perdesaan,2017,Semester 2 (September),9.74
+KALIMANTAN TIMUR,Jumlah,2017,Semester 1 (Maret),6.19
+KALIMANTAN TIMUR,Jumlah,2017,Semester 2 (September),6.08
+KALIMANTAN UTARA,Perkotaan,2017,Semester 1 (Maret),4.59
+KALIMANTAN UTARA,Perkotaan,2017,Semester 2 (September),5.39
+KALIMANTAN UTARA,Perdesaan,2017,Semester 1 (Maret),10.78
+KALIMANTAN UTARA,Perdesaan,2017,Semester 2 (September),9.14
+KALIMANTAN UTARA,Jumlah,2017,Semester 1 (Maret),7.22
+KALIMANTAN UTARA,Jumlah,2017,Semester 2 (September),6.96
+SULAWESI UTARA,Perkotaan,2017,Semester 1 (Maret),5.14
+SULAWESI UTARA,Perkotaan,2017,Semester 2 (September),5.03
+SULAWESI UTARA,Perdesaan,2017,Semester 1 (Maret),10.77
+SULAWESI UTARA,Perdesaan,2017,Semester 2 (September),10.59
+SULAWESI UTARA,Jumlah,2017,Semester 1 (Maret),8.1
+SULAWESI UTARA,Jumlah,2017,Semester 2 (September),7.9
+SULAWESI TENGAH,Perkotaan,2017,Semester 1 (Maret),10.16
+SULAWESI TENGAH,Perkotaan,2017,Semester 2 (September),10.39
+SULAWESI TENGAH,Perdesaan,2017,Semester 1 (Maret),15.54
+SULAWESI TENGAH,Perdesaan,2017,Semester 2 (September),15.59
+SULAWESI TENGAH,Jumlah,2017,Semester 1 (Maret),14.14
+SULAWESI TENGAH,Jumlah,2017,Semester 2 (September),14.22
+SULAWESI SELATAN,Perkotaan,2017,Semester 1 (Maret),4.48
+SULAWESI SELATAN,Perkotaan,2017,Semester 2 (September),4.76
+SULAWESI SELATAN,Perdesaan,2017,Semester 1 (Maret),12.59
+SULAWESI SELATAN,Perdesaan,2017,Semester 2 (September),12.65
+SULAWESI SELATAN,Jumlah,2017,Semester 1 (Maret),9.38
+SULAWESI SELATAN,Jumlah,2017,Semester 2 (September),9.48
+SULAWESI TENGGARA,Perkotaan,2017,Semester 1 (Maret),7.56
+SULAWESI TENGGARA,Perkotaan,2017,Semester 2 (September),7.14
+SULAWESI TENGGARA,Perdesaan,2017,Semester 1 (Maret),15.29
+SULAWESI TENGGARA,Perdesaan,2017,Semester 2 (September),14.74
+SULAWESI TENGGARA,Jumlah,2017,Semester 1 (Maret),12.81
+SULAWESI TENGGARA,Jumlah,2017,Semester 2 (September),11.97
+GORONTALO,Perkotaan,2017,Semester 1 (Maret),5.64
+GORONTALO,Perkotaan,2017,Semester 2 (September),4.9
+GORONTALO,Perdesaan,2017,Semester 1 (Maret),24.52
+GORONTALO,Perdesaan,2017,Semester 2 (September),24.29
+GORONTALO,Jumlah,2017,Semester 1 (Maret),17.65
+GORONTALO,Jumlah,2017,Semester 2 (September),17.14
+SULAWESI BARAT,Perkotaan,2017,Semester 1 (Maret),8.53
+SULAWESI BARAT,Perkotaan,2017,Semester 2 (September),9.5
+SULAWESI BARAT,Perdesaan,2017,Semester 1 (Maret),12.03
+SULAWESI BARAT,Perdesaan,2017,Semester 2 (September),11.7
+SULAWESI BARAT,Jumlah,2017,Semester 1 (Maret),11.3
+SULAWESI BARAT,Jumlah,2017,Semester 2 (September),11.18
+MALUKU,Perkotaan,2017,Semester 1 (Maret),7.24
+MALUKU,Perkotaan,2017,Semester 2 (September),6.58
+MALUKU,Perdesaan,2017,Semester 1 (Maret),26.14
+MALUKU,Perdesaan,2017,Semester 2 (September),26.6
+MALUKU,Jumlah,2017,Semester 1 (Maret),18.45
+MALUKU,Jumlah,2017,Semester 2 (September),18.29
+MALUKU UTARA,Perkotaan,2017,Semester 1 (Maret),3.61
+MALUKU UTARA,Perkotaan,2017,Semester 2 (September),3.7
+MALUKU UTARA,Perdesaan,2017,Semester 1 (Maret),7.4
+MALUKU UTARA,Perdesaan,2017,Semester 2 (September),7.55
+MALUKU UTARA,Jumlah,2017,Semester 1 (Maret),6.35
+MALUKU UTARA,Jumlah,2017,Semester 2 (September),6.44
+PAPUA BARAT,Perkotaan,2017,Semester 1 (Maret),5.83
+PAPUA BARAT,Perkotaan,2017,Semester 2 (September),5.16
+PAPUA BARAT,Perdesaan,2017,Semester 1 (Maret),37.44
+PAPUA BARAT,Perdesaan,2017,Semester 2 (September),35.12
+PAPUA BARAT,Jumlah,2017,Semester 1 (Maret),25.1
+PAPUA BARAT,Jumlah,2017,Semester 2 (September),23.12
+PAPUA,Perkotaan,2017,Semester 1 (Maret),4.46
+PAPUA,Perkotaan,2017,Semester 2 (September),4.55
+PAPUA,Perdesaan,2017,Semester 1 (Maret),36.2
+PAPUA,Perdesaan,2017,Semester 2 (September),36.56
+PAPUA,Jumlah,2017,Semester 1 (Maret),27.62
+PAPUA,Jumlah,2017,Semester 2 (September),27.76
+INDONESIA,Perkotaan,2017,Semester 1 (Maret),7.72
+INDONESIA,Perkotaan,2017,Semester 2 (September),7.26
+INDONESIA,Perdesaan,2017,Semester 1 (Maret),13.93
+INDONESIA,Perdesaan,2017,Semester 2 (September),13.47
+INDONESIA,Jumlah,2017,Semester 1 (Maret),10.64
+INDONESIA,Jumlah,2017,Semester 2 (September),10.12
+ACEH,Perkotaan,2018,Semester 1 (Maret),10.44
+ACEH,Perkotaan,2018,Semester 2 (September),9.63
+ACEH,Perdesaan,2018,Semester 1 (Maret),18.49
+ACEH,Perdesaan,2018,Semester 2 (September),18.52
+ACEH,Jumlah,2018,Semester 1 (Maret),15.97
+ACEH,Jumlah,2018,Semester 2 (September),15.68
+SUMATERA UTARA,Perkotaan,2018,Semester 1 (Maret),9.15
+SUMATERA UTARA,Perkotaan,2018,Semester 2 (September),8.84
+SUMATERA UTARA,Perdesaan,2018,Semester 1 (Maret),9.3
+SUMATERA UTARA,Perdesaan,2018,Semester 2 (September),9.05
+SUMATERA UTARA,Jumlah,2018,Semester 1 (Maret),9.22
+SUMATERA UTARA,Jumlah,2018,Semester 2 (September),8.94
+SUMATERA BARAT,Perkotaan,2018,Semester 1 (Maret),4.86
+SUMATERA BARAT,Perkotaan,2018,Semester 2 (September),4.99
+SUMATERA BARAT,Perdesaan,2018,Semester 1 (Maret),8.07
+SUMATERA BARAT,Perdesaan,2018,Semester 2 (September),7.9
+SUMATERA BARAT,Jumlah,2018,Semester 1 (Maret),6.65
+SUMATERA BARAT,Jumlah,2018,Semester 2 (September),6.55
+RIAU,Perkotaan,2018,Semester 1 (Maret),6.35
+RIAU,Perkotaan,2018,Semester 2 (September),6.25
+RIAU,Perdesaan,2018,Semester 1 (Maret),8.09
+RIAU,Perdesaan,2018,Semester 2 (September),7.86
+RIAU,Jumlah,2018,Semester 1 (Maret),7.39
+RIAU,Jumlah,2018,Semester 2 (September),7.21
+JAMBI,Perkotaan,2018,Semester 1 (Maret),10.41
+JAMBI,Perkotaan,2018,Semester 2 (September),10.08
+JAMBI,Perdesaan,2018,Semester 1 (Maret),6.75
+JAMBI,Perdesaan,2018,Semester 2 (September),6.8
+JAMBI,Jumlah,2018,Semester 1 (Maret),7.92
+JAMBI,Jumlah,2018,Semester 2 (September),7.85
+SUMATERA SELATAN,Perkotaan,2018,Semester 1 (Maret),12.18
+SUMATERA SELATAN,Perkotaan,2018,Semester 2 (September),12.43
+SUMATERA SELATAN,Perdesaan,2018,Semester 1 (Maret),13.17
+SUMATERA SELATAN,Perdesaan,2018,Semester 2 (September),13.05
+SUMATERA SELATAN,Jumlah,2018,Semester 1 (Maret),12.8
+SUMATERA SELATAN,Jumlah,2018,Semester 2 (September),12.82
+BENGKULU,Perkotaan,2018,Semester 1 (Maret),15.25
+BENGKULU,Perkotaan,2018,Semester 2 (September),14.94
+BENGKULU,Perdesaan,2018,Semester 1 (Maret),15.52
+BENGKULU,Perdesaan,2018,Semester 2 (September),15.64
+BENGKULU,Jumlah,2018,Semester 1 (Maret),15.43
+BENGKULU,Jumlah,2018,Semester 2 (September),15.41
+LAMPUNG,Perkotaan,2018,Semester 1 (Maret),9.27
+LAMPUNG,Perkotaan,2018,Semester 2 (September),9.06
+LAMPUNG,Perdesaan,2018,Semester 1 (Maret),14.76
+LAMPUNG,Perdesaan,2018,Semester 2 (September),14.73
+LAMPUNG,Jumlah,2018,Semester 1 (Maret),13.14
+LAMPUNG,Jumlah,2018,Semester 2 (September),13.01
+KEP. BANGKA BELITUNG,Perkotaan,2018,Semester 1 (Maret),3.09
+KEP. BANGKA BELITUNG,Perkotaan,2018,Semester 2 (September),2.78
+KEP. BANGKA BELITUNG,Perdesaan,2018,Semester 1 (Maret),7.76
+KEP. BANGKA BELITUNG,Perdesaan,2018,Semester 2 (September),7.16
+KEP. BANGKA BELITUNG,Jumlah,2018,Semester 1 (Maret),5.25
+KEP. BANGKA BELITUNG,Jumlah,2018,Semester 2 (September),4.77
+KEP. RIAU,Perkotaan,2018,Semester 1 (Maret),5.45
+KEP. RIAU,Perkotaan,2018,Semester 2 (September),5.15
+KEP. RIAU,Perdesaan,2018,Semester 1 (Maret),10.77
+KEP. RIAU,Perdesaan,2018,Semester 2 (September),11.26
+KEP. RIAU,Jumlah,2018,Semester 1 (Maret),6.2
+KEP. RIAU,Jumlah,2018,Semester 2 (September),5.83
+DKI JAKARTA,Perkotaan,2018,Semester 1 (Maret),3.57
+DKI JAKARTA,Perkotaan,2018,Semester 2 (September),3.55
+DKI JAKARTA,Jumlah,2018,Semester 1 (Maret),3.57
+DKI JAKARTA,Jumlah,2018,Semester 2 (September),3.55
+JAWA BARAT,Perkotaan,2018,Semester 1 (Maret),6.47
+JAWA BARAT,Perkotaan,2018,Semester 2 (September),6.33
+JAWA BARAT,Perdesaan,2018,Semester 1 (Maret),10.25
+JAWA BARAT,Perdesaan,2018,Semester 2 (September),10.07
+JAWA BARAT,Jumlah,2018,Semester 1 (Maret),7.45
+JAWA BARAT,Jumlah,2018,Semester 2 (September),7.25
+JAWA TENGAH,Perkotaan,2018,Semester 1 (Maret),9.73
+JAWA TENGAH,Perkotaan,2018,Semester 2 (September),9.67
+JAWA TENGAH,Perdesaan,2018,Semester 1 (Maret),12.99
+JAWA TENGAH,Perdesaan,2018,Semester 2 (September),12.8
+JAWA TENGAH,Jumlah,2018,Semester 1 (Maret),11.32
+JAWA TENGAH,Jumlah,2018,Semester 2 (September),11.19
+DI YOGYAKARTA,Perkotaan,2018,Semester 1 (Maret),11.03
+DI YOGYAKARTA,Perkotaan,2018,Semester 2 (September),10.73
+DI YOGYAKARTA,Perdesaan,2018,Semester 1 (Maret),15.12
+DI YOGYAKARTA,Perdesaan,2018,Semester 2 (September),14.71
+DI YOGYAKARTA,Jumlah,2018,Semester 1 (Maret),12.13
+DI YOGYAKARTA,Jumlah,2018,Semester 2 (September),11.81
+JAWA TIMUR,Perkotaan,2018,Semester 1 (Maret),7.06
+JAWA TIMUR,Perkotaan,2018,Semester 2 (September),6.97
+JAWA TIMUR,Perdesaan,2018,Semester 1 (Maret),15.3
+JAWA TIMUR,Perdesaan,2018,Semester 2 (September),15.21
+JAWA TIMUR,Jumlah,2018,Semester 1 (Maret),10.98
+JAWA TIMUR,Jumlah,2018,Semester 2 (September),10.85
+BANTEN,Perkotaan,2018,Semester 1 (Maret),4.38
+BANTEN,Perkotaan,2018,Semester 2 (September),4.24
+BANTEN,Perdesaan,2018,Semester 1 (Maret),7.33
+BANTEN,Perdesaan,2018,Semester 2 (September),7.67
+BANTEN,Jumlah,2018,Semester 1 (Maret),5.24
+BANTEN,Jumlah,2018,Semester 2 (September),5.25
+BALI,Perkotaan,2018,Semester 1 (Maret),3.32
+BALI,Perkotaan,2018,Semester 2 (September),3.36
+BALI,Perdesaan,2018,Semester 1 (Maret),5.38
+BALI,Perdesaan,2018,Semester 2 (September),5.08
+BALI,Jumlah,2018,Semester 1 (Maret),4.01
+BALI,Jumlah,2018,Semester 2 (September),3.91
+NUSA TENGGARA BARAT,Perkotaan,2018,Semester 1 (Maret),15.94
+NUSA TENGGARA BARAT,Perkotaan,2018,Semester 2 (September),15.66
+NUSA TENGGARA BARAT,Perdesaan,2018,Semester 1 (Maret),13.72
+NUSA TENGGARA BARAT,Perdesaan,2018,Semester 2 (September),13.69
+NUSA TENGGARA BARAT,Jumlah,2018,Semester 1 (Maret),14.75
+NUSA TENGGARA BARAT,Jumlah,2018,Semester 2 (September),14.63
+NUSA TENGGARA TIMUR,Perkotaan,2018,Semester 1 (Maret),9.94
+NUSA TENGGARA TIMUR,Perkotaan,2018,Semester 2 (September),9.09
+NUSA TENGGARA TIMUR,Perdesaan,2018,Semester 1 (Maret),24.74
+NUSA TENGGARA TIMUR,Perdesaan,2018,Semester 2 (September),24.65
+NUSA TENGGARA TIMUR,Jumlah,2018,Semester 1 (Maret),21.35
+NUSA TENGGARA TIMUR,Jumlah,2018,Semester 2 (September),21.03
+KALIMANTAN BARAT,Perkotaan,2018,Semester 1 (Maret),5.03
+KALIMANTAN BARAT,Perkotaan,2018,Semester 2 (September),4.58
+KALIMANTAN BARAT,Perdesaan,2018,Semester 1 (Maret),9.16
+KALIMANTAN BARAT,Perdesaan,2018,Semester 2 (September),8.84
+KALIMANTAN BARAT,Jumlah,2018,Semester 1 (Maret),7.77
+KALIMANTAN BARAT,Jumlah,2018,Semester 2 (September),7.37
+KALIMANTAN TENGAH,Perkotaan,2018,Semester 1 (Maret),4.7
+KALIMANTAN TENGAH,Perkotaan,2018,Semester 2 (September),4.56
+KALIMANTAN TENGAH,Perdesaan,2018,Semester 1 (Maret),5.47
+KALIMANTAN TENGAH,Perdesaan,2018,Semester 2 (September),5.45
+KALIMANTAN TENGAH,Jumlah,2018,Semester 1 (Maret),5.17
+KALIMANTAN TENGAH,Jumlah,2018,Semester 2 (September),5.1
+KALIMANTAN SELATAN,Perkotaan,2018,Semester 1 (Maret),3.54
+KALIMANTAN SELATAN,Perkotaan,2018,Semester 2 (September),3.6
+KALIMANTAN SELATAN,Perdesaan,2018,Semester 1 (Maret),5.4
+KALIMANTAN SELATAN,Perdesaan,2018,Semester 2 (September),5.56
+KALIMANTAN SELATAN,Jumlah,2018,Semester 1 (Maret),4.54
+KALIMANTAN SELATAN,Jumlah,2018,Semester 2 (September),4.65
+KALIMANTAN TIMUR,Perkotaan,2018,Semester 1 (Maret),4.14
+KALIMANTAN TIMUR,Perkotaan,2018,Semester 2 (September),4.36
+KALIMANTAN TIMUR,Perdesaan,2018,Semester 1 (Maret),9.84
+KALIMANTAN TIMUR,Perdesaan,2018,Semester 2 (September),9.65
+KALIMANTAN TIMUR,Jumlah,2018,Semester 1 (Maret),6.03
+KALIMANTAN TIMUR,Jumlah,2018,Semester 2 (September),6.06
+KALIMANTAN UTARA,Perkotaan,2018,Semester 1 (Maret),5.46
+KALIMANTAN UTARA,Perkotaan,2018,Semester 2 (September),5.16
+KALIMANTAN UTARA,Perdesaan,2018,Semester 1 (Maret),9.36
+KALIMANTAN UTARA,Perdesaan,2018,Semester 2 (September),9.48
+KALIMANTAN UTARA,Jumlah,2018,Semester 1 (Maret),7.09
+KALIMANTAN UTARA,Jumlah,2018,Semester 2 (September),6.86
+SULAWESI UTARA,Perkotaan,2018,Semester 1 (Maret),5.13
+SULAWESI UTARA,Perkotaan,2018,Semester 2 (September),4.82
+SULAWESI UTARA,Perdesaan,2018,Semester 1 (Maret),10.48
+SULAWESI UTARA,Perdesaan,2018,Semester 2 (September),10.57
+SULAWESI UTARA,Jumlah,2018,Semester 1 (Maret),7.8
+SULAWESI UTARA,Jumlah,2018,Semester 2 (September),7.59
+SULAWESI TENGAH,Perkotaan,2018,Semester 1 (Maret),10.15
+SULAWESI TENGAH,Perkotaan,2018,Semester 2 (September),9.5
+SULAWESI TENGAH,Perdesaan,2018,Semester 1 (Maret),15.51
+SULAWESI TENGAH,Perdesaan,2018,Semester 2 (September),15.41
+SULAWESI TENGAH,Jumlah,2018,Semester 1 (Maret),14.01
+SULAWESI TENGAH,Jumlah,2018,Semester 2 (September),13.69
+SULAWESI SELATAN,Perkotaan,2018,Semester 1 (Maret),4.61
+SULAWESI SELATAN,Perkotaan,2018,Semester 2 (September),4.48
+SULAWESI SELATAN,Perdesaan,2018,Semester 1 (Maret),12.24
+SULAWESI SELATAN,Perdesaan,2018,Semester 2 (September),12.15
+SULAWESI SELATAN,Jumlah,2018,Semester 1 (Maret),9.06
+SULAWESI SELATAN,Jumlah,2018,Semester 2 (September),8.87
+SULAWESI TENGGARA,Perkotaan,2018,Semester 1 (Maret),6.56
+SULAWESI TENGGARA,Perkotaan,2018,Semester 2 (September),6.87
+SULAWESI TENGGARA,Perdesaan,2018,Semester 1 (Maret),14.77
+SULAWESI TENGGARA,Perdesaan,2018,Semester 2 (September),14.07
+SULAWESI TENGGARA,Jumlah,2018,Semester 1 (Maret),11.63
+SULAWESI TENGGARA,Jumlah,2018,Semester 2 (September),11.32
+GORONTALO,Perkotaan,2018,Semester 1 (Maret),5.26
+GORONTALO,Perkotaan,2018,Semester 2 (September),4.45
+GORONTALO,Perdesaan,2018,Semester 1 (Maret),24.09
+GORONTALO,Perdesaan,2018,Semester 2 (September),23.86
+GORONTALO,Jumlah,2018,Semester 1 (Maret),16.81
+GORONTALO,Jumlah,2018,Semester 2 (September),15.83
+SULAWESI BARAT,Perkotaan,2018,Semester 1 (Maret),9.64
+SULAWESI BARAT,Perkotaan,2018,Semester 2 (September),9.8
+SULAWESI BARAT,Perdesaan,2018,Semester 1 (Maret),11.75
+SULAWESI BARAT,Perdesaan,2018,Semester 2 (September),11.66
+SULAWESI BARAT,Jumlah,2018,Semester 1 (Maret),11.25
+SULAWESI BARAT,Jumlah,2018,Semester 2 (September),11.22
+MALUKU,Perkotaan,2018,Semester 1 (Maret),6.22
+MALUKU,Perkotaan,2018,Semester 2 (September),6.15
+MALUKU,Perdesaan,2018,Semester 1 (Maret),26.64
+MALUKU,Perdesaan,2018,Semester 2 (September),26.61
+MALUKU,Jumlah,2018,Semester 1 (Maret),18.12
+MALUKU,Jumlah,2018,Semester 2 (September),17.85
+MALUKU UTARA,Perkotaan,2018,Semester 1 (Maret),3.8
+MALUKU UTARA,Perkotaan,2018,Semester 2 (September),4.21
+MALUKU UTARA,Perdesaan,2018,Semester 1 (Maret),7.78
+MALUKU UTARA,Perdesaan,2018,Semester 2 (September),7.58
+MALUKU UTARA,Jumlah,2018,Semester 1 (Maret),6.64
+MALUKU UTARA,Jumlah,2018,Semester 2 (September),6.62
+PAPUA BARAT,Perkotaan,2018,Semester 1 (Maret),5.1
+PAPUA BARAT,Perkotaan,2018,Semester 2 (September),5.57
+PAPUA BARAT,Perdesaan,2018,Semester 1 (Maret),35.31
+PAPUA BARAT,Perdesaan,2018,Semester 2 (September),34.29
+PAPUA BARAT,Jumlah,2018,Semester 1 (Maret),23.01
+PAPUA BARAT,Jumlah,2018,Semester 2 (September),22.66
+PAPUA,Perkotaan,2018,Semester 1 (Maret),4.51
+PAPUA,Perkotaan,2018,Semester 2 (September),4.01
+PAPUA,Perdesaan,2018,Semester 1 (Maret),36.63
+PAPUA,Perdesaan,2018,Semester 2 (September),36.65
+PAPUA,Jumlah,2018,Semester 1 (Maret),27.74
+PAPUA,Jumlah,2018,Semester 2 (September),27.43
+INDONESIA,Perkotaan,2018,Semester 1 (Maret),7.02
+INDONESIA,Perkotaan,2018,Semester 2 (September),6.89
+INDONESIA,Perdesaan,2018,Semester 1 (Maret),13.2
+INDONESIA,Perdesaan,2018,Semester 2 (September),13.1
+INDONESIA,Jumlah,2018,Semester 1 (Maret),9.82
+INDONESIA,Jumlah,2018,Semester 2 (September),9.66
+ACEH,Perkotaan,2019,Semester 1 (Maret),9.68
+ACEH,Perkotaan,2019,Semester 2 (September),9.47
+ACEH,Perdesaan,2019,Semester 1 (Maret),18.03
+ACEH,Perdesaan,2019,Semester 2 (September),17.68
+ACEH,Jumlah,2019,Semester 1 (Maret),15.32
+ACEH,Jumlah,2019,Semester 2 (September),15.01
+SUMATERA UTARA,Perkotaan,2019,Semester 1 (Maret),8.56
+SUMATERA UTARA,Perkotaan,2019,Semester 2 (September),8.39
+SUMATERA UTARA,Perdesaan,2019,Semester 1 (Maret),9.14
+SUMATERA UTARA,Perdesaan,2019,Semester 2 (September),8.93
+SUMATERA UTARA,Jumlah,2019,Semester 1 (Maret),8.83
+SUMATERA UTARA,Jumlah,2019,Semester 2 (September),8.63
+SUMATERA BARAT,Perkotaan,2019,Semester 1 (Maret),4.76
+SUMATERA BARAT,Perkotaan,2019,Semester 2 (September),4.71
+SUMATERA BARAT,Perdesaan,2019,Semester 1 (Maret),7.88
+SUMATERA BARAT,Perdesaan,2019,Semester 2 (September),7.69
+SUMATERA BARAT,Jumlah,2019,Semester 1 (Maret),6.42
+SUMATERA BARAT,Jumlah,2019,Semester 2 (September),6.29
+RIAU,Perkotaan,2019,Semester 1 (Maret),6.28
+RIAU,Perkotaan,2019,Semester 2 (September),6
+RIAU,Perdesaan,2019,Semester 1 (Maret),7.62
+RIAU,Perdesaan,2019,Semester 2 (September),7.51
+RIAU,Jumlah,2019,Semester 1 (Maret),7.08
+RIAU,Jumlah,2019,Semester 2 (September),6.9
+JAMBI,Perkotaan,2019,Semester 1 (Maret),9.81
+JAMBI,Perkotaan,2019,Semester 2 (September),9.75
+JAMBI,Perdesaan,2019,Semester 1 (Maret),6.53
+JAMBI,Perdesaan,2019,Semester 2 (September),6.44
+JAMBI,Jumlah,2019,Semester 1 (Maret),7.6
+JAMBI,Jumlah,2019,Semester 2 (September),7.51
+SUMATERA SELATAN,Perkotaan,2019,Semester 1 (Maret),12.19
+SUMATERA SELATAN,Perkotaan,2019,Semester 2 (September),11.94
+SUMATERA SELATAN,Perdesaan,2019,Semester 1 (Maret),13.02
+SUMATERA SELATAN,Perdesaan,2019,Semester 2 (September),12.93
+SUMATERA SELATAN,Jumlah,2019,Semester 1 (Maret),12.71
+SUMATERA SELATAN,Jumlah,2019,Semester 2 (September),12.56
+BENGKULU,Perkotaan,2019,Semester 1 (Maret),14.7
+BENGKULU,Perkotaan,2019,Semester 2 (September),14.13
+BENGKULU,Perdesaan,2019,Semester 1 (Maret),15.49
+BENGKULU,Perdesaan,2019,Semester 2 (September),15.3
+BENGKULU,Jumlah,2019,Semester 1 (Maret),15.23
+BENGKULU,Jumlah,2019,Semester 2 (September),14.91
+LAMPUNG,Perkotaan,2019,Semester 1 (Maret),8.92
+LAMPUNG,Perkotaan,2019,Semester 2 (September),8.6
+LAMPUNG,Perdesaan,2019,Semester 1 (Maret),14.27
+LAMPUNG,Perdesaan,2019,Semester 2 (September),13.96
+LAMPUNG,Jumlah,2019,Semester 1 (Maret),12.62
+LAMPUNG,Jumlah,2019,Semester 2 (September),12.3
+KEP. BANGKA BELITUNG,Perkotaan,2019,Semester 1 (Maret),2.85
+KEP. BANGKA BELITUNG,Perkotaan,2019,Semester 2 (September),2.98
+KEP. BANGKA BELITUNG,Perdesaan,2019,Semester 1 (Maret),6.79
+KEP. BANGKA BELITUNG,Perdesaan,2019,Semester 2 (September),6.38
+KEP. BANGKA BELITUNG,Jumlah,2019,Semester 1 (Maret),4.62
+KEP. BANGKA BELITUNG,Jumlah,2019,Semester 2 (September),4.5
+KEP. RIAU,Perkotaan,2019,Semester 1 (Maret),5.33
+KEP. RIAU,Perkotaan,2019,Semester 2 (September),5.26
+KEP. RIAU,Perdesaan,2019,Semester 1 (Maret),11.04
+KEP. RIAU,Perdesaan,2019,Semester 2 (September),10.67
+KEP. RIAU,Jumlah,2019,Semester 1 (Maret),5.9
+KEP. RIAU,Jumlah,2019,Semester 2 (September),5.8
+DKI JAKARTA,Perkotaan,2019,Semester 1 (Maret),3.47
+DKI JAKARTA,Perkotaan,2019,Semester 2 (September),3.42
+DKI JAKARTA,Jumlah,2019,Semester 1 (Maret),3.47
+DKI JAKARTA,Jumlah,2019,Semester 2 (September),3.42
+JAWA BARAT,Perkotaan,2019,Semester 1 (Maret),6.03
+JAWA BARAT,Perkotaan,2019,Semester 2 (September),5.98
+JAWA BARAT,Perdesaan,2019,Semester 1 (Maret),9.79
+JAWA BARAT,Perdesaan,2019,Semester 2 (September),9.58
+JAWA BARAT,Jumlah,2019,Semester 1 (Maret),6.91
+JAWA BARAT,Jumlah,2019,Semester 2 (September),6.82
+JAWA TENGAH,Perkotaan,2019,Semester 1 (Maret),9.2
+JAWA TENGAH,Perkotaan,2019,Semester 2 (September),8.99
+JAWA TENGAH,Perdesaan,2019,Semester 1 (Maret),12.48
+JAWA TENGAH,Perdesaan,2019,Semester 2 (September),12.26
+JAWA TENGAH,Jumlah,2019,Semester 1 (Maret),10.8
+JAWA TENGAH,Jumlah,2019,Semester 2 (September),10.58
+DI YOGYAKARTA,Perkotaan,2019,Semester 1 (Maret),10.89
+DI YOGYAKARTA,Perkotaan,2019,Semester 2 (September),10.62
+DI YOGYAKARTA,Perdesaan,2019,Semester 1 (Maret),13.89
+DI YOGYAKARTA,Perdesaan,2019,Semester 2 (September),13.67
+DI YOGYAKARTA,Jumlah,2019,Semester 1 (Maret),11.7
+DI YOGYAKARTA,Jumlah,2019,Semester 2 (September),11.44
+JAWA TIMUR,Perkotaan,2019,Semester 1 (Maret),6.84
+JAWA TIMUR,Perkotaan,2019,Semester 2 (September),6.77
+JAWA TIMUR,Perdesaan,2019,Semester 1 (Maret),14.43
+JAWA TIMUR,Perdesaan,2019,Semester 2 (September),14.16
+JAWA TIMUR,Jumlah,2019,Semester 1 (Maret),10.37
+JAWA TIMUR,Jumlah,2019,Semester 2 (September),10.2
+BANTEN,Perkotaan,2019,Semester 1 (Maret),4.12
+BANTEN,Perkotaan,2019,Semester 2 (September),4
+BANTEN,Perdesaan,2019,Semester 1 (Maret),7.49
+BANTEN,Perdesaan,2019,Semester 2 (September),7.31
+BANTEN,Jumlah,2019,Semester 1 (Maret),5.09
+BANTEN,Jumlah,2019,Semester 2 (September),4.94
+BALI,Perkotaan,2019,Semester 1 (Maret),3.29
+BALI,Perkotaan,2019,Semester 2 (September),3.04
+BALI,Perdesaan,2019,Semester 1 (Maret),4.88
+BALI,Perdesaan,2019,Semester 2 (September),4.86
+BALI,Jumlah,2019,Semester 1 (Maret),3.79
+BALI,Jumlah,2019,Semester 2 (September),3.61
+NUSA TENGGARA BARAT,Perkotaan,2019,Semester 1 (Maret),15.74
+NUSA TENGGARA BARAT,Perkotaan,2019,Semester 2 (September),14.85
+NUSA TENGGARA BARAT,Perdesaan,2019,Semester 1 (Maret),13.45
+NUSA TENGGARA BARAT,Perdesaan,2019,Semester 2 (September),12.97
+NUSA TENGGARA BARAT,Jumlah,2019,Semester 1 (Maret),14.56
+NUSA TENGGARA BARAT,Jumlah,2019,Semester 2 (September),13.88
+NUSA TENGGARA TIMUR,Perkotaan,2019,Semester 1 (Maret),8.84
+NUSA TENGGARA TIMUR,Perkotaan,2019,Semester 2 (September),8.34
+NUSA TENGGARA TIMUR,Perdesaan,2019,Semester 1 (Maret),24.91
+NUSA TENGGARA TIMUR,Perdesaan,2019,Semester 2 (September),24.45
+NUSA TENGGARA TIMUR,Jumlah,2019,Semester 1 (Maret),21.09
+NUSA TENGGARA TIMUR,Jumlah,2019,Semester 2 (September),20.62
+KALIMANTAN BARAT,Perkotaan,2019,Semester 1 (Maret),4.6
+KALIMANTAN BARAT,Perkotaan,2019,Semester 2 (September),4.61
+KALIMANTAN BARAT,Perdesaan,2019,Semester 1 (Maret),9.05
+KALIMANTAN BARAT,Perdesaan,2019,Semester 2 (September),8.73
+KALIMANTAN BARAT,Jumlah,2019,Semester 1 (Maret),7.49
+KALIMANTAN BARAT,Jumlah,2019,Semester 2 (September),7.28
+KALIMANTAN TENGAH,Perkotaan,2019,Semester 1 (Maret),4.47
+KALIMANTAN TENGAH,Perkotaan,2019,Semester 2 (September),4.28
+KALIMANTAN TENGAH,Perdesaan,2019,Semester 1 (Maret),5.33
+KALIMANTAN TENGAH,Perdesaan,2019,Semester 2 (September),5.17
+KALIMANTAN TENGAH,Jumlah,2019,Semester 1 (Maret),4.98
+KALIMANTAN TENGAH,Jumlah,2019,Semester 2 (September),4.81
+KALIMANTAN SELATAN,Perkotaan,2019,Semester 1 (Maret),3.53
+KALIMANTAN SELATAN,Perkotaan,2019,Semester 2 (September),3.47
+KALIMANTAN SELATAN,Perdesaan,2019,Semester 1 (Maret),5.47
+KALIMANTAN SELATAN,Perdesaan,2019,Semester 2 (September),5.36
+KALIMANTAN SELATAN,Jumlah,2019,Semester 1 (Maret),4.55
+KALIMANTAN SELATAN,Jumlah,2019,Semester 2 (September),4.47
+KALIMANTAN TIMUR,Perkotaan,2019,Semester 1 (Maret),4.31
+KALIMANTAN TIMUR,Perkotaan,2019,Semester 2 (September),4.29
+KALIMANTAN TIMUR,Perdesaan,2019,Semester 1 (Maret),9.31
+KALIMANTAN TIMUR,Perdesaan,2019,Semester 2 (September),9.26
+KALIMANTAN TIMUR,Jumlah,2019,Semester 1 (Maret),5.94
+KALIMANTAN TIMUR,Jumlah,2019,Semester 2 (September),5.91
+KALIMANTAN UTARA,Perkotaan,2019,Semester 1 (Maret),5.1
+KALIMANTAN UTARA,Perkotaan,2019,Semester 2 (September),4.86
+KALIMANTAN UTARA,Perdesaan,2019,Semester 1 (Maret),9.02
+KALIMANTAN UTARA,Perdesaan,2019,Semester 2 (September),9
+KALIMANTAN UTARA,Jumlah,2019,Semester 1 (Maret),6.63
+KALIMANTAN UTARA,Jumlah,2019,Semester 2 (September),6.49
+SULAWESI UTARA,Perkotaan,2019,Semester 1 (Maret),5.01
+SULAWESI UTARA,Perkotaan,2019,Semester 2 (September),4.95
+SULAWESI UTARA,Perdesaan,2019,Semester 1 (Maret),10.56
+SULAWESI UTARA,Perdesaan,2019,Semester 2 (September),10.3
+SULAWESI UTARA,Jumlah,2019,Semester 1 (Maret),7.66
+SULAWESI UTARA,Jumlah,2019,Semester 2 (September),7.51
+SULAWESI TENGAH,Perkotaan,2019,Semester 1 (Maret),9.32
+SULAWESI TENGAH,Perkotaan,2019,Semester 2 (September),8.9
+SULAWESI TENGAH,Perdesaan,2019,Semester 1 (Maret),15.26
+SULAWESI TENGAH,Perdesaan,2019,Semester 2 (September),15.01
+SULAWESI TENGAH,Jumlah,2019,Semester 1 (Maret),13.48
+SULAWESI TENGAH,Jumlah,2019,Semester 2 (September),13.18
+SULAWESI SELATAN,Perkotaan,2019,Semester 1 (Maret),4.44
+SULAWESI SELATAN,Perkotaan,2019,Semester 2 (September),4.22
+SULAWESI SELATAN,Perdesaan,2019,Semester 1 (Maret),11.95
+SULAWESI SELATAN,Perdesaan,2019,Semester 2 (September),11.9
+SULAWESI SELATAN,Jumlah,2019,Semester 1 (Maret),8.69
+SULAWESI SELATAN,Jumlah,2019,Semester 2 (September),8.56
+SULAWESI TENGGARA,Perkotaan,2019,Semester 1 (Maret),6.81
+SULAWESI TENGGARA,Perkotaan,2019,Semester 2 (September),6.81
+SULAWESI TENGGARA,Perdesaan,2019,Semester 1 (Maret),14.09
+SULAWESI TENGGARA,Perdesaan,2019,Semester 2 (September),13.77
+SULAWESI TENGGARA,Jumlah,2019,Semester 1 (Maret),11.24
+SULAWESI TENGGARA,Jumlah,2019,Semester 2 (September),11.04
+GORONTALO,Perkotaan,2019,Semester 1 (Maret),4.21
+GORONTALO,Perkotaan,2019,Semester 2 (September),3.99
+GORONTALO,Perdesaan,2019,Semester 1 (Maret),23.79
+GORONTALO,Perdesaan,2019,Semester 2 (September),23.57
+GORONTALO,Jumlah,2019,Semester 1 (Maret),15.52
+GORONTALO,Jumlah,2019,Semester 2 (September),15.31
+SULAWESI BARAT,Perkotaan,2019,Semester 1 (Maret),9.63
+SULAWESI BARAT,Perkotaan,2019,Semester 2 (September),9.41
+SULAWESI BARAT,Perdesaan,2019,Semester 1 (Maret),11.45
+SULAWESI BARAT,Perdesaan,2019,Semester 2 (September),11.43
+SULAWESI BARAT,Jumlah,2019,Semester 1 (Maret),11.02
+SULAWESI BARAT,Jumlah,2019,Semester 2 (September),10.95
+MALUKU,Perkotaan,2019,Semester 1 (Maret),5.84
+MALUKU,Perkotaan,2019,Semester 2 (September),6.09
+MALUKU,Perdesaan,2019,Semester 1 (Maret),26.83
+MALUKU,Perdesaan,2019,Semester 2 (September),26.63
+MALUKU,Jumlah,2019,Semester 1 (Maret),17.69
+MALUKU,Jumlah,2019,Semester 2 (September),17.65
+MALUKU UTARA,Perkotaan,2019,Semester 1 (Maret),4.27
+MALUKU UTARA,Perkotaan,2019,Semester 2 (September),4.24
+MALUKU UTARA,Perdesaan,2019,Semester 1 (Maret),7.78
+MALUKU UTARA,Perdesaan,2019,Semester 2 (September),7.99
+MALUKU UTARA,Jumlah,2019,Semester 1 (Maret),6.77
+MALUKU UTARA,Jumlah,2019,Semester 2 (September),6.91
+PAPUA BARAT,Perkotaan,2019,Semester 1 (Maret),5.63
+PAPUA BARAT,Perkotaan,2019,Semester 2 (September),5.47
+PAPUA BARAT,Perdesaan,2019,Semester 1 (Maret),34.19
+PAPUA BARAT,Perdesaan,2019,Semester 2 (September),33.2
+PAPUA BARAT,Jumlah,2019,Semester 1 (Maret),22.17
+PAPUA BARAT,Jumlah,2019,Semester 2 (September),21.51
+PAPUA,Perkotaan,2019,Semester 1 (Maret),4.26
+PAPUA,Perkotaan,2019,Semester 2 (September),4.53
+PAPUA,Perdesaan,2019,Semester 1 (Maret),36.84
+PAPUA,Perdesaan,2019,Semester 2 (September),35.36
+PAPUA,Jumlah,2019,Semester 1 (Maret),27.53
+PAPUA,Jumlah,2019,Semester 2 (September),26.55
+INDONESIA,Perkotaan,2019,Semester 1 (Maret),6.69
+INDONESIA,Perkotaan,2019,Semester 2 (September),6.56
+INDONESIA,Perdesaan,2019,Semester 1 (Maret),12.85
+INDONESIA,Perdesaan,2019,Semester 2 (September),12.6
+INDONESIA,Jumlah,2019,Semester 1 (Maret),9.41
+INDONESIA,Jumlah,2019,Semester 2 (September),9.22
+ACEH,Perkotaan,2020,Semester 1 (Maret),9.84
+ACEH,Perkotaan,2020,Semester 2 (September),10.31
+ACEH,Perdesaan,2020,Semester 1 (Maret),17.46
+ACEH,Perdesaan,2020,Semester 2 (September),17.96
+ACEH,Jumlah,2020,Semester 1 (Maret),14.99
+ACEH,Jumlah,2020,Semester 2 (September),15.43
+SUMATERA UTARA,Perkotaan,2020,Semester 1 (Maret),8.73
+SUMATERA UTARA,Perkotaan,2020,Semester 2 (September),9.25
+SUMATERA UTARA,Perdesaan,2020,Semester 1 (Maret),8.77
+SUMATERA UTARA,Perdesaan,2020,Semester 2 (September),9.02
+SUMATERA UTARA,Jumlah,2020,Semester 1 (Maret),8.75
+SUMATERA UTARA,Jumlah,2020,Semester 2 (September),9.14
+SUMATERA BARAT,Perkotaan,2020,Semester 1 (Maret),4.97
+SUMATERA BARAT,Perkotaan,2020,Semester 2 (September),5.22
+SUMATERA BARAT,Perdesaan,2020,Semester 1 (Maret),7.43
+SUMATERA BARAT,Perdesaan,2020,Semester 2 (September),7.83
+SUMATERA BARAT,Jumlah,2020,Semester 1 (Maret),6.28
+SUMATERA BARAT,Jumlah,2020,Semester 2 (September),6.56
+RIAU,Perkotaan,2020,Semester 1 (Maret),6.12
+RIAU,Perkotaan,2020,Semester 2 (September),6.39
+RIAU,Perdesaan,2020,Semester 1 (Maret),7.29
+RIAU,Perdesaan,2020,Semester 2 (September),7.47
+RIAU,Jumlah,2020,Semester 1 (Maret),6.82
+RIAU,Jumlah,2020,Semester 2 (September),7.04
+JAMBI,Perkotaan,2020,Semester 1 (Maret),10.41
+JAMBI,Perkotaan,2020,Semester 2 (September),11.22
+JAMBI,Perdesaan,2020,Semester 1 (Maret),6.23
+JAMBI,Perdesaan,2020,Semester 2 (September),6.4
+JAMBI,Jumlah,2020,Semester 1 (Maret),7.58
+JAMBI,Jumlah,2020,Semester 2 (September),7.97
+SUMATERA SELATAN,Perkotaan,2020,Semester 1 (Maret),12.16
+SUMATERA SELATAN,Perkotaan,2020,Semester 2 (September),12.52
+SUMATERA SELATAN,Perdesaan,2020,Semester 1 (Maret),12.96
+SUMATERA SELATAN,Perdesaan,2020,Semester 2 (September),13.25
+SUMATERA SELATAN,Jumlah,2020,Semester 1 (Maret),12.66
+SUMATERA SELATAN,Jumlah,2020,Semester 2 (September),12.98
+BENGKULU,Perkotaan,2020,Semester 1 (Maret),14.77
+BENGKULU,Perkotaan,2020,Semester 2 (September),15.06
+BENGKULU,Perdesaan,2020,Semester 1 (Maret),15.16
+BENGKULU,Perdesaan,2020,Semester 2 (September),15.42
+BENGKULU,Jumlah,2020,Semester 1 (Maret),15.03
+BENGKULU,Jumlah,2020,Semester 2 (September),15.3
+LAMPUNG,Perkotaan,2020,Semester 1 (Maret),9.02
+LAMPUNG,Perkotaan,2020,Semester 2 (September),9.59
+LAMPUNG,Perdesaan,2020,Semester 1 (Maret),13.83
+LAMPUNG,Perdesaan,2020,Semester 2 (September),14.22
+LAMPUNG,Jumlah,2020,Semester 1 (Maret),12.34
+LAMPUNG,Jumlah,2020,Semester 2 (September),12.76
+KEP. BANGKA BELITUNG,Perkotaan,2020,Semester 1 (Maret),3.06
+KEP. BANGKA BELITUNG,Perkotaan,2020,Semester 2 (September),3.43
+KEP. BANGKA BELITUNG,Perdesaan,2020,Semester 1 (Maret),6.33
+KEP. BANGKA BELITUNG,Perdesaan,2020,Semester 2 (September),6.75
+KEP. BANGKA BELITUNG,Jumlah,2020,Semester 1 (Maret),4.53
+KEP. BANGKA BELITUNG,Jumlah,2020,Semester 2 (September),4.89
+KEP. RIAU,Perkotaan,2020,Semester 1 (Maret),5.42
+KEP. RIAU,Perkotaan,2020,Semester 2 (September),5.69
+KEP. RIAU,Perdesaan,2020,Semester 1 (Maret),10.43
+KEP. RIAU,Perdesaan,2020,Semester 2 (September),11.25
+KEP. RIAU,Jumlah,2020,Semester 1 (Maret),5.92
+KEP. RIAU,Jumlah,2020,Semester 2 (September),6.13
+DKI JAKARTA,Perkotaan,2020,Semester 1 (Maret),4.53
+DKI JAKARTA,Perkotaan,2020,Semester 2 (September),4.69
+DKI JAKARTA,Jumlah,2020,Semester 1 (Maret),4.53
+DKI JAKARTA,Jumlah,2020,Semester 2 (September),4.69
+JAWA BARAT,Perkotaan,2020,Semester 1 (Maret),7.14
+JAWA BARAT,Perkotaan,2020,Semester 2 (September),7.79
+JAWA BARAT,Perdesaan,2020,Semester 1 (Maret),10.27
+JAWA BARAT,Perdesaan,2020,Semester 2 (September),10.64
+JAWA BARAT,Jumlah,2020,Semester 1 (Maret),7.88
+JAWA BARAT,Jumlah,2020,Semester 2 (September),8.43
+JAWA TENGAH,Perkotaan,2020,Semester 1 (Maret),10.09
+JAWA TENGAH,Perkotaan,2020,Semester 2 (September),10.57
+JAWA TENGAH,Perdesaan,2020,Semester 1 (Maret),12.8
+JAWA TENGAH,Perdesaan,2020,Semester 2 (September),13.2
+JAWA TENGAH,Jumlah,2020,Semester 1 (Maret),11.41
+JAWA TENGAH,Jumlah,2020,Semester 2 (September),11.84
+DI YOGYAKARTA,Perkotaan,2020,Semester 1 (Maret),11.53
+DI YOGYAKARTA,Perkotaan,2020,Semester 2 (September),12.17
+DI YOGYAKARTA,Perdesaan,2020,Semester 1 (Maret),14.31
+DI YOGYAKARTA,Perdesaan,2020,Semester 2 (September),14.57
+DI YOGYAKARTA,Jumlah,2020,Semester 1 (Maret),12.28
+DI YOGYAKARTA,Jumlah,2020,Semester 2 (September),12.8
+JAWA TIMUR,Perkotaan,2020,Semester 1 (Maret),7.89
+JAWA TIMUR,Perkotaan,2020,Semester 2 (September),8.37
+JAWA TIMUR,Perdesaan,2020,Semester 1 (Maret),14.77
+JAWA TIMUR,Perdesaan,2020,Semester 2 (September),15.16
+JAWA TIMUR,Jumlah,2020,Semester 1 (Maret),11.09
+JAWA TIMUR,Jumlah,2020,Semester 2 (September),11.46
+BANTEN,Perkotaan,2020,Semester 1 (Maret),5.03
+BANTEN,Perkotaan,2020,Semester 2 (September),5.85
+BANTEN,Perdesaan,2020,Semester 1 (Maret),8.18
+BANTEN,Perdesaan,2020,Semester 2 (September),8.57
+BANTEN,Jumlah,2020,Semester 1 (Maret),5.92
+BANTEN,Jumlah,2020,Semester 2 (September),6.63
+BALI,Perkotaan,2020,Semester 1 (Maret),3.33
+BALI,Perkotaan,2020,Semester 2 (September),4.04
+BALI,Perdesaan,2020,Semester 1 (Maret),4.78
+BALI,Perdesaan,2020,Semester 2 (September),5.4
+BALI,Jumlah,2020,Semester 1 (Maret),3.78
+BALI,Jumlah,2020,Semester 2 (September),4.45
+NUSA TENGGARA BARAT,Perkotaan,2020,Semester 1 (Maret),14.9
+NUSA TENGGARA BARAT,Perkotaan,2020,Semester 2 (September),15.05
+NUSA TENGGARA BARAT,Perdesaan,2020,Semester 1 (Maret),13.09
+NUSA TENGGARA BARAT,Perdesaan,2020,Semester 2 (September),13.42
+NUSA TENGGARA BARAT,Jumlah,2020,Semester 1 (Maret),13.97
+NUSA TENGGARA BARAT,Jumlah,2020,Semester 2 (September),14.23
+NUSA TENGGARA TIMUR,Perkotaan,2020,Semester 1 (Maret),8.64
+NUSA TENGGARA TIMUR,Perkotaan,2020,Semester 2 (September),8.76
+NUSA TENGGARA TIMUR,Perdesaan,2020,Semester 1 (Maret),24.73
+NUSA TENGGARA TIMUR,Perdesaan,2020,Semester 2 (September),25.26
+NUSA TENGGARA TIMUR,Jumlah,2020,Semester 1 (Maret),20.9
+NUSA TENGGARA TIMUR,Jumlah,2020,Semester 2 (September),21.21
+KALIMANTAN BARAT,Perkotaan,2020,Semester 1 (Maret),4.69
+KALIMANTAN BARAT,Perkotaan,2020,Semester 2 (September),4.86
+KALIMANTAN BARAT,Perdesaan,2020,Semester 1 (Maret),8.5
+KALIMANTAN BARAT,Perdesaan,2020,Semester 2 (September),8.57
+KALIMANTAN BARAT,Jumlah,2020,Semester 1 (Maret),7.17
+KALIMANTAN BARAT,Jumlah,2020,Semester 2 (September),7.24
+KALIMANTAN TENGAH,Perkotaan,2020,Semester 1 (Maret),4.62
+KALIMANTAN TENGAH,Perkotaan,2020,Semester 2 (September),4.92
+KALIMANTAN TENGAH,Perdesaan,2020,Semester 1 (Maret),4.96
+KALIMANTAN TENGAH,Perdesaan,2020,Semester 2 (September),5.5
+KALIMANTAN TENGAH,Jumlah,2020,Semester 1 (Maret),4.82
+KALIMANTAN TENGAH,Jumlah,2020,Semester 2 (September),5.26
+KALIMANTAN SELATAN,Perkotaan,2020,Semester 1 (Maret),3.61
+KALIMANTAN SELATAN,Perkotaan,2020,Semester 2 (September),3.83
+KALIMANTAN SELATAN,Perdesaan,2020,Semester 1 (Maret),5.08
+KALIMANTAN SELATAN,Perdesaan,2020,Semester 2 (September),5.76
+KALIMANTAN SELATAN,Jumlah,2020,Semester 1 (Maret),4.38
+KALIMANTAN SELATAN,Jumlah,2020,Semester 2 (September),4.83
+KALIMANTAN TIMUR,Perkotaan,2020,Semester 1 (Maret),4.45
+KALIMANTAN TIMUR,Perkotaan,2020,Semester 2 (September),5.1
+KALIMANTAN TIMUR,Perdesaan,2020,Semester 1 (Maret),9.51
+KALIMANTAN TIMUR,Perdesaan,2020,Semester 2 (September),9.98
+KALIMANTAN TIMUR,Jumlah,2020,Semester 1 (Maret),6.1
+KALIMANTAN TIMUR,Jumlah,2020,Semester 2 (September),6.64
+KALIMANTAN UTARA,Perkotaan,2020,Semester 1 (Maret),5.06
+KALIMANTAN UTARA,Perkotaan,2020,Semester 2 (September),5.74
+KALIMANTAN UTARA,Perdesaan,2020,Semester 1 (Maret),9.46
+KALIMANTAN UTARA,Perdesaan,2020,Semester 2 (September),10.07
+KALIMANTAN UTARA,Jumlah,2020,Semester 1 (Maret),6.8
+KALIMANTAN UTARA,Jumlah,2020,Semester 2 (September),7.41
+SULAWESI UTARA,Perkotaan,2020,Semester 1 (Maret),5.22
+SULAWESI UTARA,Perkotaan,2020,Semester 2 (September),5.31
+SULAWESI UTARA,Perdesaan,2020,Semester 1 (Maret),10.25
+SULAWESI UTARA,Perdesaan,2020,Semester 2 (September),10.64
+SULAWESI UTARA,Jumlah,2020,Semester 1 (Maret),7.62
+SULAWESI UTARA,Jumlah,2020,Semester 2 (September),7.78
+SULAWESI TENGAH,Perkotaan,2020,Semester 1 (Maret),8.76
+SULAWESI TENGAH,Perkotaan,2020,Semester 2 (September),9.21
+SULAWESI TENGAH,Perdesaan,2020,Semester 1 (Maret),14.69
+SULAWESI TENGAH,Perdesaan,2020,Semester 2 (September),14.76
+SULAWESI TENGAH,Jumlah,2020,Semester 1 (Maret),12.92
+SULAWESI TENGAH,Jumlah,2020,Semester 2 (September),13.06
+SULAWESI SELATAN,Perkotaan,2020,Semester 1 (Maret),4.49
+SULAWESI SELATAN,Perkotaan,2020,Semester 2 (September),4.92
+SULAWESI SELATAN,Perdesaan,2020,Semester 1 (Maret),11.97
+SULAWESI SELATAN,Perdesaan,2020,Semester 2 (September),12.25
+SULAWESI SELATAN,Jumlah,2020,Semester 1 (Maret),8.72
+SULAWESI SELATAN,Jumlah,2020,Semester 2 (September),8.99
+SULAWESI TENGGARA,Perkotaan,2020,Semester 1 (Maret),7.14
+SULAWESI TENGGARA,Perkotaan,2020,Semester 2 (September),7.62
+SULAWESI TENGGARA,Perdesaan,2020,Semester 1 (Maret),13.5
+SULAWESI TENGGARA,Perdesaan,2020,Semester 2 (September),13.93
+SULAWESI TENGGARA,Jumlah,2020,Semester 1 (Maret),11
+SULAWESI TENGGARA,Jumlah,2020,Semester 2 (September),11.69
+GORONTALO,Perkotaan,2020,Semester 1 (Maret),3.97
+GORONTALO,Perkotaan,2020,Semester 2 (September),4.18
+GORONTALO,Perdesaan,2020,Semester 1 (Maret),23.45
+GORONTALO,Perdesaan,2020,Semester 2 (September),24.32
+GORONTALO,Jumlah,2020,Semester 1 (Maret),15.22
+GORONTALO,Jumlah,2020,Semester 2 (September),15.59
+SULAWESI BARAT,Perkotaan,2020,Semester 1 (Maret),9.59
+SULAWESI BARAT,Perkotaan,2020,Semester 2 (September),9.98
+SULAWESI BARAT,Perdesaan,2020,Semester 1 (Maret),11.26
+SULAWESI BARAT,Perdesaan,2020,Semester 2 (September),11.89
+SULAWESI BARAT,Jumlah,2020,Semester 1 (Maret),10.87
+SULAWESI BARAT,Jumlah,2020,Semester 2 (September),11.5
+MALUKU,Perkotaan,2020,Semester 1 (Maret),6.23
+MALUKU,Perkotaan,2020,Semester 2 (September),6.36
+MALUKU,Perdesaan,2020,Semester 1 (Maret),26.21
+MALUKU,Perdesaan,2020,Semester 2 (September),27.06
+MALUKU,Jumlah,2020,Semester 1 (Maret),17.44
+MALUKU,Jumlah,2020,Semester 2 (September),17.99
+MALUKU UTARA,Perkotaan,2020,Semester 1 (Maret),4.53
+MALUKU UTARA,Perkotaan,2020,Semester 2 (September),5.03
+MALUKU UTARA,Perdesaan,2020,Semester 1 (Maret),7.7
+MALUKU UTARA,Perdesaan,2020,Semester 2 (September),7.74
+MALUKU UTARA,Jumlah,2020,Semester 1 (Maret),6.78
+MALUKU UTARA,Jumlah,2020,Semester 2 (September),6.97
+PAPUA BARAT,Perkotaan,2020,Semester 1 (Maret),5.85
+PAPUA BARAT,Perkotaan,2020,Semester 2 (September),6.31
+PAPUA BARAT,Perdesaan,2020,Semester 1 (Maret),32.7
+PAPUA BARAT,Perdesaan,2020,Semester 2 (September),33.2
+PAPUA BARAT,Jumlah,2020,Semester 1 (Maret),21.37
+PAPUA BARAT,Jumlah,2020,Semester 2 (September),21.7
+PAPUA,Perkotaan,2020,Semester 1 (Maret),4.47
+PAPUA,Perkotaan,2020,Semester 2 (September),4.59
+PAPUA,Perdesaan,2020,Semester 1 (Maret),35.5
+PAPUA,Perdesaan,2020,Semester 2 (September),35.69
+PAPUA,Jumlah,2020,Semester 1 (Maret),26.64
+PAPUA,Jumlah,2020,Semester 2 (September),26.8
+INDONESIA,Perkotaan,2020,Semester 1 (Maret),7.38
+INDONESIA,Perkotaan,2020,Semester 2 (September),7.88
+INDONESIA,Perdesaan,2020,Semester 1 (Maret),12.82
+INDONESIA,Perdesaan,2020,Semester 2 (September),13.2
+INDONESIA,Jumlah,2020,Semester 1 (Maret),9.78
+INDONESIA,Jumlah,2020,Semester 2 (September),10.19
+ACEH,Perkotaan,2021,Semester 1 (Maret),10.46
+ACEH,Perkotaan,2021,Semester 2 (September),10.58
+ACEH,Perdesaan,2021,Semester 1 (Maret),17.78
+ACEH,Perdesaan,2021,Semester 2 (September),18.04
+ACEH,Jumlah,2021,Semester 1 (Maret),15.33
+ACEH,Jumlah,2021,Semester 2 (September),15.53
+SUMATERA UTARA,Perkotaan,2021,Semester 1 (Maret),9.15
+SUMATERA UTARA,Perkotaan,2021,Semester 2 (September),8.68
+SUMATERA UTARA,Perdesaan,2021,Semester 1 (Maret),8.84
+SUMATERA UTARA,Perdesaan,2021,Semester 2 (September),8.26
+SUMATERA UTARA,Jumlah,2021,Semester 1 (Maret),9.01
+SUMATERA UTARA,Jumlah,2021,Semester 2 (September),8.49
+SUMATERA BARAT,Perkotaan,2021,Semester 1 (Maret),5.3
+SUMATERA BARAT,Perkotaan,2021,Semester 2 (September),4.83
+SUMATERA BARAT,Perdesaan,2021,Semester 1 (Maret),7.91
+SUMATERA BARAT,Perdesaan,2021,Semester 2 (September),7.23
+SUMATERA BARAT,Jumlah,2021,Semester 1 (Maret),6.63
+SUMATERA BARAT,Jumlah,2021,Semester 2 (September),6.04
+RIAU,Perkotaan,2021,Semester 1 (Maret),6.52
+RIAU,Perkotaan,2021,Semester 2 (September),6.72
+RIAU,Perdesaan,2021,Semester 1 (Maret),7.51
+RIAU,Perdesaan,2021,Semester 2 (September),7.19
+RIAU,Jumlah,2021,Semester 1 (Maret),7.12
+RIAU,Jumlah,2021,Semester 2 (September),7
+JAMBI,Perkotaan,2021,Semester 1 (Maret),11.52
+JAMBI,Perkotaan,2021,Semester 2 (September),10.5
+JAMBI,Perdesaan,2021,Semester 1 (Maret),6.42
+JAMBI,Perdesaan,2021,Semester 2 (September),6.28
+JAMBI,Jumlah,2021,Semester 1 (Maret),8.09
+JAMBI,Jumlah,2021,Semester 2 (September),7.67
+SUMATERA SELATAN,Perkotaan,2021,Semester 1 (Maret),12.36
+SUMATERA SELATAN,Perkotaan,2021,Semester 2 (September),11.99
+SUMATERA SELATAN,Perdesaan,2021,Semester 1 (Maret),13.12
+SUMATERA SELATAN,Perdesaan,2021,Semester 2 (September),13.28
+SUMATERA SELATAN,Jumlah,2021,Semester 1 (Maret),12.84
+SUMATERA SELATAN,Jumlah,2021,Semester 2 (September),12.79
+BENGKULU,Perkotaan,2021,Semester 1 (Maret),15.1
+BENGKULU,Perkotaan,2021,Semester 2 (September),14.73
+BENGKULU,Perdesaan,2021,Semester 1 (Maret),15.28
+BENGKULU,Perdesaan,2021,Semester 2 (September),14.28
+BENGKULU,Jumlah,2021,Semester 1 (Maret),15.22
+BENGKULU,Jumlah,2021,Semester 2 (September),14.43
+LAMPUNG,Perkotaan,2021,Semester 1 (Maret),9.29
+LAMPUNG,Perkotaan,2021,Semester 2 (September),8.5
+LAMPUNG,Perdesaan,2021,Semester 1 (Maret),14.18
+LAMPUNG,Perdesaan,2021,Semester 2 (September),13.18
+LAMPUNG,Jumlah,2021,Semester 1 (Maret),12.62
+LAMPUNG,Jumlah,2021,Semester 2 (September),11.67
+KEP. BANGKA BELITUNG,Perkotaan,2021,Semester 1 (Maret),3.57
+KEP. BANGKA BELITUNG,Perkotaan,2021,Semester 2 (September),3.22
+KEP. BANGKA BELITUNG,Perdesaan,2021,Semester 1 (Maret),6.63
+KEP. BANGKA BELITUNG,Perdesaan,2021,Semester 2 (September),6.57
+KEP. BANGKA BELITUNG,Jumlah,2021,Semester 1 (Maret),4.9
+KEP. BANGKA BELITUNG,Jumlah,2021,Semester 2 (September),4.67
+KEP. RIAU,Perkotaan,2021,Semester 1 (Maret),5.72
+KEP. RIAU,Perkotaan,2021,Semester 2 (September),5.37
+KEP. RIAU,Perdesaan,2021,Semester 1 (Maret),11.1
+KEP. RIAU,Perdesaan,2021,Semester 2 (September),10.45
+KEP. RIAU,Jumlah,2021,Semester 1 (Maret),6.12
+KEP. RIAU,Jumlah,2021,Semester 2 (September),5.75
+DKI JAKARTA,Perkotaan,2021,Semester 1 (Maret),4.72
+DKI JAKARTA,Perkotaan,2021,Semester 2 (September),4.67
+DKI JAKARTA,Jumlah,2021,Semester 1 (Maret),4.72
+DKI JAKARTA,Jumlah,2021,Semester 2 (September),4.67
+JAWA BARAT,Perkotaan,2021,Semester 1 (Maret),7.82
+JAWA BARAT,Perkotaan,2021,Semester 2 (September),7.48
+JAWA BARAT,Perdesaan,2021,Semester 1 (Maret),10.46
+JAWA BARAT,Perdesaan,2021,Semester 2 (September),9.76
+JAWA BARAT,Jumlah,2021,Semester 1 (Maret),8.4
+JAWA BARAT,Jumlah,2021,Semester 2 (September),7.97
+JAWA TENGAH,Perkotaan,2021,Semester 1 (Maret),10.58
+JAWA TENGAH,Perkotaan,2021,Semester 2 (September),10.16
+JAWA TENGAH,Perdesaan,2021,Semester 1 (Maret),13.07
+JAWA TENGAH,Perdesaan,2021,Semester 2 (September),12.44
+JAWA TENGAH,Jumlah,2021,Semester 1 (Maret),11.79
+JAWA TENGAH,Jumlah,2021,Semester 2 (September),11.25
+DI YOGYAKARTA,Perkotaan,2021,Semester 1 (Maret),12.23
+DI YOGYAKARTA,Perkotaan,2021,Semester 2 (September),11.2
+DI YOGYAKARTA,Perdesaan,2021,Semester 1 (Maret),14.44
+DI YOGYAKARTA,Perdesaan,2021,Semester 2 (September),13.99
+DI YOGYAKARTA,Jumlah,2021,Semester 1 (Maret),12.8
+DI YOGYAKARTA,Jumlah,2021,Semester 2 (September),11.91
+JAWA TIMUR,Perkotaan,2021,Semester 1 (Maret),8.38
+JAWA TIMUR,Perkotaan,2021,Semester 2 (September),7.99
+JAWA TIMUR,Perdesaan,2021,Semester 1 (Maret),15.05
+JAWA TIMUR,Perdesaan,2021,Semester 2 (September),13.79
+JAWA TIMUR,Jumlah,2021,Semester 1 (Maret),11.4
+JAWA TIMUR,Jumlah,2021,Semester 2 (September),10.59
+BANTEN,Perkotaan,2021,Semester 1 (Maret),5.93
+BANTEN,Perkotaan,2021,Semester 2 (September),6.04
+BANTEN,Perdesaan,2021,Semester 1 (Maret),8.49
+BANTEN,Perdesaan,2021,Semester 2 (September),7.72
+BANTEN,Jumlah,2021,Semester 1 (Maret),6.66
+BANTEN,Jumlah,2021,Semester 2 (September),6.5
+BALI,Perkotaan,2021,Semester 1 (Maret),4.12
+BALI,Perkotaan,2021,Semester 2 (September),4.33
+BALI,Perdesaan,2021,Semester 1 (Maret),5.52
+BALI,Perdesaan,2021,Semester 2 (September),5.68
+BALI,Jumlah,2021,Semester 1 (Maret),4.53
+BALI,Jumlah,2021,Semester 2 (September),4.72
+NUSA TENGGARA BARAT,Perkotaan,2021,Semester 1 (Maret),14.92
+NUSA TENGGARA BARAT,Perkotaan,2021,Semester 2 (September),14.54
+NUSA TENGGARA BARAT,Perdesaan,2021,Semester 1 (Maret),13.37
+NUSA TENGGARA BARAT,Perdesaan,2021,Semester 2 (September),13.12
+NUSA TENGGARA BARAT,Jumlah,2021,Semester 1 (Maret),14.14
+NUSA TENGGARA BARAT,Jumlah,2021,Semester 2 (September),13.83
+NUSA TENGGARA TIMUR,Perkotaan,2021,Semester 1 (Maret),8.6
+NUSA TENGGARA TIMUR,Perkotaan,2021,Semester 2 (September),8.57
+NUSA TENGGARA TIMUR,Perdesaan,2021,Semester 1 (Maret),25.08
+NUSA TENGGARA TIMUR,Perdesaan,2021,Semester 2 (September),24.42
+NUSA TENGGARA TIMUR,Jumlah,2021,Semester 1 (Maret),20.99
+NUSA TENGGARA TIMUR,Jumlah,2021,Semester 2 (September),20.44
+KALIMANTAN BARAT,Perkotaan,2021,Semester 1 (Maret),4.68
+KALIMANTAN BARAT,Perkotaan,2021,Semester 2 (September),4.72
+KALIMANTAN BARAT,Perdesaan,2021,Semester 1 (Maret),8.54
+KALIMANTAN BARAT,Perdesaan,2021,Semester 2 (September),8.05
+KALIMANTAN BARAT,Jumlah,2021,Semester 1 (Maret),7.15
+KALIMANTAN BARAT,Jumlah,2021,Semester 2 (September),6.84
+KALIMANTAN TENGAH,Perkotaan,2021,Semester 1 (Maret),4.86
+KALIMANTAN TENGAH,Perkotaan,2021,Semester 2 (September),5.08
+KALIMANTAN TENGAH,Perdesaan,2021,Semester 1 (Maret),5.38
+KALIMANTAN TENGAH,Perdesaan,2021,Semester 2 (September),5.23
+KALIMANTAN TENGAH,Jumlah,2021,Semester 1 (Maret),5.16
+KALIMANTAN TENGAH,Jumlah,2021,Semester 2 (September),5.16
+KALIMANTAN SELATAN,Perkotaan,2021,Semester 1 (Maret),3.89
+KALIMANTAN SELATAN,Perkotaan,2021,Semester 2 (September),3.81
+KALIMANTAN SELATAN,Perdesaan,2021,Semester 1 (Maret),5.71
+KALIMANTAN SELATAN,Perdesaan,2021,Semester 2 (September),5.28
+KALIMANTAN SELATAN,Jumlah,2021,Semester 1 (Maret),4.83
+KALIMANTAN SELATAN,Jumlah,2021,Semester 2 (September),4.56
+KALIMANTAN TIMUR,Perkotaan,2021,Semester 1 (Maret),5.01
+KALIMANTAN TIMUR,Perkotaan,2021,Semester 2 (September),4.74
+KALIMANTAN TIMUR,Perdesaan,2021,Semester 1 (Maret),9.87
+KALIMANTAN TIMUR,Perdesaan,2021,Semester 2 (September),9.63
+KALIMANTAN TIMUR,Jumlah,2021,Semester 1 (Maret),6.54
+KALIMANTAN TIMUR,Jumlah,2021,Semester 2 (September),6.27
+KALIMANTAN UTARA,Perkotaan,2021,Semester 1 (Maret),5.85
+KALIMANTAN UTARA,Perkotaan,2021,Semester 2 (September),5.32
+KALIMANTAN UTARA,Perdesaan,2021,Semester 1 (Maret),9.82
+KALIMANTAN UTARA,Perdesaan,2021,Semester 2 (September),9.31
+KALIMANTAN UTARA,Jumlah,2021,Semester 1 (Maret),7.36
+KALIMANTAN UTARA,Jumlah,2021,Semester 2 (September),6.83
+SULAWESI UTARA,Perkotaan,2021,Semester 1 (Maret),5.36
+SULAWESI UTARA,Perkotaan,2021,Semester 2 (September),5.09
+SULAWESI UTARA,Perdesaan,2021,Semester 1 (Maret),10.61
+SULAWESI UTARA,Perdesaan,2021,Semester 2 (September),10.07
+SULAWESI UTARA,Jumlah,2021,Semester 1 (Maret),7.77
+SULAWESI UTARA,Jumlah,2021,Semester 2 (September),7.36
+SULAWESI TENGAH,Perkotaan,2021,Semester 1 (Maret),9.15
+SULAWESI TENGAH,Perkotaan,2021,Semester 2 (September),8.82
+SULAWESI TENGAH,Perdesaan,2021,Semester 1 (Maret),14.73
+SULAWESI TENGAH,Perdesaan,2021,Semester 2 (September),13.71
+SULAWESI TENGAH,Jumlah,2021,Semester 1 (Maret),13
+SULAWESI TENGAH,Jumlah,2021,Semester 2 (September),12.18
+SULAWESI SELATAN,Perkotaan,2021,Semester 1 (Maret),4.77
+SULAWESI SELATAN,Perkotaan,2021,Semester 2 (September),4.89
+SULAWESI SELATAN,Perdesaan,2021,Semester 1 (Maret),12.05
+SULAWESI SELATAN,Perdesaan,2021,Semester 2 (September),11.55
+SULAWESI SELATAN,Jumlah,2021,Semester 1 (Maret),8.78
+SULAWESI SELATAN,Jumlah,2021,Semester 2 (September),8.53
+SULAWESI TENGGARA,Perkotaan,2021,Semester 1 (Maret),7.66
+SULAWESI TENGGARA,Perkotaan,2021,Semester 2 (September),7.14
+SULAWESI TENGGARA,Perdesaan,2021,Semester 1 (Maret),13.89
+SULAWESI TENGGARA,Perdesaan,2021,Semester 2 (September),14.34
+SULAWESI TENGGARA,Jumlah,2021,Semester 1 (Maret),11.66
+SULAWESI TENGGARA,Jumlah,2021,Semester 2 (September),11.74
+GORONTALO,Perkotaan,2021,Semester 1 (Maret),4.23
+GORONTALO,Perkotaan,2021,Semester 2 (September),4.06
+GORONTALO,Perdesaan,2021,Semester 1 (Maret),24.47
+GORONTALO,Perdesaan,2021,Semester 2 (September),24.38
+GORONTALO,Jumlah,2021,Semester 1 (Maret),15.61
+GORONTALO,Jumlah,2021,Semester 2 (September),15.41
+SULAWESI BARAT,Perkotaan,2021,Semester 1 (Maret),9.82
+SULAWESI BARAT,Perkotaan,2021,Semester 2 (September),9.72
+SULAWESI BARAT,Perdesaan,2021,Semester 1 (Maret),11.67
+SULAWESI BARAT,Perdesaan,2021,Semester 2 (September),12.39
+SULAWESI BARAT,Jumlah,2021,Semester 1 (Maret),11.29
+SULAWESI BARAT,Jumlah,2021,Semester 2 (September),11.85
+MALUKU,Perkotaan,2021,Semester 1 (Maret),6.29
+MALUKU,Perkotaan,2021,Semester 2 (September),6.13
+MALUKU,Perdesaan,2021,Semester 1 (Maret),26.96
+MALUKU,Perdesaan,2021,Semester 2 (September),24.34
+MALUKU,Jumlah,2021,Semester 1 (Maret),17.87
+MALUKU,Jumlah,2021,Semester 2 (September),16.3
+MALUKU UTARA,Perkotaan,2021,Semester 1 (Maret),5.13
+MALUKU UTARA,Perkotaan,2021,Semester 2 (September),4.83
+MALUKU UTARA,Perdesaan,2021,Semester 1 (Maret),7.59
+MALUKU UTARA,Perdesaan,2021,Semester 2 (September),7
+MALUKU UTARA,Jumlah,2021,Semester 1 (Maret),6.89
+MALUKU UTARA,Jumlah,2021,Semester 2 (September),6.38
+PAPUA BARAT,Perkotaan,2021,Semester 1 (Maret),6.5
+PAPUA BARAT,Perkotaan,2021,Semester 2 (September),6.44
+PAPUA BARAT,Perdesaan,2021,Semester 1 (Maret),33.4
+PAPUA BARAT,Perdesaan,2021,Semester 2 (September),33.5
+PAPUA BARAT,Jumlah,2021,Semester 1 (Maret),21.84
+PAPUA BARAT,Jumlah,2021,Semester 2 (September),21.82
+PAPUA,Perkotaan,2021,Semester 1 (Maret),4.91
+PAPUA,Perkotaan,2021,Semester 2 (September),4.94
+PAPUA,Perdesaan,2021,Semester 1 (Maret),35.71
+PAPUA,Perdesaan,2021,Semester 2 (September),36.5
+PAPUA,Jumlah,2021,Semester 1 (Maret),26.86
+PAPUA,Jumlah,2021,Semester 2 (September),27.38
+INDONESIA,Perkotaan,2021,Semester 1 (Maret),7.89
+INDONESIA,Perkotaan,2021,Semester 2 (September),7.6
+INDONESIA,Perdesaan,2021,Semester 1 (Maret),13.1
+INDONESIA,Perdesaan,2021,Semester 2 (September),12.53
+INDONESIA,Jumlah,2021,Semester 1 (Maret),10.14
+INDONESIA,Jumlah,2021,Semester 2 (September),9.71
+ACEH,Perkotaan,2022,Semester 1 (Maret),10.31
+ACEH,Perkotaan,2022,Semester 2 (September),10.35
+ACEH,Perdesaan,2022,Semester 1 (Maret),16.87
+ACEH,Perdesaan,2022,Semester 2 (September),17.06
+ACEH,Jumlah,2022,Semester 1 (Maret),14.64
+ACEH,Jumlah,2022,Semester 2 (September),14.75
+SUMATERA UTARA,Perkotaan,2022,Semester 1 (Maret),8.76
+SUMATERA UTARA,Perkotaan,2022,Semester 2 (September),8.63
+SUMATERA UTARA,Perdesaan,2022,Semester 1 (Maret),7.98
+SUMATERA UTARA,Perdesaan,2022,Semester 2 (September),7.96
+SUMATERA UTARA,Jumlah,2022,Semester 1 (Maret),8.42
+SUMATERA UTARA,Jumlah,2022,Semester 2 (September),8.33
+SUMATERA BARAT,Perkotaan,2022,Semester 1 (Maret),4.95
+SUMATERA BARAT,Perkotaan,2022,Semester 2 (September),4.9
+SUMATERA BARAT,Perdesaan,2022,Semester 1 (Maret),6.86
+SUMATERA BARAT,Perdesaan,2022,Semester 2 (September),7.2
+SUMATERA BARAT,Jumlah,2022,Semester 1 (Maret),5.92
+SUMATERA BARAT,Jumlah,2022,Semester 2 (September),6.04
+RIAU,Perkotaan,2022,Semester 1 (Maret),6.34
+RIAU,Perkotaan,2022,Semester 2 (September),6.49
+RIAU,Perdesaan,2022,Semester 1 (Maret),7.08
+RIAU,Perdesaan,2022,Semester 2 (September),7.07
+RIAU,Jumlah,2022,Semester 1 (Maret),6.78
+RIAU,Jumlah,2022,Semester 2 (September),6.84
+JAMBI,Perkotaan,2022,Semester 1 (Maret),10.51
+JAMBI,Perkotaan,2022,Semester 2 (September),10.48
+JAMBI,Perdesaan,2022,Semester 1 (Maret),6.19
+JAMBI,Perdesaan,2022,Semester 2 (September),6.32
+JAMBI,Jumlah,2022,Semester 1 (Maret),7.62
+JAMBI,Jumlah,2022,Semester 2 (September),7.7
+SUMATERA SELATAN,Perkotaan,2022,Semester 1 (Maret),11.23
+SUMATERA SELATAN,Perkotaan,2022,Semester 2 (September),11.37
+SUMATERA SELATAN,Perdesaan,2022,Semester 1 (Maret),12.31
+SUMATERA SELATAN,Perdesaan,2022,Semester 2 (September),12.3
+SUMATERA SELATAN,Jumlah,2022,Semester 1 (Maret),11.9
+SUMATERA SELATAN,Jumlah,2022,Semester 2 (September),11.95
+BENGKULU,Perkotaan,2022,Semester 1 (Maret),14.88
+BENGKULU,Perkotaan,2022,Semester 2 (September),14.53
+BENGKULU,Perdesaan,2022,Semester 1 (Maret),14.49
+BENGKULU,Perdesaan,2022,Semester 2 (September),14.24
+BENGKULU,Jumlah,2022,Semester 1 (Maret),14.62
+BENGKULU,Jumlah,2022,Semester 2 (September),14.34
+LAMPUNG,Perkotaan,2022,Semester 1 (Maret),8.31
+LAMPUNG,Perkotaan,2022,Semester 2 (September),8.34
+LAMPUNG,Perdesaan,2022,Semester 1 (Maret),13.14
+LAMPUNG,Perdesaan,2022,Semester 2 (September),12.96
+LAMPUNG,Jumlah,2022,Semester 1 (Maret),11.57
+LAMPUNG,Jumlah,2022,Semester 2 (September),11.44
+KEP. BANGKA BELITUNG,Perkotaan,2022,Semester 1 (Maret),3.09
+KEP. BANGKA BELITUNG,Perkotaan,2022,Semester 2 (September),3.48
+KEP. BANGKA BELITUNG,Perdesaan,2022,Semester 1 (Maret),6.26
+KEP. BANGKA BELITUNG,Perdesaan,2022,Semester 2 (September),6.13
+KEP. BANGKA BELITUNG,Jumlah,2022,Semester 1 (Maret),4.45
+KEP. BANGKA BELITUNG,Jumlah,2022,Semester 2 (September),4.61
+KEP. RIAU,Perkotaan,2022,Semester 1 (Maret),5.68
+KEP. RIAU,Perkotaan,2022,Semester 2 (September),5.46
+KEP. RIAU,Perdesaan,2022,Semester 1 (Maret),10.68
+KEP. RIAU,Perdesaan,2022,Semester 2 (September),10.63
+KEP. RIAU,Jumlah,2022,Semester 1 (Maret),6.24
+KEP. RIAU,Jumlah,2022,Semester 2 (September),6.03
+DKI JAKARTA,Perkotaan,2022,Semester 1 (Maret),4.69
+DKI JAKARTA,Perkotaan,2022,Semester 2 (September),4.61
+DKI JAKARTA,Jumlah,2022,Semester 1 (Maret),4.69
+DKI JAKARTA,Jumlah,2022,Semester 2 (September),4.61
+JAWA BARAT,Perkotaan,2022,Semester 1 (Maret),7.57
+JAWA BARAT,Perkotaan,2022,Semester 2 (September),7.52
+JAWA BARAT,Perdesaan,2022,Semester 1 (Maret),9.88
+JAWA BARAT,Perdesaan,2022,Semester 2 (September),9.75
+JAWA BARAT,Jumlah,2022,Semester 1 (Maret),8.06
+JAWA BARAT,Jumlah,2022,Semester 2 (September),7.98
+JAWA TENGAH,Perkotaan,2022,Semester 1 (Maret),9.92
+JAWA TENGAH,Perkotaan,2022,Semester 2 (September),10.02
+JAWA TENGAH,Perdesaan,2022,Semester 1 (Maret),12.04
+JAWA TENGAH,Perdesaan,2022,Semester 2 (September),12.05
+JAWA TENGAH,Jumlah,2022,Semester 1 (Maret),10.93
+JAWA TENGAH,Jumlah,2022,Semester 2 (September),10.98
+DI YOGYAKARTA,Perkotaan,2022,Semester 1 (Maret),10.56
+DI YOGYAKARTA,Perkotaan,2022,Semester 2 (September),10.64
+DI YOGYAKARTA,Perdesaan,2022,Semester 1 (Maret),13.65
+DI YOGYAKARTA,Perdesaan,2022,Semester 2 (September),14
+DI YOGYAKARTA,Jumlah,2022,Semester 1 (Maret),11.34
+DI YOGYAKARTA,Jumlah,2022,Semester 2 (September),11.49
+JAWA TIMUR,Perkotaan,2022,Semester 1 (Maret),7.71
+JAWA TIMUR,Perkotaan,2022,Semester 2 (September),7.78
+JAWA TIMUR,Perdesaan,2022,Semester 1 (Maret),13.69
+JAWA TIMUR,Perdesaan,2022,Semester 2 (September),13.9
+JAWA TIMUR,Jumlah,2022,Semester 1 (Maret),10.38
+JAWA TIMUR,Jumlah,2022,Semester 2 (September),10.49
+BANTEN,Perkotaan,2022,Semester 1 (Maret),5.73
+BANTEN,Perkotaan,2022,Semester 2 (September),5.89
+BANTEN,Perdesaan,2022,Semester 1 (Maret),7.46
+BANTEN,Perdesaan,2022,Semester 2 (September),7.29
+BANTEN,Jumlah,2022,Semester 1 (Maret),6.16
+BANTEN,Jumlah,2022,Semester 2 (September),6.24
+BALI,Perkotaan,2022,Semester 1 (Maret),4.23
+BALI,Perkotaan,2022,Semester 2 (September),4.12
+BALI,Perdesaan,2022,Semester 1 (Maret),5.39
+BALI,Perdesaan,2022,Semester 2 (September),5.58
+BALI,Jumlah,2022,Semester 1 (Maret),4.57
+BALI,Jumlah,2022,Semester 2 (September),4.53
+NUSA TENGGARA BARAT,Perkotaan,2022,Semester 1 (Maret),14.1
+NUSA TENGGARA BARAT,Perkotaan,2022,Semester 2 (September),13.98
+NUSA TENGGARA BARAT,Perdesaan,2022,Semester 1 (Maret),13.24
+NUSA TENGGARA BARAT,Perdesaan,2022,Semester 2 (September),13.66
+NUSA TENGGARA BARAT,Jumlah,2022,Semester 1 (Maret),13.68
+NUSA TENGGARA BARAT,Jumlah,2022,Semester 2 (September),13.82
+NUSA TENGGARA TIMUR,Perkotaan,2022,Semester 1 (Maret),8.84
+NUSA TENGGARA TIMUR,Perkotaan,2022,Semester 2 (September),9
+NUSA TENGGARA TIMUR,Perdesaan,2022,Semester 1 (Maret),23.86
+NUSA TENGGARA TIMUR,Perdesaan,2022,Semester 2 (September),24.11
+NUSA TENGGARA TIMUR,Jumlah,2022,Semester 1 (Maret),20.05
+NUSA TENGGARA TIMUR,Jumlah,2022,Semester 2 (September),20.23
+KALIMANTAN BARAT,Perkotaan,2022,Semester 1 (Maret),4.44
+KALIMANTAN BARAT,Perkotaan,2022,Semester 2 (September),4.63
+KALIMANTAN BARAT,Perdesaan,2022,Semester 1 (Maret),8.06
+KALIMANTAN BARAT,Perdesaan,2022,Semester 2 (September),8.1
+KALIMANTAN BARAT,Jumlah,2022,Semester 1 (Maret),6.73
+KALIMANTAN BARAT,Jumlah,2022,Semester 2 (September),6.81
+KALIMANTAN TENGAH,Perkotaan,2022,Semester 1 (Maret),5.17
+KALIMANTAN TENGAH,Perkotaan,2022,Semester 2 (September),5.09
+KALIMANTAN TENGAH,Perdesaan,2022,Semester 1 (Maret),5.36
+KALIMANTAN TENGAH,Perdesaan,2022,Semester 2 (September),5.32
+KALIMANTAN TENGAH,Jumlah,2022,Semester 1 (Maret),5.28
+KALIMANTAN TENGAH,Jumlah,2022,Semester 2 (September),5.22
+KALIMANTAN SELATAN,Perkotaan,2022,Semester 1 (Maret),3.64
+KALIMANTAN SELATAN,Perkotaan,2022,Semester 2 (September),4.03
+KALIMANTAN SELATAN,Perdesaan,2022,Semester 1 (Maret),5.31
+KALIMANTAN SELATAN,Perdesaan,2022,Semester 2 (September),5.17
+KALIMANTAN SELATAN,Jumlah,2022,Semester 1 (Maret),4.49
+KALIMANTAN SELATAN,Jumlah,2022,Semester 2 (September),4.61
+KALIMANTAN TIMUR,Perkotaan,2022,Semester 1 (Maret),4.8
+KALIMANTAN TIMUR,Perkotaan,2022,Semester 2 (September),4.97
+KALIMANTAN TIMUR,Perdesaan,2022,Semester 1 (Maret),9.64
+KALIMANTAN TIMUR,Perdesaan,2022,Semester 2 (September),9.71
+KALIMANTAN TIMUR,Jumlah,2022,Semester 1 (Maret),6.31
+KALIMANTAN TIMUR,Jumlah,2022,Semester 2 (September),6.44
+KALIMANTAN UTARA,Perkotaan,2022,Semester 1 (Maret),5.66
+KALIMANTAN UTARA,Perkotaan,2022,Semester 2 (September),5.58
+KALIMANTAN UTARA,Perdesaan,2022,Semester 1 (Maret),8.75
+KALIMANTAN UTARA,Perdesaan,2022,Semester 2 (September),9.15
+KALIMANTAN UTARA,Jumlah,2022,Semester 1 (Maret),6.77
+KALIMANTAN UTARA,Jumlah,2022,Semester 2 (September),6.86
+SULAWESI UTARA,Perkotaan,2022,Semester 1 (Maret),5.14
+SULAWESI UTARA,Perkotaan,2022,Semester 2 (September),5.04
+SULAWESI UTARA,Perdesaan,2022,Semester 1 (Maret),9.77
+SULAWESI UTARA,Perdesaan,2022,Semester 2 (September),10.16
+SULAWESI UTARA,Jumlah,2022,Semester 1 (Maret),7.28
+SULAWESI UTARA,Jumlah,2022,Semester 2 (September),7.34
+SULAWESI TENGAH,Perkotaan,2022,Semester 1 (Maret),9.03
+SULAWESI TENGAH,Perkotaan,2022,Semester 2 (September),9.13
+SULAWESI TENGAH,Perdesaan,2022,Semester 1 (Maret),13.87
+SULAWESI TENGAH,Perdesaan,2022,Semester 2 (September),13.79
+SULAWESI TENGAH,Jumlah,2022,Semester 1 (Maret),12.33
+SULAWESI TENGAH,Jumlah,2022,Semester 2 (September),12.3
+SULAWESI SELATAN,Perkotaan,2022,Semester 1 (Maret),5.07
+SULAWESI SELATAN,Perkotaan,2022,Semester 2 (September),4.98
+SULAWESI SELATAN,Perdesaan,2022,Semester 1 (Maret),11.63
+SULAWESI SELATAN,Perdesaan,2022,Semester 2 (September),11.81
+SULAWESI SELATAN,Jumlah,2022,Semester 1 (Maret),8.63
+SULAWESI SELATAN,Jumlah,2022,Semester 2 (September),8.66
+SULAWESI TENGGARA,Perkotaan,2022,Semester 1 (Maret),6.95
+SULAWESI TENGGARA,Perkotaan,2022,Semester 2 (September),7.22
+SULAWESI TENGGARA,Perdesaan,2022,Semester 1 (Maret),13.57
+SULAWESI TENGGARA,Perdesaan,2022,Semester 2 (September),13.6
+SULAWESI TENGGARA,Jumlah,2022,Semester 1 (Maret),11.17
+SULAWESI TENGGARA,Jumlah,2022,Semester 2 (September),11.27
+GORONTALO,Perkotaan,2022,Semester 1 (Maret),3.97
+GORONTALO,Perkotaan,2022,Semester 2 (September),4.49
+GORONTALO,Perdesaan,2022,Semester 1 (Maret),24.42
+GORONTALO,Perdesaan,2022,Semester 2 (September),24.52
+GORONTALO,Jumlah,2022,Semester 1 (Maret),15.42
+GORONTALO,Jumlah,2022,Semester 2 (September),15.51
+SULAWESI BARAT,Perkotaan,2022,Semester 1 (Maret),9.76
+SULAWESI BARAT,Perkotaan,2022,Semester 2 (September),9.33
+SULAWESI BARAT,Perdesaan,2022,Semester 1 (Maret),12.26
+SULAWESI BARAT,Perdesaan,2022,Semester 2 (September),12.58
+SULAWESI BARAT,Jumlah,2022,Semester 1 (Maret),11.75
+SULAWESI BARAT,Jumlah,2022,Semester 2 (September),11.92
+MALUKU,Perkotaan,2022,Semester 1 (Maret),5.82
+MALUKU,Perkotaan,2022,Semester 2 (September),5.9
+MALUKU,Perdesaan,2022,Semester 1 (Maret),23.5
+MALUKU,Perdesaan,2022,Semester 2 (September),24.54
+MALUKU,Jumlah,2022,Semester 1 (Maret),15.97
+MALUKU,Jumlah,2022,Semester 2 (September),16.23
+MALUKU UTARA,Perkotaan,2022,Semester 1 (Maret),5.18
+MALUKU UTARA,Perkotaan,2022,Semester 2 (September),6.17
+MALUKU UTARA,Perdesaan,2022,Semester 1 (Maret),6.66
+MALUKU UTARA,Perdesaan,2022,Semester 2 (September),6.45
+MALUKU UTARA,Jumlah,2022,Semester 1 (Maret),6.23
+MALUKU UTARA,Jumlah,2022,Semester 2 (September),6.37
+PAPUA BARAT,Perkotaan,2022,Semester 1 (Maret),6.96
+PAPUA BARAT,Perkotaan,2022,Semester 2 (September),7.64
+PAPUA BARAT,Perdesaan,2022,Semester 1 (Maret),31.42
+PAPUA BARAT,Perdesaan,2022,Semester 2 (September),32.12
+PAPUA BARAT,Jumlah,2022,Semester 1 (Maret),21.33
+PAPUA BARAT,Jumlah,2022,Semester 2 (September),21.43
+PAPUA,Perkotaan,2022,Semester 1 (Maret),5.02
+PAPUA,Perkotaan,2022,Semester 2 (September),5.29
+PAPUA,Perdesaan,2022,Semester 1 (Maret),35.39
+PAPUA,Perdesaan,2022,Semester 2 (September),35.68
+PAPUA,Jumlah,2022,Semester 1 (Maret),26.56
+PAPUA,Jumlah,2022,Semester 2 (September),26.8
+INDONESIA,Perkotaan,2022,Semester 1 (Maret),7.5
+INDONESIA,Perkotaan,2022,Semester 2 (September),7.53
+INDONESIA,Perdesaan,2022,Semester 1 (Maret),12.29
+INDONESIA,Perdesaan,2022,Semester 2 (September),12.36
+INDONESIA,Jumlah,2022,Semester 1 (Maret),9.54
+INDONESIA,Jumlah,2022,Semester 2 (September),9.57
+ACEH,Perkotaan,2023,Semester 1 (Maret),9.79
+ACEH,Perdesaan,2023,Semester 1 (Maret),16.92
+ACEH,Jumlah,2023,Semester 1 (Maret),14.45
+SUMATERA UTARA,Perkotaan,2023,Semester 1 (Maret),8.23
+SUMATERA UTARA,Perdesaan,2023,Semester 1 (Maret),8.03
+SUMATERA UTARA,Jumlah,2023,Semester 1 (Maret),8.15
+SUMATERA BARAT,Perkotaan,2023,Semester 1 (Maret),4.67
+SUMATERA BARAT,Perdesaan,2023,Semester 1 (Maret),7.23
+SUMATERA BARAT,Jumlah,2023,Semester 1 (Maret),5.95
+RIAU,Perkotaan,2023,Semester 1 (Maret),6.73
+RIAU,Perdesaan,2023,Semester 1 (Maret),6.65
+RIAU,Jumlah,2023,Semester 1 (Maret),6.68
+JAMBI,Perkotaan,2023,Semester 1 (Maret),10.19
+JAMBI,Perdesaan,2023,Semester 1 (Maret),6.28
+JAMBI,Jumlah,2023,Semester 1 (Maret),7.58
+SUMATERA SELATAN,Perkotaan,2023,Semester 1 (Maret),11.07
+SUMATERA SELATAN,Perdesaan,2023,Semester 1 (Maret),12.21
+SUMATERA SELATAN,Jumlah,2023,Semester 1 (Maret),11.78
+BENGKULU,Perkotaan,2023,Semester 1 (Maret),14.21
+BENGKULU,Perdesaan,2023,Semester 1 (Maret),13.96
+BENGKULU,Jumlah,2023,Semester 1 (Maret),14.04
+LAMPUNG,Perkotaan,2023,Semester 1 (Maret),8.02
+LAMPUNG,Perdesaan,2023,Semester 1 (Maret),12.65
+LAMPUNG,Jumlah,2023,Semester 1 (Maret),11.11
+KEP. BANGKA BELITUNG,Perkotaan,2023,Semester 1 (Maret),3.54
+KEP. BANGKA BELITUNG,Perdesaan,2023,Semester 1 (Maret),5.85
+KEP. BANGKA BELITUNG,Jumlah,2023,Semester 1 (Maret),4.52
+KEP. RIAU,Perkotaan,2023,Semester 1 (Maret),5.05
+KEP. RIAU,Perdesaan,2023,Semester 1 (Maret),10.69
+KEP. RIAU,Jumlah,2023,Semester 1 (Maret),5.69
+DKI JAKARTA,Perkotaan,2023,Semester 1 (Maret),4.44
+DKI JAKARTA,Jumlah,2023,Semester 1 (Maret),4.44
+JAWA BARAT,Perkotaan,2023,Semester 1 (Maret),7.19
+JAWA BARAT,Perdesaan,2023,Semester 1 (Maret),9.3
+JAWA BARAT,Jumlah,2023,Semester 1 (Maret),7.62
+JAWA TENGAH,Perkotaan,2023,Semester 1 (Maret),9.78
+JAWA TENGAH,Perdesaan,2023,Semester 1 (Maret),11.87
+JAWA TENGAH,Jumlah,2023,Semester 1 (Maret),10.77
+DI YOGYAKARTA,Perkotaan,2023,Semester 1 (Maret),10.27
+DI YOGYAKARTA,Perdesaan,2023,Semester 1 (Maret),13.36
+DI YOGYAKARTA,Jumlah,2023,Semester 1 (Maret),11.04
+JAWA TIMUR,Perkotaan,2023,Semester 1 (Maret),7.5
+JAWA TIMUR,Perdesaan,2023,Semester 1 (Maret),13.98
+JAWA TIMUR,Jumlah,2023,Semester 1 (Maret),10.35
+BANTEN,Perkotaan,2023,Semester 1 (Maret),6
+BANTEN,Perdesaan,2023,Semester 1 (Maret),6.79
+BANTEN,Jumlah,2023,Semester 1 (Maret),6.17
+BALI,Perkotaan,2023,Semester 1 (Maret),3.77
+BALI,Perdesaan,2023,Semester 1 (Maret),5.5
+BALI,Jumlah,2023,Semester 1 (Maret),4.25
+NUSA TENGGARA BARAT,Perkotaan,2023,Semester 1 (Maret),13.76
+NUSA TENGGARA BARAT,Perdesaan,2023,Semester 1 (Maret),13.95
+NUSA TENGGARA BARAT,Jumlah,2023,Semester 1 (Maret),13.85
+NUSA TENGGARA TIMUR,Perkotaan,2023,Semester 1 (Maret),9.12
+NUSA TENGGARA TIMUR,Perdesaan,2023,Semester 1 (Maret),23.76
+NUSA TENGGARA TIMUR,Jumlah,2023,Semester 1 (Maret),19.96
+KALIMANTAN BARAT,Perkotaan,2023,Semester 1 (Maret),4.44
+KALIMANTAN BARAT,Perdesaan,2023,Semester 1 (Maret),8.07
+KALIMANTAN BARAT,Jumlah,2023,Semester 1 (Maret),6.71
+KALIMANTAN TENGAH,Perkotaan,2023,Semester 1 (Maret),4.78
+KALIMANTAN TENGAH,Perdesaan,2023,Semester 1 (Maret),5.35
+KALIMANTAN TENGAH,Jumlah,2023,Semester 1 (Maret),5.11
+KALIMANTAN SELATAN,Perkotaan,2023,Semester 1 (Maret),3.84
+KALIMANTAN SELATAN,Perdesaan,2023,Semester 1 (Maret),4.72
+KALIMANTAN SELATAN,Jumlah,2023,Semester 1 (Maret),4.29
+KALIMANTAN TIMUR,Perkotaan,2023,Semester 1 (Maret),4.68
+KALIMANTAN TIMUR,Perdesaan,2023,Semester 1 (Maret),9.28
+KALIMANTAN TIMUR,Jumlah,2023,Semester 1 (Maret),6.11
+KALIMANTAN UTARA,Perkotaan,2023,Semester 1 (Maret),5.18
+KALIMANTAN UTARA,Perdesaan,2023,Semester 1 (Maret),8.74
+KALIMANTAN UTARA,Jumlah,2023,Semester 1 (Maret),6.45
+SULAWESI UTARA,Perkotaan,2023,Semester 1 (Maret),4.91
+SULAWESI UTARA,Perdesaan,2023,Semester 1 (Maret),10.38
+SULAWESI UTARA,Jumlah,2023,Semester 1 (Maret),7.38
+SULAWESI TENGAH,Perkotaan,2023,Semester 1 (Maret),8.9
+SULAWESI TENGAH,Perdesaan,2023,Semester 1 (Maret),14.09
+SULAWESI TENGAH,Jumlah,2023,Semester 1 (Maret),12.41
+SULAWESI SELATAN,Perkotaan,2023,Semester 1 (Maret),5.01
+SULAWESI SELATAN,Perdesaan,2023,Semester 1 (Maret),11.91
+SULAWESI SELATAN,Jumlah,2023,Semester 1 (Maret),8.7
+SULAWESI TENGGARA,Perkotaan,2023,Semester 1 (Maret),7.4
+SULAWESI TENGGARA,Perdesaan,2023,Semester 1 (Maret),13.94
+SULAWESI TENGGARA,Jumlah,2023,Semester 1 (Maret),11.43
+GORONTALO,Perkotaan,2023,Semester 1 (Maret),4.47
+GORONTALO,Perdesaan,2023,Semester 1 (Maret),23.73
+GORONTALO,Jumlah,2023,Semester 1 (Maret),15.15
+SULAWESI BARAT,Perkotaan,2023,Semester 1 (Maret),9.08
+SULAWESI BARAT,Perdesaan,2023,Semester 1 (Maret),12.1
+SULAWESI BARAT,Jumlah,2023,Semester 1 (Maret),11.49
+MALUKU,Perkotaan,2023,Semester 1 (Maret),5.49
+MALUKU,Perdesaan,2023,Semester 1 (Maret),24.64
+MALUKU,Jumlah,2023,Semester 1 (Maret),16.42
+MALUKU UTARA,Perkotaan,2023,Semester 1 (Maret),6.23
+MALUKU UTARA,Perdesaan,2023,Semester 1 (Maret),6.55
+MALUKU UTARA,Jumlah,2023,Semester 1 (Maret),6.46
+PAPUA BARAT,Perkotaan,2023,Semester 1 (Maret),8.23
+PAPUA BARAT,Perdesaan,2023,Semester 1 (Maret),29.2
+PAPUA BARAT,Jumlah,2023,Semester 1 (Maret),20.49
+PAPUA,Perkotaan,2023,Semester 1 (Maret),5.68
+PAPUA,Perdesaan,2023,Semester 1 (Maret),34.49
+PAPUA,Jumlah,2023,Semester 1 (Maret),26.03
+INDONESIA,Perkotaan,2023,Semester 1 (Maret),7.29
+INDONESIA,Perdesaan,2023,Semester 1 (Maret),12.22
+INDONESIA,Jumlah,2023,Semester 1 (Maret),9.36
+ACEH,Perkotaan,2024,Semester 1 (Maret),9.6
+ACEH,Perkotaan,2024,Semester 2 (September),8.37
+ACEH,Perdesaan,2024,Semester 1 (Maret),16.75
+ACEH,Perdesaan,2024,Semester 2 (September),14.99
+ACEH,Jumlah,2024,Semester 1 (Maret),14.23
+ACEH,Jumlah,2024,Semester 2 (September),12.64
+SUMATERA UTARA,Perkotaan,2024,Semester 1 (Maret),7.93
+SUMATERA UTARA,Perkotaan,2024,Semester 2 (September),7.01
+SUMATERA UTARA,Perdesaan,2024,Semester 1 (Maret),8.08
+SUMATERA UTARA,Perdesaan,2024,Semester 2 (September),7.44
+SUMATERA UTARA,Jumlah,2024,Semester 1 (Maret),7.99
+SUMATERA UTARA,Jumlah,2024,Semester 2 (September),7.19
+SUMATERA BARAT,Perkotaan,2024,Semester 1 (Maret),4.72
+SUMATERA BARAT,Perkotaan,2024,Semester 2 (September),4.16
+SUMATERA BARAT,Perdesaan,2024,Semester 1 (Maret),7.28
+SUMATERA BARAT,Perdesaan,2024,Semester 2 (September),6.79
+SUMATERA BARAT,Jumlah,2024,Semester 1 (Maret),5.97
+SUMATERA BARAT,Jumlah,2024,Semester 2 (September),5.42
+RIAU,Perkotaan,2024,Semester 1 (Maret),6.76
+RIAU,Perkotaan,2024,Semester 2 (September),6.11
+RIAU,Perdesaan,2024,Semester 1 (Maret),6.61
+RIAU,Perdesaan,2024,Semester 2 (September),6.52
+RIAU,Jumlah,2024,Semester 1 (Maret),6.67
+RIAU,Jumlah,2024,Semester 2 (September),6.36
+JAMBI,Perkotaan,2024,Semester 1 (Maret),9.5
+JAMBI,Perkotaan,2024,Semester 2 (September),9.6
+JAMBI,Perdesaan,2024,Semester 1 (Maret),5.9
+JAMBI,Perdesaan,2024,Semester 2 (September),6.08
+JAMBI,Jumlah,2024,Semester 1 (Maret),7.1
+JAMBI,Jumlah,2024,Semester 2 (September),7.26
+SUMATERA SELATAN,Perkotaan,2024,Semester 1 (Maret),10.04
+SUMATERA SELATAN,Perkotaan,2024,Semester 2 (September),9.02
+SUMATERA SELATAN,Perdesaan,2024,Semester 1 (Maret),11.53
+SUMATERA SELATAN,Perdesaan,2024,Semester 2 (September),11.43
+SUMATERA SELATAN,Jumlah,2024,Semester 1 (Maret),10.97
+SUMATERA SELATAN,Jumlah,2024,Semester 2 (September),10.51
+BENGKULU,Perkotaan,2024,Semester 1 (Maret),13.56
+BENGKULU,Perkotaan,2024,Semester 2 (September),12.32
+BENGKULU,Perdesaan,2024,Semester 1 (Maret),13.56
+BENGKULU,Perdesaan,2024,Semester 2 (September),12.63
+BENGKULU,Jumlah,2024,Semester 1 (Maret),13.56
+BENGKULU,Jumlah,2024,Semester 2 (September),12.52
+LAMPUNG,Perkotaan,2024,Semester 1 (Maret),8.18
+LAMPUNG,Perkotaan,2024,Semester 2 (September),7.91
+LAMPUNG,Perdesaan,2024,Semester 1 (Maret),11.97
+LAMPUNG,Perdesaan,2024,Semester 2 (September),12.04
+LAMPUNG,Jumlah,2024,Semester 1 (Maret),10.69
+LAMPUNG,Jumlah,2024,Semester 2 (September),10.62
+KEP. BANGKA BELITUNG,Perkotaan,2024,Semester 1 (Maret),3.39
+KEP. BANGKA BELITUNG,Perkotaan,2024,Semester 2 (September),4.09
+KEP. BANGKA BELITUNG,Perdesaan,2024,Semester 1 (Maret),6.17
+KEP. BANGKA BELITUNG,Perdesaan,2024,Semester 2 (September),6.49
+KEP. BANGKA BELITUNG,Jumlah,2024,Semester 1 (Maret),4.55
+KEP. BANGKA BELITUNG,Jumlah,2024,Semester 2 (September),5.08
+KEP. RIAU,Perkotaan,2024,Semester 1 (Maret),4.85
+KEP. RIAU,Perkotaan,2024,Semester 2 (September),4.36
+KEP. RIAU,Perdesaan,2024,Semester 1 (Maret),9.94
+KEP. RIAU,Perdesaan,2024,Semester 2 (September),8.55
+KEP. RIAU,Jumlah,2024,Semester 1 (Maret),5.37
+KEP. RIAU,Jumlah,2024,Semester 2 (September),4.78
+DKI JAKARTA,Perkotaan,2024,Semester 1 (Maret),4.3
+DKI JAKARTA,Perkotaan,2024,Semester 2 (September),4.14
+DKI JAKARTA,Jumlah,2024,Semester 1 (Maret),4.3
+DKI JAKARTA,Jumlah,2024,Semester 2 (September),4.14
+JAWA BARAT,Perkotaan,2024,Semester 1 (Maret),7.07
+JAWA BARAT,Perkotaan,2024,Semester 2 (September),6.65
+JAWA BARAT,Perdesaan,2024,Semester 1 (Maret),9.07
+JAWA BARAT,Perdesaan,2024,Semester 2 (September),8.85
+JAWA BARAT,Jumlah,2024,Semester 1 (Maret),7.46
+JAWA BARAT,Jumlah,2024,Semester 2 (September),7.08
+JAWA TENGAH,Perkotaan,2024,Semester 1 (Maret),9.71
+JAWA TENGAH,Perkotaan,2024,Semester 2 (September),8.83
+JAWA TENGAH,Perdesaan,2024,Semester 1 (Maret),11.34
+JAWA TENGAH,Perdesaan,2024,Semester 2 (September),10.45
+JAWA TENGAH,Jumlah,2024,Semester 1 (Maret),10.47
+JAWA TENGAH,Jumlah,2024,Semester 2 (September),9.58
+DI YOGYAKARTA,Perkotaan,2024,Semester 1 (Maret),10.29
+DI YOGYAKARTA,Perkotaan,2024,Semester 2 (September),10.11
+DI YOGYAKARTA,Perdesaan,2024,Semester 1 (Maret),12.49
+DI YOGYAKARTA,Perdesaan,2024,Semester 2 (September),11.31
+DI YOGYAKARTA,Jumlah,2024,Semester 1 (Maret),10.83
+DI YOGYAKARTA,Jumlah,2024,Semester 2 (September),10.4
+JAWA TIMUR,Perkotaan,2024,Semester 1 (Maret),7.12
+JAWA TIMUR,Perkotaan,2024,Semester 2 (September),6.83
+JAWA TIMUR,Perdesaan,2024,Semester 1 (Maret),13.3
+JAWA TIMUR,Perdesaan,2024,Semester 2 (September),13.19
+JAWA TIMUR,Jumlah,2024,Semester 1 (Maret),9.79
+JAWA TIMUR,Jumlah,2024,Semester 2 (September),9.56
+BANTEN,Perkotaan,2024,Semester 1 (Maret),5.69
+BANTEN,Perkotaan,2024,Semester 2 (September),5.57
+BANTEN,Perdesaan,2024,Semester 1 (Maret),6.44
+BANTEN,Perdesaan,2024,Semester 2 (September),6.2
+BANTEN,Jumlah,2024,Semester 1 (Maret),5.84
+BANTEN,Jumlah,2024,Semester 2 (September),5.7
+BALI,Perkotaan,2024,Semester 1 (Maret),3.55
+BALI,Perkotaan,2024,Semester 2 (September),3.32
+BALI,Perdesaan,2024,Semester 1 (Maret),5.2
+BALI,Perdesaan,2024,Semester 2 (September),5.11
+BALI,Jumlah,2024,Semester 1 (Maret),4
+BALI,Jumlah,2024,Semester 2 (September),3.8
+NUSA TENGGARA BARAT,Perkotaan,2024,Semester 1 (Maret),12.86
+NUSA TENGGARA BARAT,Perkotaan,2024,Semester 2 (September),11.64
+NUSA TENGGARA BARAT,Perdesaan,2024,Semester 1 (Maret),12.95
+NUSA TENGGARA BARAT,Perdesaan,2024,Semester 2 (September),12.21
+NUSA TENGGARA BARAT,Jumlah,2024,Semester 1 (Maret),12.91
+NUSA TENGGARA BARAT,Jumlah,2024,Semester 2 (September),11.91
+NUSA TENGGARA TIMUR,Perkotaan,2024,Semester 1 (Maret),8.57
+NUSA TENGGARA TIMUR,Perkotaan,2024,Semester 2 (September),8.11
+NUSA TENGGARA TIMUR,Perdesaan,2024,Semester 1 (Maret),23.41
+NUSA TENGGARA TIMUR,Perdesaan,2024,Semester 2 (September),23.02
+NUSA TENGGARA TIMUR,Jumlah,2024,Semester 1 (Maret),19.48
+NUSA TENGGARA TIMUR,Jumlah,2024,Semester 2 (September),19.02
+KALIMANTAN BARAT,Perkotaan,2024,Semester 1 (Maret),4.25
+KALIMANTAN BARAT,Perkotaan,2024,Semester 2 (September),4.62
+KALIMANTAN BARAT,Perdesaan,2024,Semester 1 (Maret),7.58
+KALIMANTAN BARAT,Perdesaan,2024,Semester 2 (September),7.26
+KALIMANTAN BARAT,Jumlah,2024,Semester 1 (Maret),6.32
+KALIMANTAN BARAT,Jumlah,2024,Semester 2 (September),6.25
+KALIMANTAN TENGAH,Perkotaan,2024,Semester 1 (Maret),4.89
+KALIMANTAN TENGAH,Perkotaan,2024,Semester 2 (September),5.22
+KALIMANTAN TENGAH,Perdesaan,2024,Semester 1 (Maret),5.38
+KALIMANTAN TENGAH,Perdesaan,2024,Semester 2 (September),5.29
+KALIMANTAN TENGAH,Jumlah,2024,Semester 1 (Maret),5.17
+KALIMANTAN TENGAH,Jumlah,2024,Semester 2 (September),5.26
+KALIMANTAN SELATAN,Perkotaan,2024,Semester 1 (Maret),3.62
+KALIMANTAN SELATAN,Perkotaan,2024,Semester 2 (September),3.59
+KALIMANTAN SELATAN,Perdesaan,2024,Semester 1 (Maret),4.61
+KALIMANTAN SELATAN,Perdesaan,2024,Semester 2 (September),4.46
+KALIMANTAN SELATAN,Jumlah,2024,Semester 1 (Maret),4.11
+KALIMANTAN SELATAN,Jumlah,2024,Semester 2 (September),4.02
+KALIMANTAN TIMUR,Perkotaan,2024,Semester 1 (Maret),4.47
+KALIMANTAN TIMUR,Perkotaan,2024,Semester 2 (September),4.41
+KALIMANTAN TIMUR,Perdesaan,2024,Semester 1 (Maret),8.76
+KALIMANTAN TIMUR,Perdesaan,2024,Semester 2 (September),8
+KALIMANTAN TIMUR,Jumlah,2024,Semester 1 (Maret),5.78
+KALIMANTAN TIMUR,Jumlah,2024,Semester 2 (September),5.51
+KALIMANTAN UTARA,Perkotaan,2024,Semester 1 (Maret),4.73
+KALIMANTAN UTARA,Perkotaan,2024,Semester 2 (September),5.07
+KALIMANTAN UTARA,Perdesaan,2024,Semester 1 (Maret),9.23
+KALIMANTAN UTARA,Perdesaan,2024,Semester 2 (September),5.96
+KALIMANTAN UTARA,Jumlah,2024,Semester 1 (Maret),6.32
+KALIMANTAN UTARA,Jumlah,2024,Semester 2 (September),5.38
+SULAWESI UTARA,Perkotaan,2024,Semester 1 (Maret),4.75
+SULAWESI UTARA,Perkotaan,2024,Semester 2 (September),4.07
+SULAWESI UTARA,Perdesaan,2024,Semester 1 (Maret),10.35
+SULAWESI UTARA,Perdesaan,2024,Semester 2 (September),10.14
+SULAWESI UTARA,Jumlah,2024,Semester 1 (Maret),7.25
+SULAWESI UTARA,Jumlah,2024,Semester 2 (September),6.7
+SULAWESI TENGAH,Perkotaan,2024,Semester 1 (Maret),8.61
+SULAWESI TENGAH,Perkotaan,2024,Semester 2 (September),7.34
+SULAWESI TENGAH,Perdesaan,2024,Semester 1 (Maret),13.33
+SULAWESI TENGAH,Perdesaan,2024,Semester 2 (September),12.9
+SULAWESI TENGAH,Jumlah,2024,Semester 1 (Maret),11.77
+SULAWESI TENGAH,Jumlah,2024,Semester 2 (September),11.04
+SULAWESI SELATAN,Perkotaan,2024,Semester 1 (Maret),5.08
+SULAWESI SELATAN,Perkotaan,2024,Semester 2 (September),5.21
+SULAWESI SELATAN,Perdesaan,2024,Semester 1 (Maret),10.74
+SULAWESI SELATAN,Perdesaan,2024,Semester 2 (September),10.11
+SULAWESI SELATAN,Jumlah,2024,Semester 1 (Maret),8.06
+SULAWESI SELATAN,Jumlah,2024,Semester 2 (September),7.77
+SULAWESI TENGGARA,Perkotaan,2024,Semester 1 (Maret),7.45
+SULAWESI TENGGARA,Perkotaan,2024,Semester 2 (September),6.78
+SULAWESI TENGGARA,Perdesaan,2024,Semester 1 (Maret),13.6
+SULAWESI TENGGARA,Perdesaan,2024,Semester 2 (September),13.07
+SULAWESI TENGGARA,Jumlah,2024,Semester 1 (Maret),11.21
+SULAWESI TENGGARA,Jumlah,2024,Semester 2 (September),10.63
+GORONTALO,Perkotaan,2024,Semester 1 (Maret),4.57
+GORONTALO,Perkotaan,2024,Semester 2 (September),4.99
+GORONTALO,Perdesaan,2024,Semester 1 (Maret),22.97
+GORONTALO,Perdesaan,2024,Semester 2 (September),21.62
+GORONTALO,Jumlah,2024,Semester 1 (Maret),14.57
+GORONTALO,Jumlah,2024,Semester 2 (September),13.87
+SULAWESI BARAT,Perkotaan,2024,Semester 1 (Maret),9.29
+SULAWESI BARAT,Perkotaan,2024,Semester 2 (September),8.33
+SULAWESI BARAT,Perdesaan,2024,Semester 1 (Maret),11.7
+SULAWESI BARAT,Perdesaan,2024,Semester 2 (September),11.32
+SULAWESI BARAT,Jumlah,2024,Semester 1 (Maret),11.21
+SULAWESI BARAT,Jumlah,2024,Semester 2 (September),10.71
+MALUKU,Perkotaan,2024,Semester 1 (Maret),5.14
+MALUKU,Perkotaan,2024,Semester 2 (September),4.59
+MALUKU,Perdesaan,2024,Semester 1 (Maret),24.43
+MALUKU,Perdesaan,2024,Semester 2 (September),25.08
+MALUKU,Jumlah,2024,Semester 1 (Maret),16.05
+MALUKU,Jumlah,2024,Semester 2 (September),15.78
+MALUKU UTARA,Perkotaan,2024,Semester 1 (Maret),6.12
+MALUKU UTARA,Perkotaan,2024,Semester 2 (September),6.27
+MALUKU UTARA,Perdesaan,2024,Semester 1 (Maret),6.41
+MALUKU UTARA,Perdesaan,2024,Semester 2 (September),5.93
+MALUKU UTARA,Jumlah,2024,Semester 1 (Maret),6.32
+MALUKU UTARA,Jumlah,2024,Semester 2 (September),6.03
+PAPUA BARAT,Perkotaan,2024,Semester 1 (Maret),8.17
+PAPUA BARAT,Perkotaan,2024,Semester 2 (September),9.5
+PAPUA BARAT,Perdesaan,2024,Semester 1 (Maret),27.68
+PAPUA BARAT,Perdesaan,2024,Semester 2 (September),26.34
+PAPUA BARAT,Jumlah,2024,Semester 1 (Maret),21.66
+PAPUA BARAT,Jumlah,2024,Semester 2 (September),21.09
+PAPUA BARAT DAYA,Perkotaan,2024,Semester 1 (Maret),8.51
+PAPUA BARAT DAYA,Perkotaan,2024,Semester 2 (September),8.03
+PAPUA BARAT DAYA,Perdesaan,2024,Semester 1 (Maret),27.78
+PAPUA BARAT DAYA,Perdesaan,2024,Semester 2 (September),25.9
+PAPUA BARAT DAYA,Jumlah,2024,Semester 1 (Maret),18.13
+PAPUA BARAT DAYA,Jumlah,2024,Semester 2 (September),16.95
+PAPUA,Perkotaan,2024,Semester 1 (Maret),6.33
+PAPUA,Perkotaan,2024,Semester 2 (September),5.93
+PAPUA,Perdesaan,2024,Semester 1 (Maret),33.67
+PAPUA,Perdesaan,2024,Semester 2 (September),36.57
+PAPUA,Jumlah,2024,Semester 1 (Maret),17.26
+PAPUA,Jumlah,2024,Semester 2 (September),18.09
+PAPUA SELATAN,Perkotaan,2024,Semester 1 (Maret),3.1
+PAPUA SELATAN,Perkotaan,2024,Semester 2 (September),3.65
+PAPUA SELATAN,Perdesaan,2024,Semester 1 (Maret),25.64
+PAPUA SELATAN,Perdesaan,2024,Semester 2 (September),28.47
+PAPUA SELATAN,Jumlah,2024,Semester 1 (Maret),17.44
+PAPUA SELATAN,Jumlah,2024,Semester 2 (September),19.35
+PAPUA TENGAH,Perkotaan,2024,Semester 1 (Maret),4.32
+PAPUA TENGAH,Perkotaan,2024,Semester 2 (September),5.27
+PAPUA TENGAH,Perdesaan,2024,Semester 1 (Maret),37.98
+PAPUA TENGAH,Perdesaan,2024,Semester 2 (September),34.86
+PAPUA TENGAH,Jumlah,2024,Semester 1 (Maret),29.76
+PAPUA TENGAH,Jumlah,2024,Semester 2 (September),27.6
+PAPUA PEGUNUNGAN,Perkotaan,2024,Semester 1 (Maret),16.56
+PAPUA PEGUNUNGAN,Perkotaan,2024,Semester 2 (September),12.11
+PAPUA PEGUNUNGAN,Perdesaan,2024,Semester 1 (Maret),34.21
+PAPUA PEGUNUNGAN,Perdesaan,2024,Semester 2 (September),31
+PAPUA PEGUNUNGAN,Jumlah,2024,Semester 1 (Maret),32.97
+PAPUA PEGUNUNGAN,Jumlah,2024,Semester 2 (September),29.66
+INDONESIA,Perkotaan,2024,Semester 1 (Maret),7.09
+INDONESIA,Perkotaan,2024,Semester 2 (September),6.66
+INDONESIA,Perdesaan,2024,Semester 1 (Maret),11.79
+INDONESIA,Perdesaan,2024,Semester 2 (September),11.34
+INDONESIA,Jumlah,2024,Semester 1 (Maret),9.03
+INDONESIA,Jumlah,2024,Semester 2 (September),8.57
+ACEH,Perkotaan,2025,Semester 1 (Maret),8.54
+ACEH,Perkotaan,2025,Semester 2 (September),8.15
+ACEH,Perdesaan,2025,Semester 1 (Maret),14.44
+ACEH,Perdesaan,2025,Semester 2 (September),14.51
+ACEH,Jumlah,2025,Semester 1 (Maret),12.33
+ACEH,Jumlah,2025,Semester 2 (September),12.22
+SUMATERA UTARA,Perkotaan,2025,Semester 1 (Maret),7.1
+SUMATERA UTARA,Perkotaan,2025,Semester 2 (September),7.16
+SUMATERA UTARA,Perdesaan,2025,Semester 1 (Maret),7.71
+SUMATERA UTARA,Perdesaan,2025,Semester 2 (September),7.35
+SUMATERA UTARA,Jumlah,2025,Semester 1 (Maret),7.36
+SUMATERA UTARA,Jumlah,2025,Semester 2 (September),7.24
+SUMATERA BARAT,Perkotaan,2025,Semester 1 (Maret),3.91
+SUMATERA BARAT,Perkotaan,2025,Semester 2 (September),3.75
+SUMATERA BARAT,Perdesaan,2025,Semester 1 (Maret),6.93
+SUMATERA BARAT,Perdesaan,2025,Semester 2 (September),7.03
+SUMATERA BARAT,Jumlah,2025,Semester 1 (Maret),5.35
+SUMATERA BARAT,Jumlah,2025,Semester 2 (September),5.31
+RIAU,Perkotaan,2025,Semester 1 (Maret),5.75
+RIAU,Perkotaan,2025,Semester 2 (September),5.61
+RIAU,Perdesaan,2025,Semester 1 (Maret),6.43
+RIAU,Perdesaan,2025,Semester 2 (September),6.76
+RIAU,Jumlah,2025,Semester 1 (Maret),6.16
+RIAU,Jumlah,2025,Semester 2 (September),6.3
+JAMBI,Perkotaan,2025,Semester 1 (Maret),9.52
+JAMBI,Perkotaan,2025,Semester 2 (September),9.25
+JAMBI,Perdesaan,2025,Semester 1 (Maret),6.01
+JAMBI,Perdesaan,2025,Semester 2 (September),5.7
+JAMBI,Jumlah,2025,Semester 1 (Maret),7.19
+JAMBI,Jumlah,2025,Semester 2 (September),6.89
+SUMATERA SELATAN,Perkotaan,2025,Semester 1 (Maret),9.1
+SUMATERA SELATAN,Perkotaan,2025,Semester 2 (September),8.91
+SUMATERA SELATAN,Perdesaan,2025,Semester 1 (Maret),10.79
+SUMATERA SELATAN,Perdesaan,2025,Semester 2 (September),10.43
+SUMATERA SELATAN,Jumlah,2025,Semester 1 (Maret),10.15
+SUMATERA SELATAN,Jumlah,2025,Semester 2 (September),9.85
+BENGKULU,Perkotaan,2025,Semester 1 (Maret),12.34
+BENGKULU,Perkotaan,2025,Semester 2 (September),13.23
+BENGKULU,Perdesaan,2025,Semester 1 (Maret),11.95
+BENGKULU,Perdesaan,2025,Semester 2 (September),11.19
+BENGKULU,Jumlah,2025,Semester 1 (Maret),12.08
+BENGKULU,Jumlah,2025,Semester 2 (September),11.88
+LAMPUNG,Perkotaan,2025,Semester 1 (Maret),7.49
+LAMPUNG,Perkotaan,2025,Semester 2 (September),7.37
+LAMPUNG,Perdesaan,2025,Semester 1 (Maret),11.32
+LAMPUNG,Perdesaan,2025,Semester 2 (September),10.88
+LAMPUNG,Jumlah,2025,Semester 1 (Maret),10
+LAMPUNG,Jumlah,2025,Semester 2 (September),9.66
+KEP. BANGKA BELITUNG,Perkotaan,2025,Semester 1 (Maret),3.89
+KEP. BANGKA BELITUNG,Perkotaan,2025,Semester 2 (September),3.59
+KEP. BANGKA BELITUNG,Perdesaan,2025,Semester 1 (Maret),6.59
+KEP. BANGKA BELITUNG,Perdesaan,2025,Semester 2 (September),6.5
+KEP. BANGKA BELITUNG,Jumlah,2025,Semester 1 (Maret),5
+KEP. BANGKA BELITUNG,Jumlah,2025,Semester 2 (September),4.77
+KEP. RIAU,Perkotaan,2025,Semester 1 (Maret),4.13
+KEP. RIAU,Perkotaan,2025,Semester 2 (September),3.85
+KEP. RIAU,Perdesaan,2025,Semester 1 (Maret),8.33
+KEP. RIAU,Perdesaan,2025,Semester 2 (September),8.7
+KEP. RIAU,Jumlah,2025,Semester 1 (Maret),4.44
+KEP. RIAU,Jumlah,2025,Semester 2 (September),4.26
+DKI JAKARTA,Perkotaan,2025,Semester 1 (Maret),4.28
+DKI JAKARTA,Perkotaan,2025,Semester 2 (September),4.03
+DKI JAKARTA,Jumlah,2025,Semester 1 (Maret),4.28
+DKI JAKARTA,Jumlah,2025,Semester 2 (September),4.03
+JAWA BARAT,Perkotaan,2025,Semester 1 (Maret),6.76
+JAWA BARAT,Perkotaan,2025,Semester 2 (September),6.66
+JAWA BARAT,Perdesaan,2025,Semester 1 (Maret),8.15
+JAWA BARAT,Perdesaan,2025,Semester 2 (September),7.28
+JAWA BARAT,Jumlah,2025,Semester 1 (Maret),7.02
+JAWA BARAT,Jumlah,2025,Semester 2 (September),6.78
+JAWA TENGAH,Perkotaan,2025,Semester 1 (Maret),9.1
+JAWA TENGAH,Perkotaan,2025,Semester 2 (September),8.99
+JAWA TENGAH,Perdesaan,2025,Semester 1 (Maret),9.92
+JAWA TENGAH,Perdesaan,2025,Semester 2 (September),9.87
+JAWA TENGAH,Jumlah,2025,Semester 1 (Maret),9.48
+JAWA TENGAH,Jumlah,2025,Semester 2 (September),9.39
+DI YOGYAKARTA,Perkotaan,2025,Semester 1 (Maret),10.16
+DI YOGYAKARTA,Perkotaan,2025,Semester 2 (September),9.99
+DI YOGYAKARTA,Perdesaan,2025,Semester 1 (Maret),10.46
+DI YOGYAKARTA,Perdesaan,2025,Semester 2 (September),10.37
+DI YOGYAKARTA,Jumlah,2025,Semester 1 (Maret),10.23
+DI YOGYAKARTA,Jumlah,2025,Semester 2 (September),10.08
+JAWA TIMUR,Perkotaan,2025,Semester 1 (Maret),7
+JAWA TIMUR,Perkotaan,2025,Semester 2 (September),6.93
+JAWA TIMUR,Perdesaan,2025,Semester 1 (Maret),12.86
+JAWA TIMUR,Perdesaan,2025,Semester 2 (September),12.55
+JAWA TIMUR,Jumlah,2025,Semester 1 (Maret),9.5
+JAWA TIMUR,Jumlah,2025,Semester 2 (September),9.3
+BANTEN,Perkotaan,2025,Semester 1 (Maret),5.58
+BANTEN,Perkotaan,2025,Semester 2 (September),5.35
+BANTEN,Perdesaan,2025,Semester 1 (Maret),5.89
+BANTEN,Perdesaan,2025,Semester 2 (September),6.27
+BANTEN,Jumlah,2025,Semester 1 (Maret),5.63
+BANTEN,Jumlah,2025,Semester 2 (September),5.51
+BALI,Perkotaan,2025,Semester 1 (Maret),3.27
+BALI,Perkotaan,2025,Semester 2 (September),3.06
+BALI,Perdesaan,2025,Semester 1 (Maret),4.97
+BALI,Perdesaan,2025,Semester 2 (September),4.44
+BALI,Jumlah,2025,Semester 1 (Maret),3.72
+BALI,Jumlah,2025,Semester 2 (September),3.42
+NUSA TENGGARA BARAT,Perkotaan,2025,Semester 1 (Maret),12.02
+NUSA TENGGARA BARAT,Perkotaan,2025,Semester 2 (September),11.7
+NUSA TENGGARA BARAT,Perdesaan,2025,Semester 1 (Maret),11.51
+NUSA TENGGARA BARAT,Perdesaan,2025,Semester 2 (September),11.02
+NUSA TENGGARA BARAT,Jumlah,2025,Semester 1 (Maret),11.78
+NUSA TENGGARA BARAT,Jumlah,2025,Semester 2 (September),11.38
+NUSA TENGGARA TIMUR,Perkotaan,2025,Semester 1 (Maret),7.68
+NUSA TENGGARA TIMUR,Perkotaan,2025,Semester 2 (September),6.96
+NUSA TENGGARA TIMUR,Perdesaan,2025,Semester 1 (Maret),22.66
+NUSA TENGGARA TIMUR,Perdesaan,2025,Semester 2 (September),21.48
+NUSA TENGGARA TIMUR,Jumlah,2025,Semester 1 (Maret),18.6
+NUSA TENGGARA TIMUR,Jumlah,2025,Semester 2 (September),17.5
+KALIMANTAN BARAT,Perkotaan,2025,Semester 1 (Maret),4.48
+KALIMANTAN BARAT,Perkotaan,2025,Semester 2 (September),4.29
+KALIMANTAN BARAT,Perdesaan,2025,Semester 1 (Maret),7.22
+KALIMANTAN BARAT,Perdesaan,2025,Semester 2 (September),7.05
+KALIMANTAN BARAT,Jumlah,2025,Semester 1 (Maret),6.16
+KALIMANTAN BARAT,Jumlah,2025,Semester 2 (September),5.97
+KALIMANTAN TENGAH,Perkotaan,2025,Semester 1 (Maret),5.46
+KALIMANTAN TENGAH,Perkotaan,2025,Semester 2 (September),4.84
+KALIMANTAN TENGAH,Perdesaan,2025,Semester 1 (Maret),4.97
+KALIMANTAN TENGAH,Perdesaan,2025,Semester 2 (September),5.02
+KALIMANTAN TENGAH,Jumlah,2025,Semester 1 (Maret),5.19
+KALIMANTAN TENGAH,Jumlah,2025,Semester 2 (September),4.94
+KALIMANTAN SELATAN,Perkotaan,2025,Semester 1 (Maret),3.43
+KALIMANTAN SELATAN,Perkotaan,2025,Semester 2 (September),2.91
+KALIMANTAN SELATAN,Perdesaan,2025,Semester 1 (Maret),4.25
+KALIMANTAN SELATAN,Perdesaan,2025,Semester 2 (September),4.58
+KALIMANTAN SELATAN,Jumlah,2025,Semester 1 (Maret),3.84
+KALIMANTAN SELATAN,Jumlah,2025,Semester 2 (September),3.73
+KALIMANTAN TIMUR,Perkotaan,2025,Semester 1 (Maret),4.16
+KALIMANTAN TIMUR,Perkotaan,2025,Semester 2 (September),4.31
+KALIMANTAN TIMUR,Perdesaan,2025,Semester 1 (Maret),7.48
+KALIMANTAN TIMUR,Perdesaan,2025,Semester 2 (September),7.24
+KALIMANTAN TIMUR,Jumlah,2025,Semester 1 (Maret),5.17
+KALIMANTAN TIMUR,Jumlah,2025,Semester 2 (September),5.19
+KALIMANTAN UTARA,Perkotaan,2025,Semester 1 (Maret),5.27
+KALIMANTAN UTARA,Perkotaan,2025,Semester 2 (September),5.86
+KALIMANTAN UTARA,Perdesaan,2025,Semester 1 (Maret),5.98
+KALIMANTAN UTARA,Perdesaan,2025,Semester 2 (September),4.72
+KALIMANTAN UTARA,Jumlah,2025,Semester 1 (Maret),5.54
+KALIMANTAN UTARA,Jumlah,2025,Semester 2 (September),5.47
+SULAWESI UTARA,Perkotaan,2025,Semester 1 (Maret),4.25
+SULAWESI UTARA,Perkotaan,2025,Semester 2 (September),3.95
+SULAWESI UTARA,Perdesaan,2025,Semester 1 (Maret),9.95
+SULAWESI UTARA,Perdesaan,2025,Semester 2 (September),10.11
+SULAWESI UTARA,Jumlah,2025,Semester 1 (Maret),6.71
+SULAWESI UTARA,Jumlah,2025,Semester 2 (September),6.62
+SULAWESI TENGAH,Perkotaan,2025,Semester 1 (Maret),6.98
+SULAWESI TENGAH,Perkotaan,2025,Semester 2 (September),6.4
+SULAWESI TENGAH,Perdesaan,2025,Semester 1 (Maret),12.93
+SULAWESI TENGAH,Perdesaan,2025,Semester 2 (September),12.66
+SULAWESI TENGAH,Jumlah,2025,Semester 1 (Maret),10.92
+SULAWESI TENGAH,Jumlah,2025,Semester 2 (September),10.52
+SULAWESI SELATAN,Perkotaan,2025,Semester 1 (Maret),5.14
+SULAWESI SELATAN,Perkotaan,2025,Semester 2 (September),5.17
+SULAWESI SELATAN,Perdesaan,2025,Semester 1 (Maret),9.88
+SULAWESI SELATAN,Perdesaan,2025,Semester 2 (September),9.56
+SULAWESI SELATAN,Jumlah,2025,Semester 1 (Maret),7.6
+SULAWESI SELATAN,Jumlah,2025,Semester 2 (September),7.43
+SULAWESI TENGGARA,Perkotaan,2025,Semester 1 (Maret),6.42
+SULAWESI TENGGARA,Perkotaan,2025,Semester 2 (September),6.65
+SULAWESI TENGGARA,Perdesaan,2025,Semester 1 (Maret),13.13
+SULAWESI TENGGARA,Perdesaan,2025,Semester 2 (September),12.66
+SULAWESI TENGGARA,Jumlah,2025,Semester 1 (Maret),10.54
+SULAWESI TENGGARA,Jumlah,2025,Semester 2 (September),10.14
+GORONTALO,Perkotaan,2025,Semester 1 (Maret),4.68
+GORONTALO,Perkotaan,2025,Semester 2 (September),4.46
+GORONTALO,Perdesaan,2025,Semester 1 (Maret),20.8
+GORONTALO,Perdesaan,2025,Semester 2 (September),19.86
+GORONTALO,Jumlah,2025,Semester 1 (Maret),13.24
+GORONTALO,Jumlah,2025,Semester 2 (September),12.62
+SULAWESI BARAT,Perkotaan,2025,Semester 1 (Maret),8.35
+SULAWESI BARAT,Perkotaan,2025,Semester 2 (September),7.68
+SULAWESI BARAT,Perdesaan,2025,Semester 1 (Maret),10.94
+SULAWESI BARAT,Perdesaan,2025,Semester 2 (September),10.84
+SULAWESI BARAT,Jumlah,2025,Semester 1 (Maret),10.41
+SULAWESI BARAT,Jumlah,2025,Semester 2 (September),10.18
+MALUKU,Perkotaan,2025,Semester 1 (Maret),4.36
+MALUKU,Perkotaan,2025,Semester 2 (September),4.8
+MALUKU,Perdesaan,2025,Semester 1 (Maret),24.61
+MALUKU,Perdesaan,2025,Semester 2 (September),24.01
+MALUKU,Jumlah,2025,Semester 1 (Maret),15.38
+MALUKU,Jumlah,2025,Semester 2 (September),15.25
+MALUKU UTARA,Perkotaan,2025,Semester 1 (Maret),5.95
+MALUKU UTARA,Perkotaan,2025,Semester 2 (September),5.71
+MALUKU UTARA,Perdesaan,2025,Semester 1 (Maret),5.76
+MALUKU UTARA,Perdesaan,2025,Semester 2 (September),5.54
+MALUKU UTARA,Jumlah,2025,Semester 1 (Maret),5.81
+MALUKU UTARA,Jumlah,2025,Semester 2 (September),5.59
+PAPUA BARAT,Perkotaan,2025,Semester 1 (Maret),9.22
+PAPUA BARAT,Perkotaan,2025,Semester 2 (September),9.6
+PAPUA BARAT,Perdesaan,2025,Semester 1 (Maret),25.88
+PAPUA BARAT,Perdesaan,2025,Semester 2 (September),24.32
+PAPUA BARAT,Jumlah,2025,Semester 1 (Maret),20.66
+PAPUA BARAT,Jumlah,2025,Semester 2 (September),19.58
+PAPUA BARAT DAYA,Perkotaan,2025,Semester 1 (Maret),8.98
+PAPUA BARAT DAYA,Perkotaan,2025,Semester 2 (September),7.27
+PAPUA BARAT DAYA,Perdesaan,2025,Semester 1 (Maret),29.71
+PAPUA BARAT DAYA,Perdesaan,2025,Semester 2 (September),30.77
+PAPUA BARAT DAYA,Jumlah,2025,Semester 1 (Maret),17.95
+PAPUA BARAT DAYA,Jumlah,2025,Semester 2 (September),17.5
+PAPUA,Perkotaan,2025,Semester 1 (Maret),6.58
+PAPUA,Perkotaan,2025,Semester 2 (September),5.85
+PAPUA,Perdesaan,2025,Semester 1 (Maret),38.47
+PAPUA,Perdesaan,2025,Semester 2 (September),38
+PAPUA,Jumlah,2025,Semester 1 (Maret),19.16
+PAPUA,Jumlah,2025,Semester 2 (September),17.82
+PAPUA SELATAN,Perkotaan,2025,Semester 1 (Maret),4.12
+PAPUA SELATAN,Perkotaan,2025,Semester 2 (September),4.93
+PAPUA SELATAN,Perdesaan,2025,Semester 1 (Maret),28.86
+PAPUA SELATAN,Perdesaan,2025,Semester 2 (September),27.79
+PAPUA SELATAN,Jumlah,2025,Semester 1 (Maret),19.71
+PAPUA SELATAN,Jumlah,2025,Semester 2 (September),19.26
+PAPUA TENGAH,Perkotaan,2025,Semester 1 (Maret),5.51
+PAPUA TENGAH,Perkotaan,2025,Semester 2 (September),6.54
+PAPUA TENGAH,Perdesaan,2025,Semester 1 (Maret),36.54
+PAPUA TENGAH,Perdesaan,2025,Semester 2 (September),39.14
+PAPUA TENGAH,Jumlah,2025,Semester 1 (Maret),28.9
+PAPUA TENGAH,Jumlah,2025,Semester 2 (September),29.45
+PAPUA PEGUNUNGAN,Perkotaan,2025,Semester 1 (Maret),13
+PAPUA PEGUNUNGAN,Perkotaan,2025,Semester 2 (September),13.06
+PAPUA PEGUNUNGAN,Perdesaan,2025,Semester 1 (Maret),31.36
+PAPUA PEGUNUNGAN,Perdesaan,2025,Semester 2 (September),30.25
+PAPUA PEGUNUNGAN,Jumlah,2025,Semester 1 (Maret),30.03
+PAPUA PEGUNUNGAN,Jumlah,2025,Semester 2 (September),27.21
+INDONESIA,Perkotaan,2025,Semester 1 (Maret),6.73
+INDONESIA,Perkotaan,2025,Semester 2 (September),6.6
+INDONESIA,Perdesaan,2025,Semester 1 (Maret),11.03
+INDONESIA,Perdesaan,2025,Semester 2 (September),10.72
+INDONESIA,Jumlah,2025,Semester 1 (Maret),8.47
+INDONESIA,Jumlah,2025,Semester 2 (September),8.25
+ACEH,Perkotaan,2026,Semester 1 (Maret),8.27
+ACEH,Perdesaan,2026,Semester 1 (Maret),14.66
+ACEH,Jumlah,2026,Semester 1 (Maret),12.34
+SUMATERA UTARA,Perkotaan,2026,Semester 1 (Maret),7.05
+SUMATERA UTARA,Perdesaan,2026,Semester 1 (Maret),7.17
+SUMATERA UTARA,Jumlah,2026,Semester 1 (Maret),7.1
+SUMATERA BARAT,Perkotaan,2026,Semester 1 (Maret),3.82
+SUMATERA BARAT,Perdesaan,2026,Semester 1 (Maret),6.88
+SUMATERA BARAT,Jumlah,2026,Semester 1 (Maret),5.27
+RIAU,Perkotaan,2026,Semester 1 (Maret),5.26
+RIAU,Perdesaan,2026,Semester 1 (Maret),6.83
+RIAU,Jumlah,2026,Semester 1 (Maret),6.19
+JAMBI,Perkotaan,2026,Semester 1 (Maret),9.07
+JAMBI,Perdesaan,2026,Semester 1 (Maret),5.45
+JAMBI,Jumlah,2026,Semester 1 (Maret),6.67
+SUMATERA SELATAN,Perkotaan,2026,Semester 1 (Maret),8.48
+SUMATERA SELATAN,Perdesaan,2026,Semester 1 (Maret),10.13
+SUMATERA SELATAN,Jumlah,2026,Semester 1 (Maret),9.5
+BENGKULU,Perkotaan,2026,Semester 1 (Maret),12.73
+BENGKULU,Perdesaan,2026,Semester 1 (Maret),11.37
+BENGKULU,Jumlah,2026,Semester 1 (Maret),11.83
+LAMPUNG,Perkotaan,2026,Semester 1 (Maret),7.28
+LAMPUNG,Perdesaan,2026,Semester 1 (Maret),10.41
+LAMPUNG,Jumlah,2026,Semester 1 (Maret),9.31
+KEP. BANGKA BELITUNG,Perkotaan,2026,Semester 1 (Maret),3.53
+KEP. BANGKA BELITUNG,Perdesaan,2026,Semester 1 (Maret),6.54
+KEP. BANGKA BELITUNG,Jumlah,2026,Semester 1 (Maret),4.75
+KEP. RIAU,Perkotaan,2026,Semester 1 (Maret),3.68
+KEP. RIAU,Perdesaan,2026,Semester 1 (Maret),8.65
+KEP. RIAU,Jumlah,2026,Semester 1 (Maret),4.09
+DKI JAKARTA,Perkotaan,2026,Semester 1 (Maret),3.96
+DKI JAKARTA,Jumlah,2026,Semester 1 (Maret),3.96
+JAWA BARAT,Perkotaan,2026,Semester 1 (Maret),6.32
+JAWA BARAT,Perdesaan,2026,Semester 1 (Maret),7.48
+JAWA BARAT,Jumlah,2026,Semester 1 (Maret),6.54
+JAWA TENGAH,Perkotaan,2026,Semester 1 (Maret),8.59
+JAWA TENGAH,Perdesaan,2026,Semester 1 (Maret),9.96
+JAWA TENGAH,Jumlah,2026,Semester 1 (Maret),9.21
+DI YOGYAKARTA,Perkotaan,2026,Semester 1 (Maret),9.55
+DI YOGYAKARTA,Perdesaan,2026,Semester 1 (Maret),10.18
+DI YOGYAKARTA,Jumlah,2026,Semester 1 (Maret),9.7
+JAWA TIMUR,Perkotaan,2026,Semester 1 (Maret),6.66
+JAWA TIMUR,Perdesaan,2026,Semester 1 (Maret),12.38
+JAWA TIMUR,Jumlah,2026,Semester 1 (Maret),9.06
+BANTEN,Perkotaan,2026,Semester 1 (Maret),5.21
+BANTEN,Perdesaan,2026,Semester 1 (Maret),6.23
+BANTEN,Jumlah,2026,Semester 1 (Maret),5.38
+BALI,Perkotaan,2026,Semester 1 (Maret),3.06
+BALI,Perdesaan,2026,Semester 1 (Maret),4.54
+BALI,Jumlah,2026,Semester 1 (Maret),3.44
+NUSA TENGGARA BARAT,Perkotaan,2026,Semester 1 (Maret),11.25
+NUSA TENGGARA BARAT,Perdesaan,2026,Semester 1 (Maret),11.08
+NUSA TENGGARA BARAT,Jumlah,2026,Semester 1 (Maret),11.17
+NUSA TENGGARA TIMUR,Perkotaan,2026,Semester 1 (Maret),6.71
+NUSA TENGGARA TIMUR,Perdesaan,2026,Semester 1 (Maret),21.64
+NUSA TENGGARA TIMUR,Jumlah,2026,Semester 1 (Maret),17.52
+KALIMANTAN BARAT,Perkotaan,2026,Semester 1 (Maret),4.32
+KALIMANTAN BARAT,Perdesaan,2026,Semester 1 (Maret),6.72
+KALIMANTAN BARAT,Jumlah,2026,Semester 1 (Maret),5.78
+KALIMANTAN TENGAH,Perkotaan,2026,Semester 1 (Maret),4.86
+KALIMANTAN TENGAH,Perdesaan,2026,Semester 1 (Maret),5.27
+KALIMANTAN TENGAH,Jumlah,2026,Semester 1 (Maret),5.09
+KALIMANTAN SELATAN,Perkotaan,2026,Semester 1 (Maret),2.81
+KALIMANTAN SELATAN,Perdesaan,2026,Semester 1 (Maret),4.5
+KALIMANTAN SELATAN,Jumlah,2026,Semester 1 (Maret),3.63
+KALIMANTAN TIMUR,Perkotaan,2026,Semester 1 (Maret),4.15
+KALIMANTAN TIMUR,Perdesaan,2026,Semester 1 (Maret),7.42
+KALIMANTAN TIMUR,Jumlah,2026,Semester 1 (Maret),5.14
+KALIMANTAN UTARA,Perkotaan,2026,Semester 1 (Maret),5.42
+KALIMANTAN UTARA,Perdesaan,2026,Semester 1 (Maret),4.73
+KALIMANTAN UTARA,Jumlah,2026,Semester 1 (Maret),5.18
+SULAWESI UTARA,Perkotaan,2026,Semester 1 (Maret),3.85
+SULAWESI UTARA,Perdesaan,2026,Semester 1 (Maret),9.59
+SULAWESI UTARA,Jumlah,2026,Semester 1 (Maret),6.32
+SULAWESI TENGAH,Perkotaan,2026,Semester 1 (Maret),6.62
+SULAWESI TENGAH,Perdesaan,2026,Semester 1 (Maret),12.48
+SULAWESI TENGAH,Jumlah,2026,Semester 1 (Maret),10.46
+SULAWESI SELATAN,Perkotaan,2026,Semester 1 (Maret),4.65
+SULAWESI SELATAN,Perdesaan,2026,Semester 1 (Maret),9.72
+SULAWESI SELATAN,Jumlah,2026,Semester 1 (Maret),7.24
+SULAWESI TENGGARA,Perkotaan,2026,Semester 1 (Maret),6.17
+SULAWESI TENGGARA,Perdesaan,2026,Semester 1 (Maret),12.83
+SULAWESI TENGGARA,Jumlah,2026,Semester 1 (Maret),10.02
+GORONTALO,Perkotaan,2026,Semester 1 (Maret),4.3
+GORONTALO,Perdesaan,2026,Semester 1 (Maret),19.24
+GORONTALO,Jumlah,2026,Semester 1 (Maret),12.16
+SULAWESI BARAT,Perkotaan,2026,Semester 1 (Maret),7.9
+SULAWESI BARAT,Perdesaan,2026,Semester 1 (Maret),10.57
+SULAWESI BARAT,Jumlah,2026,Semester 1 (Maret),10
+MALUKU,Perkotaan,2026,Semester 1 (Maret),3.99
+MALUKU,Perdesaan,2026,Semester 1 (Maret),24.1
+MALUKU,Jumlah,2026,Semester 1 (Maret),14.91
+MALUKU UTARA,Perkotaan,2026,Semester 1 (Maret),6
+MALUKU UTARA,Perdesaan,2026,Semester 1 (Maret),5.69
+MALUKU UTARA,Jumlah,2026,Semester 1 (Maret),5.79
+PAPUA BARAT,Perkotaan,2026,Semester 1 (Maret),8.14
+PAPUA BARAT,Perdesaan,2026,Semester 1 (Maret),23.71
+PAPUA BARAT,Jumlah,2026,Semester 1 (Maret),18.68
+PAPUA BARAT DAYA,Perkotaan,2026,Semester 1 (Maret),7.48
+PAPUA BARAT DAYA,Perdesaan,2026,Semester 1 (Maret),30.18
+PAPUA BARAT DAYA,Jumlah,2026,Semester 1 (Maret),16.49
+PAPUA,Perkotaan,2026,Semester 1 (Maret),6.09
+PAPUA,Perdesaan,2026,Semester 1 (Maret),38.19
+PAPUA,Jumlah,2026,Semester 1 (Maret),18.39
+PAPUA SELATAN,Perkotaan,2026,Semester 1 (Maret),4
+PAPUA SELATAN,Perdesaan,2026,Semester 1 (Maret),25.77
+PAPUA SELATAN,Jumlah,2026,Semester 1 (Maret),18.54
+PAPUA TENGAH,Perkotaan,2026,Semester 1 (Maret),4.18
+PAPUA TENGAH,Perdesaan,2026,Semester 1 (Maret),39.37
+PAPUA TENGAH,Jumlah,2026,Semester 1 (Maret),30.41
+PAPUA PEGUNUNGAN,Perkotaan,2026,Semester 1 (Maret),16.72
+PAPUA PEGUNUNGAN,Perdesaan,2026,Semester 1 (Maret),27.95
+PAPUA PEGUNUNGAN,Jumlah,2026,Semester 1 (Maret),26.34
+INDONESIA,Perkotaan,2026,Semester 1 (Maret),6.34
+INDONESIA,Perdesaan,2026,Semester 1 (Maret),10.67
+INDONESIA,Jumlah,2026,Semester 1 (Maret),8.07

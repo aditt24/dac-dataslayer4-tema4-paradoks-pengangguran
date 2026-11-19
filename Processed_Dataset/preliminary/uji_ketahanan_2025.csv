@@ -1,0 +1,35 @@
+sampel,hubungan,dikontrol,rho_spearman,p,n
+38 provinsi,tpt ~ idkk_noTPT,-,-0.092,0.583,38
+38 provinsi,tpt ~ idkk_noTPT_noNEET,-,-0.32,0.0504,38
+38 provinsi,tpt ~ informal,-,-0.45,0.0046,38
+38 provinsi,rls ~ tpt,-,0.555,0.0003,38
+38 provinsi,rls ~ informal,-,-0.501,0.0014,38
+38 provinsi,urban ~ informal,-,-0.74,0.0,38
+38 provinsi,urban ~ tpt,-,0.336,0.0391,38
+38 provinsi,urban ~ idkk_noTPT,-,-0.512,0.001,38
+38 provinsi,rls ~ idkk,-,-0.011,0.947,38
+38 provinsi,rls ~ tpt,urban,0.461,0.0036,38
+38 provinsi,urban ~ tpt,rls,0.165,0.3225,38
+38 provinsi,rls ~ informal,urban,-0.345,0.0341,38
+38 provinsi,urban ~ informal,rls,-0.704,0.0,38
+38 provinsi,rls ~ tsp,urban,0.051,0.7626,38
+38 provinsi,urban ~ tsp,rls,-0.576,0.0002,38
+38 provinsi,rls ~ neet,urban,0.294,0.0736,38
+38 provinsi,urban ~ neet,rls,-0.437,0.0061,38
+tanpa 6 provinsi Papua,tpt ~ idkk_noTPT,-,-0.135,0.4603,32
+tanpa 6 provinsi Papua,tpt ~ idkk_noTPT_noNEET,-,-0.263,0.1463,32
+tanpa 6 provinsi Papua,tpt ~ informal,-,-0.391,0.0268,32
+tanpa 6 provinsi Papua,rls ~ tpt,-,0.436,0.0127,32
+tanpa 6 provinsi Papua,rls ~ informal,-,-0.385,0.0298,32
+tanpa 6 provinsi Papua,urban ~ informal,-,-0.766,0.0,32
+tanpa 6 provinsi Papua,urban ~ tpt,-,0.433,0.0132,32
+tanpa 6 provinsi Papua,urban ~ idkk_noTPT,-,-0.717,0.0,32
+tanpa 6 provinsi Papua,rls ~ idkk,-,-0.189,0.3003,32
+tanpa 6 provinsi Papua,rls ~ tpt,urban,0.303,0.0917,32
+tanpa 6 provinsi Papua,urban ~ tpt,rls,0.323,0.0714,32
+tanpa 6 provinsi Papua,rls ~ informal,urban,-0.082,0.655,32
+tanpa 6 provinsi Papua,urban ~ informal,rls,-0.695,0.0,32
+tanpa 6 provinsi Papua,rls ~ tsp,urban,0.098,0.5955,32
+tanpa 6 provinsi Papua,urban ~ tsp,rls,-0.697,0.0,32
+tanpa 6 provinsi Papua,rls ~ neet,urban,0.179,0.3273,32
+tanpa 6 provinsi Papua,urban ~ neet,rls,-0.448,0.0101,32

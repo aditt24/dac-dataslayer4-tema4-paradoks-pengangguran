@@ -1,0 +1,10 @@
+# Sumber: BPS Provinsi Jawa Tengah, Tingkat Pengangguran Terbuka (TPT) Menurut Klasifikasi Wilayah dan Tingkat Pendidikan di Provinsi Jawa Tengah; https://jateng.bps.go.id/id/statistics-table/2/MjI5NyMy/x.html; var_id=2297; diambil 2026-11-19
+wilayah_kategori,turvar,tahun,periode,nilai
+ Tidak Pernah Sekolah,Perkotaan,2023,Tahun,0.76
+ Tidak Pernah Sekolah,Perdesaan,2023,Tahun,4.28
+Tingkat Dasar,Perkotaan,2023,Tahun,4.95
+Tingkat Dasar,Perdesaan,2023,Tahun,3.49
+Tingkat Menengah,Perkotaan,2023,Tahun,7.83
+Tingkat Menengah,Perdesaan,2023,Tahun,8.53
+Tingkat Tinggi,Perkotaan,2023,Tahun,3.76
+Tingkat Tinggi,Perdesaan,2023,Tahun,5.49

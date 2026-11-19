@@ -1,0 +1,67 @@
+sampel,hubungan,kontrol,rho,p,n
+38 provinsi,tpt~ktl,-,-0.302,0.0656,38
+38 provinsi,tidak_bekerja~ktl,-,-0.165,0.3232,38
+38 provinsi,ktl~miskin,-,0.657,0.0,38
+38 provinsi,ktl~formal,-,-0.921,0.0,38
+38 provinsi,ktl~upah_jam,-,-0.28,0.0884,38
+38 provinsi,rls~ktl,-,-0.372,0.0213,38
+38 provinsi,urban~ktl,-,-0.722,0.0,38
+38 provinsi,tpt~idkk3,-,0.004,0.9818,38
+38 provinsi,tpt~informal,-,-0.45,0.0046,38
+38 provinsi,tpt~miskin,-,-0.234,0.1578,38
+38 provinsi,idkk3~miskin,-,0.65,0.0,38
+38 provinsi,idkk3~upah_jam,-,-0.1,0.5489,38
+38 provinsi,idkk3~formal,-,-0.768,0.0,38
+38 provinsi,rls~tpt,-,0.555,0.0003,38
+38 provinsi,rls~idkk3,-,-0.145,0.3836,38
+38 provinsi,urban~idkk3,-,-0.669,0.0,38
+38 provinsi,rls~ktl,urban,-0.144,0.3895,38
+38 provinsi,urban~ktl,rls,-0.669,0.0,38
+38 provinsi,rls~tpt,urban,0.461,0.0036,38
+38 provinsi,rls~idkk3,urban,0.212,0.2019,38
+38 provinsi,urban~idkk3,rls,-0.694,0.0,38
+38 provinsi,rls~informal,urban,-0.345,0.0341,38
+tanpa Papua,tpt~ktl,-,-0.245,0.176,32
+tanpa Papua,tidak_bekerja~ktl,-,-0.121,0.5096,32
+tanpa Papua,ktl~miskin,-,0.75,0.0,32
+tanpa Papua,ktl~formal,-,-0.949,0.0,32
+tanpa Papua,ktl~upah_jam,-,-0.569,0.0007,32
+tanpa Papua,rls~ktl,-,-0.308,0.086,32
+tanpa Papua,urban~ktl,-,-0.777,0.0,32
+tanpa Papua,tpt~idkk3,-,-0.103,0.5733,32
+tanpa Papua,tpt~informal,-,-0.391,0.0268,32
+tanpa Papua,tpt~miskin,-,-0.355,0.046,32
+tanpa Papua,idkk3~miskin,-,0.706,0.0,32
+tanpa Papua,idkk3~upah_jam,-,-0.402,0.0224,32
+tanpa Papua,idkk3~formal,-,-0.898,0.0,32
+tanpa Papua,rls~tpt,-,0.436,0.0127,32
+tanpa Papua,rls~idkk3,-,-0.227,0.212,32
+tanpa Papua,urban~idkk3,-,-0.727,0.0,32
+tanpa Papua,rls~ktl,urban,0.009,0.9603,32
+tanpa Papua,urban~ktl,rls,-0.72,0.0,32
+tanpa Papua,rls~tpt,urban,0.303,0.0917,32
+tanpa Papua,rls~idkk3,urban,0.078,0.671,32
+tanpa Papua,urban~idkk3,rls,-0.694,0.0,32
+tanpa Papua,rls~informal,urban,-0.082,0.655,32
+tanpa 5 prov urban-induk,tpt~ktl,-,-0.276,0.1195,33
+tanpa 5 prov urban-induk,tidak_bekerja~ktl,-,-0.137,0.447,33
+tanpa 5 prov urban-induk,ktl~miskin,-,0.669,0.0,33
+tanpa 5 prov urban-induk,ktl~formal,-,-0.95,0.0,33
+tanpa 5 prov urban-induk,ktl~upah_jam,-,-0.488,0.004,33
+tanpa 5 prov urban-induk,rls~ktl,-,-0.312,0.0776,33
+tanpa 5 prov urban-induk,urban~ktl,-,-0.718,0.0,33
+tanpa 5 prov urban-induk,tpt~idkk3,-,-0.09,0.6187,33
+tanpa 5 prov urban-induk,tpt~informal,-,-0.414,0.0167,33
+tanpa 5 prov urban-induk,tpt~miskin,-,-0.22,0.2184,33
+tanpa 5 prov urban-induk,idkk3~miskin,-,0.691,0.0,33
+tanpa 5 prov urban-induk,idkk3~upah_jam,-,-0.266,0.134,33
+tanpa 5 prov urban-induk,idkk3~formal,-,-0.878,0.0,33
+tanpa 5 prov urban-induk,rls~tpt,-,0.502,0.0029,33
+tanpa 5 prov urban-induk,rls~idkk3,-,-0.167,0.3516,33
+tanpa 5 prov urban-induk,urban~idkk3,-,-0.709,0.0,33
+tanpa 5 prov urban-induk,rls~ktl,urban,-0.095,0.598,33
+tanpa 5 prov urban-induk,urban~ktl,rls,-0.664,0.0,33
+tanpa 5 prov urban-induk,rls~tpt,urban,0.418,0.0155,33
+tanpa 5 prov urban-induk,rls~idkk3,urban,0.068,0.7062,33
+tanpa 5 prov urban-induk,urban~idkk3,rls,-0.691,0.0,33
+tanpa 5 prov urban-induk,rls~informal,urban,-0.202,0.2607,33

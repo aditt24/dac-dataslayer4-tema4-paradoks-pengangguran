@@ -1,0 +1,33 @@
+wilayah,tpt_2018,idkk3_2018,kuadran_2018,informal_2018,tsp_2018,neet_2018,rls_2018,tpt_2025,idkk3_2025,kuadran_2025,informal_2025,tsp_2025,neet_2025,rls_2025,pindah
+ACEH,6.34,64.74,Rentan Ganda,59.44,11.3,22.77,9.46,5.64,86.62,Rentan Ganda,63.91,13.83,24.52,10.42,False
+BALI,1.4,14.92,Relatif Layak,49.38,2.36,8.59,9.0,1.49,14.86,Relatif Layak,50.47,2.8,5.33,10.07,False
+BANTEN,8.47,40.5,Antrean Kerja Formal,43.99,4.23,24.65,8.93,6.69,46.85,Antrean Kerja Formal,45.12,6.66,23.72,9.82,False
+BENGKULU,3.35,61.78,Rentan Tersembunyi,68.84,8.32,20.77,8.94,3.41,67.31,Rentan Tersembunyi,65.17,9.71,18.61,9.71,False
+DI YOGYAKARTA,3.37,29.08,Relatif Layak,54.45,4.25,12.52,9.73,3.46,34.48,Relatif Layak,53.97,5.56,11.25,10.58,False
+DKI JAKARTA,6.65,13.23,Antrean Kerja Formal,30.15,1.99,16.98,11.06,6.05,13.77,Antrean Kerja Formal,36.63,3.22,12.83,11.58,False
+GORONTALO,3.7,67.3,Rentan Ganda,61.78,9.15,26.37,7.83,3.42,62.26,Antrean Kerja Formal,61.14,6.82,23.9,8.78,True
+JAMBI,3.73,50.72,Relatif Layak,56.45,7.43,20.78,8.7,4.26,59.92,Rentan Ganda,57.27,9.27,19.46,9.32,True
+JAWA BARAT,8.23,48.67,Antrean Kerja Formal,48.21,5.39,26.22,8.61,6.77,62.46,Antrean Kerja Formal,54.95,8.35,24.84,9.46,False
+JAWA TENGAH,4.47,49.48,Relatif Layak,60.67,5.19,21.23,7.84,4.66,50.68,Relatif Layak,58.79,7.0,16.67,8.62,False
+JAWA TIMUR,3.91,51.53,Relatif Layak,61.88,5.79,21.11,7.93,3.88,52.18,Relatif Layak,61.73,6.56,16.76,8.81,False
+KALIMANTAN BARAT,4.18,62.76,Rentan Ganda,59.55,9.17,24.5,7.65,4.82,56.72,Rentan Ganda,56.39,8.39,19.63,8.54,False
+KALIMANTAN SELATAN,4.35,53.22,Antrean Kerja Formal,60.08,5.76,23.06,8.45,4.16,49.63,Relatif Layak,53.48,7.39,18.59,9.17,True
+KALIMANTAN TENGAH,3.91,50.2,Relatif Layak,52.37,7.14,22.76,8.66,3.97,46.64,Antrean Kerja Formal,50.15,5.97,21.72,9.36,True
+KALIMANTAN TIMUR,6.41,36.13,Antrean Kerja Formal,41.16,4.2,23.24,9.63,5.18,34.64,Antrean Kerja Formal,43.22,5.66,18.29,10.3,False
+KALIMANTAN UTARA,5.11,36.01,Relatif Layak,42.95,7.68,17.37,9.18,3.85,37.39,Relatif Layak,48.44,4.71,18.88,9.69,False
+KEP. BANGKA BELITUNG,3.61,44.14,Relatif Layak,50.43,5.92,21.56,8.24,4.45,47.0,Relatif Layak,51.29,7.38,18.16,9.09,False
+KEP. RIAU,8.04,22.87,Antrean Kerja Formal,31.78,3.81,19.74,10.01,6.45,21.54,Antrean Kerja Formal,34.25,5.01,16.16,10.78,False
+LAMPUNG,4.04,69.59,Rentan Tersembunyi,70.79,9.3,23.42,8.29,4.21,70.88,Rentan Tersembunyi,64.72,11.29,18.07,9.0,False
+MALUKU,6.95,67.59,Rentan Ganda,64.37,9.27,25.18,9.78,6.27,87.06,Rentan Ganda,66.06,11.49,28.49,10.63,False
+MALUKU UTARA,4.63,62.42,Rentan Ganda,66.92,7.64,23.04,9.07,4.55,78.95,Rentan Ganda,64.51,10.56,25.65,9.78,False
+NUSA TENGGARA BARAT,3.58,89.65,Rentan Tersembunyi,71.81,16.82,24.95,7.69,3.06,79.85,Rentan Tersembunyi,68.42,13.94,16.37,8.87,False
+NUSA TENGGARA TIMUR,2.85,71.96,Rentan Tersembunyi,75.65,12.25,18.46,7.7,3.31,74.11,Rentan Tersembunyi,68.44,11.44,17.62,8.88,False
+RIAU,5.98,56.93,Antrean Kerja Formal,54.95,8.57,23.79,9.11,4.16,54.27,Antrean Kerja Formal,52.0,8.98,19.49,9.8,False
+SULAWESI BARAT,3.01,71.44,Rentan Tersembunyi,74.69,8.36,24.12,7.94,2.86,77.65,Rentan Tersembunyi,70.63,11.33,18.97,8.91,False
+SULAWESI SELATAN,4.94,59.22,Rentan Ganda,63.32,7.37,23.07,8.45,4.21,58.47,Rentan Tersembunyi,60.45,7.93,19.2,9.38,True
+SULAWESI TENGAH,3.37,65.44,Rentan Tersembunyi,66.66,10.4,21.14,8.74,2.92,63.87,Rentan Tersembunyi,64.57,8.04,20.14,9.38,False
+SULAWESI TENGGARA,3.19,63.49,Rentan Tersembunyi,63.09,11.18,20.45,9.03,3.31,60.0,Rentan Tersembunyi,61.13,7.94,19.84,9.9,False
+SULAWESI UTARA,6.61,65.85,Antrean Kerja Formal,55.61,8.16,29.73,9.51,5.99,66.81,Antrean Kerja Formal,54.56,7.77,29.52,10.1,False
+SUMATERA BARAT,5.66,60.95,Rentan Ganda,63.94,9.74,20.5,9.1,5.62,69.21,Rentan Ganda,64.33,10.69,18.42,10.03,False
+SUMATERA SELATAN,4.27,60.29,Rentan Ganda,61.22,8.33,23.35,8.48,3.69,67.03,Rentan Tersembunyi,63.13,8.98,21.35,9.28,True
+SUMATERA UTARA,5.55,49.37,Rentan Tersembunyi,56.57,8.42,18.46,9.61,5.32,56.44,Rentan Ganda,57.26,9.05,17.42,10.29,True

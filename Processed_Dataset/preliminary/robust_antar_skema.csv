@@ -1,0 +1,7 @@
+a,b,rho
+idkk,idkk_noUpah,0.928
+idkk,idkk_zscore,0.989
+idkk,idkk_pca,0.949
+idkk_noUpah,idkk_zscore,0.93
+idkk_noUpah,idkk_pca,0.936
+idkk_zscore,idkk_pca,0.94

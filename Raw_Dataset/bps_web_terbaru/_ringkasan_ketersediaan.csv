@@ -1,0 +1,22 @@
+file,table_id,var_id,judul,tahun_tersedia,tahun_default_diambil,periode,n_kategori,n_baris,n_gagal_parse
+D05_tpt_provinsi,NTQzIzI=,543,Tingkat Pengangguran Terbuka Menurut Provinsi,1986-2026,2026,Februari; Agustus; Tahunan,39,78,0
+D05b_tpt_provinsi_triwulanan,MjU2MiMy,2562,Tingkat Pengangguran Terbuka menurut Provinsi (Triwulanan),2025-2026,2026,Februari; Mei; Agustus; November,39,117,0
+D06_tpak_provinsi,MjM5NiMy,2396,Persentase Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) menurut Provinsi,2021-2026,2026,Februari ; Agustus,39,39,0
+D03b_setengah_pengangguran_provinsi,MTE4MSMy,1181,Tingkat Setengah Pengangguran Menurut Provinsi,2015-2025,2025,Tahun,39,39,0
+D07_informal_provinsi,MjE1MyMy,2153,Proporsi Lapangan Kerja Informal Menurut Provinsi,2018-2025,2025,Tahun,39,39,0
+D08_informal_nonpertanian_provinsi,MTE2MiMy,1162,Proporsi Lapangan Kerja Informal Sektor Non-Pertanian Menurut Provinsi,2015-2024,2024,Tahun,39,39,0
+D10_formal_provinsi,MTE2OCMy,1168,Persentase Tenaga Kerja Formal Menurut Provinsi,2015-2025,2025,Tahun,39,39,0
+D11_upah_per_jam_provinsi,MTE3MiMy,1172,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,2015-2025,2025,Tahun,39,39,0
+D15_neet_provinsi,MTE4NiMy,1186,"Persentase Usia Muda (15-24 Tahun) Yang Sedang Tidak Sekolah, Bekerja Atau Mengikuti Pelatihan",2015-2025,2025,Tahun,39,39,0
+D18_rls_provinsi,MTQyOSMy,1429,Rata-Rata Lama Sekolah Penduduk Umur 15 Tahun ke Atas Menurut Provinsi,2015-2025,2025,Tahun,39,39,0
+D01_tpt_pendidikan,MTE3OSMy,1179,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,2015-2025,2025,Tahun,6,6,0
+D02_informal_pendidikan,MjE1NyMy,2157,Proporsi Lapangan Kerja Informal Menurut Tingkat Pendidikan,2018-2023,2023,Tahun,9,9,0
+D02b_informal_nonpertanian_pendidikan,MTE2NiMy,1166,Proporsi Lapangan Kerja Informal Sektor Non-Pertanian Menurut Tingkat Pendidikan,2015-2025,2025,Tahun,6,6,0
+D03_setengah_pengangguran_pendidikan,MTE4NCMy,1184,Tingkat Setengah Pengangguran Menurut Tingkat Pendidikan,2015-2025,2025,Tahun,6,6,0
+D04_tpt_umur,MTE4MCMy,1180,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,2015-2025,2025,Tahun,11,11,0
+D04b_tpt_jenis_kelamin,MTE3NyMy,1177,Tingkat Pengangguran Terbuka Berdasarkan Jenis Kelamin,2015-2025,2025,Tahun,2,2,0
+D16_neet_jenis_kelamin,MjY1NSMy,2655,"8.6.1* Persentase Usia Muda (15-24 Tahun) Yang Sedang Tidak Sekolah, Bekerja Atau Mengikuti Pelatihan Menurut Jenis Kelamin",2020-2025,2025,Tahun,3,3,0
+D17_tpt_disabilitas,MjY1MiMy,2652,8.5.2* Tingkat Pengangguran Terbuka Menurut Status Disabilitas,2020-2025,2025,Tahun,3,3,0
+D14_bekerja_sektor_pendidikan,MTk3MSMy,1971,Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Lapangan Usaha(17 Sektor) dan Pendidikan Tertinggi yang Ditamatkan,2018-2025,2025,Februari; Agustus; Tahunan,18,324,0
+K01_tpt_jk_kabkota,MjgyNCMy,2824,Tingkat Pengangguran Terbuka menurut Jenis Kelamin dan Kabupaten/Kota ,2017-2025,2025,Tahun,579,1737,0
+D25_kemiskinan_provinsi,MTkyIzI=,192,Persentase Penduduk Miskin (P0) Menurut Provinsi dan Daerah,2007-2026,2026,Semester 1 (Maret); Semester 2 (September); Tahunan,39,116,0

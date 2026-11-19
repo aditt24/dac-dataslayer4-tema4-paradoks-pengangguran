@@ -1,0 +1,8 @@
+GUIDEBOOK DAC.pdf
+*.pdf
+__pycache__/
+*.pyc
+.env
+.claude/
+Raw_Dataset/manual/
+Processed_Dataset/manual/

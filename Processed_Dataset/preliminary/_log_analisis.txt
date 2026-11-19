@@ -1,0 +1,176 @@
+C:\Users\LENOVO\OneDrive\Documents\Datslay DA\scripts\analisis_awal_2025.py:187: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  prof["anggota"] = p.groupby("cluster").apply(lambda d: ", ".join(d.index.str.title()))
+== JENJANG 2025 ==
+               tpt  informal_nonag  setengah_peng
+<=SD         2.30           68.43           8.81
+SMP          3.80           60.10           8.58
+SMA umum     6.88           43.75           8.34
+SMK          8.63           35.84           6.81
+Diploma      4.31           25.63           4.58
+Universitas  5.39           16.63           5.29
+
+Missing per kolom: {'tpt': 0, 'tpt_l': 0, 'tpt_p': 0, 'tsp': 0, 'informal': 0, 'informal_nonag_2024': 0, 'neet': 0, 'upah_jam': 0, 'rls': 0, 'miskin_mar2026': 0}
+n provinsi: 38
+
+== Spearman ==
+                  tpt   tsp  informal  neet  upah_jam   rls  miskin_mar2026
+tpt             1.00  0.01     -0.45  0.40      0.27  0.56           -0.22
+tsp             0.01  1.00      0.66  0.34     -0.34 -0.13            0.47
+informal       -0.45  0.66      1.00  0.10     -0.28 -0.50            0.74
+neet            0.40  0.34      0.10  1.00      0.30  0.15            0.31
+upah_jam        0.27 -0.34     -0.28  0.30      1.00  0.35            0.02
+rls             0.56 -0.13     -0.50  0.15      0.35  1.00           -0.23
+miskin_mar2026 -0.22  0.47      0.74  0.31      0.02 -0.23            1.00
+
+== Spearman + CI95 bootstrap ==
+      x               y    rho       p  ci95_lo  ci95_hi   n
+0  tpt        informal -0.450  0.0046   -0.699   -0.112  38
+1  tpt             rls  0.555  0.0003    0.254    0.778  38
+2  rls        informal -0.501  0.0014   -0.734   -0.193  38
+3  tpt             tsp  0.006  0.9722   -0.366    0.376  38
+4  rls             tsp -0.133  0.4250   -0.480    0.253  38
+5  tpt  miskin_mar2026 -0.220  0.1843   -0.577    0.145  38
+Parsial rls~tpt | kemiskinan: rho=0.507, p=0.0012
+Parsial rls~informal | kemiskinan: rho=-0.482, p=0.0022
+Parsial rls~tsp | kemiskinan: rho=-0.021, p=0.9009
+
+PCA PC1 var explained: 0.376 | bobot PCA: {'tpt': 0.323, 'tsp': 0.152, 'informal': 0.373, 'neet': 0.034, 'upah_jam': 0.117}
+
+== Robustness antar skema ==
+              a            b    rho
+0         idkk  idkk_noUpah  0.928
+1         idkk  idkk_zscore  0.989
+2         idkk     idkk_pca  0.949
+3  idkk_noUpah  idkk_zscore  0.930
+4  idkk_noUpah     idkk_pca  0.936
+5  idkk_zscore     idkk_pca  0.940
+TPT vs IDKK_noTPT: rho=-0.092, p=0.5830 | TPT vs IDKK: rho=0.360
+ARI klaster k=4 (data mentah vs rank): 0.53
+
+== Evaluasi klaster ==
+    k  silhouette  davies_bouldin  ARI_kmeans_ward  ARI_kmeans_gmm  BIC_gmm
+0  2       0.235           1.499            0.530           0.317  691.025
+1  3       0.270           1.141            0.844           0.918  681.578
+2  4       0.232           1.358            0.617           0.394  683.106
+3  5       0.245           1.268            0.566           0.405  653.878
+4  6       0.247           1.200            0.721           0.342  662.206
+
+== Profil klaster (k=3) ==
+           tpt   tsp  informal   neet  upah_jam    rls   idkk   n
+cluster                                                         
+0        3.87  9.13     63.92  18.79  20118.41   8.89  53.91  22
+1        6.03  9.39     57.87  25.85  24741.56  10.15  62.29   9
+2        4.35  4.70     45.30  14.92  25764.14  10.34  35.50   7
+0 -> Sumatera Utara, Sumatera Barat, Riau, Jambi, Sumatera Selatan, Bengkulu, Lampung, Kep. Bangka Belitung, Jawa Tengah, Jawa Timur, Nusa Tenggara Barat, Nusa Tenggara Timur, Kalimantan Barat, Kalimantan Selatan, Sulawesi Tengah, Sulawesi Selatan, Sulawesi Tenggara, Gorontalo, Sulawesi Barat, Papua Selatan, Papua Tengah, Papua Pegunungan
+1 -> Aceh, Jawa Barat, Banten, Sulawesi Utara, Maluku, Maluku Utara, Papua Barat, Papua Barat Daya, Papua
+2 -> Kep. Riau, Dki Jakarta, Di Yogyakarta, Bali, Kalimantan Tengah, Kalimantan Timur, Kalimantan Utara
+
+OLS IDKK~RLS (HC3): b=-0.19 p=0.9552 R2=0.000
+                   idkk  idkk_pred  resid_std          kategori_ekspektasi
+ACEH              72.81      52.32       1.81  Lebih buruk dari ekspektasi
+SUMATERA BARAT    64.42      52.40       1.07  Lebih buruk dari ekspektasi
+KEP. RIAU         38.03      52.25      -1.26   Lebih baik dari ekspektasi
+DKI JAKARTA       24.25      52.10      -2.47   Lebih baik dari ekspektasi
+JAWA BARAT        64.25      52.50       1.04  Lebih buruk dari ekspektasi
+DI YOGYAKARTA     39.38      52.29      -1.14   Lebih baik dari ekspektasi
+BALI              19.99      52.39      -2.87   Lebih baik dari ekspektasi
+KALIMANTAN TIMUR  40.59      52.34      -1.04   Lebih baik dari ekspektasi
+KALIMANTAN UTARA  40.21      52.46      -1.09   Lebih baik dari ekspektasi
+SULAWESI UTARA    64.48      52.38       1.07  Lebih buruk dari ekspektasi
+MALUKU            73.77      52.28       1.90  Lebih buruk dari ekspektasi
+PAPUA PEGUNUNGAN  35.76      53.39      -1.56   Lebih baik dari ekspektasi
+OLS tpt~RLS (HC3): b=0.66 p=0.0000 R2=0.319
+                    tpt    rls  resid_tpt_rls  resid_tpt_rls_loo
+BALI               1.49  10.07          -2.97              -3.48
+DI YOGYAKARTA      3.46  10.58          -1.53              -1.65
+SULAWESI TENGAH    2.92   9.38          -1.31              -1.36
+SULAWESI TENGGARA  3.31   9.90          -1.27              -1.32
+SULAWESI BARAT     2.86   8.91          -1.10              -1.14
+BENGKULU           3.41   9.71          -1.07              -1.11
+PAPUA TENGAH       3.62   6.27           1.09               1.41
+PAPUA BARAT DAYA   6.85  10.60           1.43               1.53
+PAPUA              6.96  10.65           1.50               1.62
+BANTEN             6.69   9.82           1.74               1.85
+JAWA BARAT         6.77   9.46           2.02               2.17
+OLS informal~RLS (HC3): b=-7.26 p=0.0000 R2=0.587
+                      informal  ...  resid_informal_rls_loo
+KEP. RIAU                34.25  ...                   -2.35
+BANTEN                   45.12  ...                   -1.64
+KEP. BANGKA BELITUNG     51.29  ...                   -1.51
+KALIMANTAN TIMUR         43.22  ...                   -1.41
+KALIMANTAN TENGAH        50.15  ...                   -1.38
+KALIMANTAN BARAT         56.39  ...                   -1.36
+KALIMANTAN UTARA         48.44  ...                   -1.28
+KALIMANTAN SELATAN       53.48  ...                   -1.09
+PAPUA BARAT              63.19  ...                    1.05
+SULAWESI BARAT           70.63  ...                    1.08
+MALUKU UTARA             64.51  ...                    1.11
+BENGKULU                 65.17  ...                    1.13
+SUMATERA BARAT           64.33  ...                    1.36
+ACEH                     63.91  ...                    1.75
+MALUKU                   66.06  ...                    2.39
+
+[15 rows x 4 columns]
+
+== Outlier robust (|z|>=2.5) ==
+             provinsi indikator     nilai  robust_z
+0       PAPUA TENGAH       tsp     16.89      3.68
+1          KEP. RIAU  informal     34.25     -3.06
+2        DKI JAKARTA  informal     36.63     -2.77
+3       PAPUA TENGAH  informal     84.72      3.02
+4   PAPUA PEGUNUNGAN  informal     95.30      4.30
+5               BALI      neet      5.33     -3.81
+6     SULAWESI UTARA      neet     29.52      2.77
+7          KEP. RIAU  upah_jam  29429.00      2.53
+8        DKI JAKARTA  upah_jam  39019.00      5.19
+9        PAPUA BARAT  upah_jam  30233.00      2.76
+10      PAPUA TENGAH  upah_jam  34165.00      3.85
+11  PAPUA PEGUNUNGAN  upah_jam  31388.00      3.08
+12      PAPUA TENGAH       rls      6.27     -3.60
+13  PAPUA PEGUNUNGAN       rls      4.76     -5.24
+
+Gap TPT P-L provinsi: median 0.47, min PAPUA SELATAN -1.42, max ACEH 3.04
+
+Kab/kota baris: 540 | unik nama: 514 | tpt NaN: 0
+Dedup Papua: dibuang 26 baris ganda (kab di provinsi induk lama) -> n = 514 | unik: 514
+Varians TPT kab/kota: antarprovinsi 31.6% | dalam provinsi 68.4%
+TPT kota rata2 5.87 vs kabupaten 3.77
+Gap P-L kab/kota: median 0.22; % kab/kota TPT perempuan > laki-laki: 54.9%
+Top 10 TPT kab/kota:
+ turvar          provinsi          nama    tpt
+266               MALUKU    KOTA AMBON  11.37
+358     PAPUA BARAT DAYA   KOTA SORONG  10.35
+475       SUMATERA BARAT   KOTA PADANG   9.70
+410     SULAWESI SELATAN  KOTA MAKASAR   9.60
+267               MALUKU     KOTA TUAL   8.96
+37                BANTEN    PANDEGLANG   8.80
+80            JAWA BARAT        BEKASI   8.78
+92            JAWA BARAT   KOTA CIMAHI   8.75
+38                BANTEN        SERANG   8.73
+322                PAPUA      JAYAPURA   8.66
+Bottom 5:
+ turvar          provinsi                nama   tpt
+382         PAPUA TENGAH              PUNCAK  0.14
+365     PAPUA PEGUNUNGAN          LANNY JAYA  0.50
+371     PAPUA PEGUNUNGAN              YALIMO  0.68
+351          PAPUA BARAT    PEGUNUNGAN ARFAK  0.72
+511       SUMATERA UTARA  HUMBANG HASUNDUTAN  0.72
+Provinsi dengan ketimpangan TPT internal terbesar:
+                   count  mean   std   min    max
+provinsi                                        
+MALUKU               11  5.12  3.04  1.29  11.37
+PAPUA BARAT DAYA      6  4.69  2.91  2.03  10.35
+PAPUA TENGAH          8  3.69  2.64  0.14   8.05
+SUMATERA UTARA       33  4.14  2.33  0.72   7.99
+SULAWESI UTARA       15  5.20  2.06  2.41   8.51
+PAPUA BARAT           7  4.02  2.03  0.72   6.40
+
+Jawa Tengah n=35, rentang 2.16-8.07; top 5:
+ turvar      nama   tpt
+110       BREBES  8.07
+136        TEGAL  7.61
+111      CILACAP  7.40
+129     PEMALANG  6.61
+106     BANYUMAS  6.26
+
+Nasional: {'tpt': 4.85, 'tpt_l': 4.85, 'tpt_p': 4.84, 'tsp': 7.91, 'informal': 57.8, 'informal_nonag_2024': 46.44, 'neet': 19.44, 'upah_jam': 20030.0, 'rls': 9.41, 'miskin_mar2026': 8.07}

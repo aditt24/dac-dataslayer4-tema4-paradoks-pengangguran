@@ -1,0 +1,118 @@
+# Sumber: BPS, Persentase Penduduk Miskin (P0) Menurut Provinsi dan Daerah; https://www.bps.go.id/id/statistics-table/2/MTkyIzI=/x.html; var_id=192; diambil 2026-11-19
+wilayah_kategori,turvar,tahun,periode,nilai
+ACEH,Perkotaan,2026,Semester 1 (Maret),8.27
+ACEH,Perdesaan,2026,Semester 1 (Maret),14.66
+ACEH,Jumlah,2026,Semester 1 (Maret),12.34
+SUMATERA UTARA,Perkotaan,2026,Semester 1 (Maret),7.05
+SUMATERA UTARA,Perdesaan,2026,Semester 1 (Maret),7.17
+SUMATERA UTARA,Jumlah,2026,Semester 1 (Maret),7.1
+SUMATERA BARAT,Perkotaan,2026,Semester 1 (Maret),3.82
+SUMATERA BARAT,Perdesaan,2026,Semester 1 (Maret),6.88
+SUMATERA BARAT,Jumlah,2026,Semester 1 (Maret),5.27
+RIAU,Perkotaan,2026,Semester 1 (Maret),5.26
+RIAU,Perdesaan,2026,Semester 1 (Maret),6.83
+RIAU,Jumlah,2026,Semester 1 (Maret),6.19
+JAMBI,Perkotaan,2026,Semester 1 (Maret),9.07
+JAMBI,Perdesaan,2026,Semester 1 (Maret),5.45
+JAMBI,Jumlah,2026,Semester 1 (Maret),6.67
+SUMATERA SELATAN,Perkotaan,2026,Semester 1 (Maret),8.48
+SUMATERA SELATAN,Perdesaan,2026,Semester 1 (Maret),10.13
+SUMATERA SELATAN,Jumlah,2026,Semester 1 (Maret),9.5
+BENGKULU,Perkotaan,2026,Semester 1 (Maret),12.73
+BENGKULU,Perdesaan,2026,Semester 1 (Maret),11.37
+BENGKULU,Jumlah,2026,Semester 1 (Maret),11.83
+LAMPUNG,Perkotaan,2026,Semester 1 (Maret),7.28
+LAMPUNG,Perdesaan,2026,Semester 1 (Maret),10.41
+LAMPUNG,Jumlah,2026,Semester 1 (Maret),9.31
+KEP. BANGKA BELITUNG,Perkotaan,2026,Semester 1 (Maret),3.53
+KEP. BANGKA BELITUNG,Perdesaan,2026,Semester 1 (Maret),6.54
+KEP. BANGKA BELITUNG,Jumlah,2026,Semester 1 (Maret),4.75
+KEP. RIAU,Perkotaan,2026,Semester 1 (Maret),3.68
+KEP. RIAU,Perdesaan,2026,Semester 1 (Maret),8.65
+KEP. RIAU,Jumlah,2026,Semester 1 (Maret),4.09
+DKI JAKARTA,Perkotaan,2026,Semester 1 (Maret),3.96
+DKI JAKARTA,Jumlah,2026,Semester 1 (Maret),3.96
+JAWA BARAT,Perkotaan,2026,Semester 1 (Maret),6.32
+JAWA BARAT,Perdesaan,2026,Semester 1 (Maret),7.48
+JAWA BARAT,Jumlah,2026,Semester 1 (Maret),6.54
+JAWA TENGAH,Perkotaan,2026,Semester 1 (Maret),8.59
+JAWA TENGAH,Perdesaan,2026,Semester 1 (Maret),9.96
+JAWA TENGAH,Jumlah,2026,Semester 1 (Maret),9.21
+DI YOGYAKARTA,Perkotaan,2026,Semester 1 (Maret),9.55
+DI YOGYAKARTA,Perdesaan,2026,Semester 1 (Maret),10.18
+DI YOGYAKARTA,Jumlah,2026,Semester 1 (Maret),9.7
+JAWA TIMUR,Perkotaan,2026,Semester 1 (Maret),6.66
+JAWA TIMUR,Perdesaan,2026,Semester 1 (Maret),12.38
+JAWA TIMUR,Jumlah,2026,Semester 1 (Maret),9.06
+BANTEN,Perkotaan,2026,Semester 1 (Maret),5.21
+BANTEN,Perdesaan,2026,Semester 1 (Maret),6.23
+BANTEN,Jumlah,2026,Semester 1 (Maret),5.38
+BALI,Perkotaan,2026,Semester 1 (Maret),3.06
+BALI,Perdesaan,2026,Semester 1 (Maret),4.54
+BALI,Jumlah,2026,Semester 1 (Maret),3.44
+NUSA TENGGARA BARAT,Perkotaan,2026,Semester 1 (Maret),11.25
+NUSA TENGGARA BARAT,Perdesaan,2026,Semester 1 (Maret),11.08
+NUSA TENGGARA BARAT,Jumlah,2026,Semester 1 (Maret),11.17
+NUSA TENGGARA TIMUR,Perkotaan,2026,Semester 1 (Maret),6.71
+NUSA TENGGARA TIMUR,Perdesaan,2026,Semester 1 (Maret),21.64
+NUSA TENGGARA TIMUR,Jumlah,2026,Semester 1 (Maret),17.52
+KALIMANTAN BARAT,Perkotaan,2026,Semester 1 (Maret),4.32
+KALIMANTAN BARAT,Perdesaan,2026,Semester 1 (Maret),6.72
+KALIMANTAN BARAT,Jumlah,2026,Semester 1 (Maret),5.78
+KALIMANTAN TENGAH,Perkotaan,2026,Semester 1 (Maret),4.86
+KALIMANTAN TENGAH,Perdesaan,2026,Semester 1 (Maret),5.27
+KALIMANTAN TENGAH,Jumlah,2026,Semester 1 (Maret),5.09
+KALIMANTAN SELATAN,Perkotaan,2026,Semester 1 (Maret),2.81
+KALIMANTAN SELATAN,Perdesaan,2026,Semester 1 (Maret),4.5
+KALIMANTAN SELATAN,Jumlah,2026,Semester 1 (Maret),3.63
+KALIMANTAN TIMUR,Perkotaan,2026,Semester 1 (Maret),4.15
+KALIMANTAN TIMUR,Perdesaan,2026,Semester 1 (Maret),7.42
+KALIMANTAN TIMUR,Jumlah,2026,Semester 1 (Maret),5.14
+KALIMANTAN UTARA,Perkotaan,2026,Semester 1 (Maret),5.42
+KALIMANTAN UTARA,Perdesaan,2026,Semester 1 (Maret),4.73
+KALIMANTAN UTARA,Jumlah,2026,Semester 1 (Maret),5.18
+SULAWESI UTARA,Perkotaan,2026,Semester 1 (Maret),3.85
+SULAWESI UTARA,Perdesaan,2026,Semester 1 (Maret),9.59
+SULAWESI UTARA,Jumlah,2026,Semester 1 (Maret),6.32
+SULAWESI TENGAH,Perkotaan,2026,Semester 1 (Maret),6.62
+SULAWESI TENGAH,Perdesaan,2026,Semester 1 (Maret),12.48
+SULAWESI TENGAH,Jumlah,2026,Semester 1 (Maret),10.46
+SULAWESI SELATAN,Perkotaan,2026,Semester 1 (Maret),4.65
+SULAWESI SELATAN,Perdesaan,2026,Semester 1 (Maret),9.72
+SULAWESI SELATAN,Jumlah,2026,Semester 1 (Maret),7.24
+SULAWESI TENGGARA,Perkotaan,2026,Semester 1 (Maret),6.17
+SULAWESI TENGGARA,Perdesaan,2026,Semester 1 (Maret),12.83
+SULAWESI TENGGARA,Jumlah,2026,Semester 1 (Maret),10.02
+GORONTALO,Perkotaan,2026,Semester 1 (Maret),4.3
+GORONTALO,Perdesaan,2026,Semester 1 (Maret),19.24
+GORONTALO,Jumlah,2026,Semester 1 (Maret),12.16
+SULAWESI BARAT,Perkotaan,2026,Semester 1 (Maret),7.9
+SULAWESI BARAT,Perdesaan,2026,Semester 1 (Maret),10.57
+SULAWESI BARAT,Jumlah,2026,Semester 1 (Maret),10
+MALUKU,Perkotaan,2026,Semester 1 (Maret),3.99
+MALUKU,Perdesaan,2026,Semester 1 (Maret),24.1
+MALUKU,Jumlah,2026,Semester 1 (Maret),14.91
+MALUKU UTARA,Perkotaan,2026,Semester 1 (Maret),6
+MALUKU UTARA,Perdesaan,2026,Semester 1 (Maret),5.69
+MALUKU UTARA,Jumlah,2026,Semester 1 (Maret),5.79
+PAPUA BARAT,Perkotaan,2026,Semester 1 (Maret),8.14
+PAPUA BARAT,Perdesaan,2026,Semester 1 (Maret),23.71
+PAPUA BARAT,Jumlah,2026,Semester 1 (Maret),18.68
+PAPUA BARAT DAYA,Perkotaan,2026,Semester 1 (Maret),7.48
+PAPUA BARAT DAYA,Perdesaan,2026,Semester 1 (Maret),30.18
+PAPUA BARAT DAYA,Jumlah,2026,Semester 1 (Maret),16.49
+PAPUA,Perkotaan,2026,Semester 1 (Maret),6.09
+PAPUA,Perdesaan,2026,Semester 1 (Maret),38.19
+PAPUA,Jumlah,2026,Semester 1 (Maret),18.39
+PAPUA SELATAN,Perkotaan,2026,Semester 1 (Maret),4
+PAPUA SELATAN,Perdesaan,2026,Semester 1 (Maret),25.77
+PAPUA SELATAN,Jumlah,2026,Semester 1 (Maret),18.54
+PAPUA TENGAH,Perkotaan,2026,Semester 1 (Maret),4.18
+PAPUA TENGAH,Perdesaan,2026,Semester 1 (Maret),39.37
+PAPUA TENGAH,Jumlah,2026,Semester 1 (Maret),30.41
+PAPUA PEGUNUNGAN,Perkotaan,2026,Semester 1 (Maret),16.72
+PAPUA PEGUNUNGAN,Perdesaan,2026,Semester 1 (Maret),27.95
+PAPUA PEGUNUNGAN,Jumlah,2026,Semester 1 (Maret),26.34
+INDONESIA,Perkotaan,2026,Semester 1 (Maret),6.34
+INDONESIA,Perdesaan,2026,Semester 1 (Maret),10.67
+INDONESIA,Jumlah,2026,Semester 1 (Maret),8.07

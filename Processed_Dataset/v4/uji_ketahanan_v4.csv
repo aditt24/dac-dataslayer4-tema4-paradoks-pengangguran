@@ -1,0 +1,37 @@
+sampel,hubungan,kontrol,rho,p,n
+38 provinsi,tpt~idkk3,-,0.004,0.9818,38
+38 provinsi,tpt~informal,-,-0.45,0.0046,38
+38 provinsi,tpt~tsp,-,0.006,0.9722,38
+38 provinsi,tpt~neet,-,0.4,0.0128,38
+38 provinsi,rls~tpt,-,0.555,0.0003,38
+38 provinsi,rls~idkk3,-,-0.145,0.3836,38
+38 provinsi,urban~idkk3,-,-0.669,0.0,38
+38 provinsi,urban~tpt,-,0.336,0.0391,38
+38 provinsi,rls~tpt,urban,0.461,0.0036,38
+38 provinsi,rls~idkk3,urban,0.212,0.2019,38
+38 provinsi,urban~idkk3,rls,-0.694,0.0,38
+38 provinsi,rls~informal,urban,-0.345,0.0341,38
+tanpa Papua,tpt~idkk3,-,-0.103,0.5733,32
+tanpa Papua,tpt~informal,-,-0.391,0.0268,32
+tanpa Papua,tpt~tsp,-,-0.051,0.7806,32
+tanpa Papua,tpt~neet,-,0.243,0.1804,32
+tanpa Papua,rls~tpt,-,0.436,0.0127,32
+tanpa Papua,rls~idkk3,-,-0.227,0.212,32
+tanpa Papua,urban~idkk3,-,-0.727,0.0,32
+tanpa Papua,urban~tpt,-,0.433,0.0132,32
+tanpa Papua,rls~tpt,urban,0.303,0.0917,32
+tanpa Papua,rls~idkk3,urban,0.078,0.671,32
+tanpa Papua,urban~idkk3,rls,-0.694,0.0,32
+tanpa Papua,rls~informal,urban,-0.082,0.655,32
+tanpa 5 prov. urban-induk,tpt~idkk3,-,-0.09,0.6187,33
+tanpa 5 prov. urban-induk,tpt~informal,-,-0.414,0.0167,33
+tanpa 5 prov. urban-induk,tpt~tsp,-,-0.059,0.7446,33
+tanpa 5 prov. urban-induk,tpt~neet,-,0.328,0.0621,33
+tanpa 5 prov. urban-induk,rls~tpt,-,0.502,0.0029,33
+tanpa 5 prov. urban-induk,rls~idkk3,-,-0.167,0.3516,33
+tanpa 5 prov. urban-induk,urban~idkk3,-,-0.709,0.0,33
+tanpa 5 prov. urban-induk,urban~tpt,-,0.36,0.0393,33
+tanpa 5 prov. urban-induk,rls~tpt,urban,0.418,0.0155,33
+tanpa 5 prov. urban-induk,rls~idkk3,urban,0.068,0.7062,33
+tanpa 5 prov. urban-induk,urban~idkk3,rls,-0.691,0.0,33
+tanpa 5 prov. urban-induk,rls~informal,urban,-0.202,0.2607,33

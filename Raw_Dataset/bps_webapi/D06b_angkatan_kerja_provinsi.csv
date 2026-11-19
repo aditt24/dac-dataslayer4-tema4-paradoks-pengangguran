@@ -1,0 +1,469 @@
+wilayah_kategori,turvar,tahun,periode,nilai
+ACEH,Bekerja,2025,Februari ,2555818
+ACEH,Bekerja,2025,Agustus,2561329
+ACEH,Jumlah Pengangguran,2025,Februari ,148803
+ACEH,Jumlah Pengangguran,2025,Agustus,153189
+ACEH,Jumlah AK,2025,Februari ,2704621
+ACEH,Jumlah AK,2025,Agustus,2714518
+ACEH,% Bekerja / AK,2025,Februari ,94.5
+ACEH,% Bekerja / AK,2025,Agustus,94.36
+SUMATERA UTARA,Bekerja,2025,Februari ,7699108
+SUMATERA UTARA,Bekerja,2025,Agustus,7976273
+SUMATERA UTARA,Jumlah Pengangguran,2025,Februari ,409230
+SUMATERA UTARA,Jumlah Pengangguran,2025,Agustus,448252
+SUMATERA UTARA,Jumlah AK,2025,Februari ,8108338
+SUMATERA UTARA,Jumlah AK,2025,Agustus,8424525
+SUMATERA UTARA,% Bekerja / AK,2025,Februari ,94.95
+SUMATERA UTARA,% Bekerja / AK,2025,Agustus,94.68
+SUMATERA BARAT,Bekerja,2025,Februari ,2978187
+SUMATERA BARAT,Bekerja,2025,Agustus,3018582
+SUMATERA BARAT,Jumlah Pengangguran,2025,Februari ,179725
+SUMATERA BARAT,Jumlah Pengangguran,2025,Agustus,179634
+SUMATERA BARAT,Jumlah AK,2025,Februari ,3157912
+SUMATERA BARAT,Jumlah AK,2025,Agustus,3198216
+SUMATERA BARAT,% Bekerja / AK,2025,Februari ,94.31
+SUMATERA BARAT,% Bekerja / AK,2025,Agustus,94.38
+RIAU,Bekerja,2025,Februari ,3091840
+RIAU,Bekerja,2025,Agustus,3210929
+RIAU,Jumlah Pengangguran,2025,Februari ,132969
+RIAU,Jumlah Pengangguran,2025,Agustus,139208
+RIAU,Jumlah AK,2025,Februari ,3224809
+RIAU,Jumlah AK,2025,Agustus,3350137
+RIAU,% Bekerja / AK,2025,Februari ,95.88
+RIAU,% Bekerja / AK,2025,Agustus,95.84
+JAMBI,Bekerja,2025,Februari ,1799860
+JAMBI,Bekerja,2025,Agustus,1851864
+JAMBI,Jumlah Pengangguran,2025,Februari ,84475
+JAMBI,Jumlah Pengangguran,2025,Agustus,82347
+JAMBI,Jumlah AK,2025,Februari ,1884335
+JAMBI,Jumlah AK,2025,Agustus,1934211
+JAMBI,% Bekerja / AK,2025,Februari ,95.52
+JAMBI,% Bekerja / AK,2025,Agustus,95.74
+SUMATERA SELATAN,Bekerja,2025,Februari ,4492327
+SUMATERA SELATAN,Bekerja,2025,Agustus,4492574
+SUMATERA SELATAN,Jumlah Pengangguran,2025,Februari ,181732
+SUMATERA SELATAN,Jumlah Pengangguran,2025,Agustus,172361
+SUMATERA SELATAN,Jumlah AK,2025,Februari ,4674059
+SUMATERA SELATAN,Jumlah AK,2025,Agustus,4664935
+SUMATERA SELATAN,% Bekerja / AK,2025,Februari ,96.11
+SUMATERA SELATAN,% Bekerja / AK,2025,Agustus,96.31
+BENGKULU,Bekerja,2025,Februari ,1105046
+BENGKULU,Bekerja,2025,Agustus,1115334
+BENGKULU,Jumlah Pengangguran,2025,Februari ,36992
+BENGKULU,Jumlah Pengangguran,2025,Agustus,39364
+BENGKULU,Jumlah AK,2025,Februari ,1142038
+BENGKULU,Jumlah AK,2025,Agustus,1154698
+BENGKULU,% Bekerja / AK,2025,Februari ,96.76
+BENGKULU,% Bekerja / AK,2025,Agustus,96.59
+LAMPUNG,Bekerja,2025,Februari ,4879061
+LAMPUNG,Bekerja,2025,Agustus,4853377
+LAMPUNG,Jumlah Pengangguran,2025,Februari ,206804
+LAMPUNG,Jumlah Pengangguran,2025,Agustus,213173
+LAMPUNG,Jumlah AK,2025,Februari ,5085865
+LAMPUNG,Jumlah AK,2025,Agustus,5066550
+LAMPUNG,% Bekerja / AK,2025,Februari ,95.93
+LAMPUNG,% Bekerja / AK,2025,Agustus,95.79
+KEP. BANGKA BELITUNG,Bekerja,2025,Februari ,762982
+KEP. BANGKA BELITUNG,Bekerja,2025,Agustus,785723
+KEP. BANGKA BELITUNG,Jumlah Pengangguran,2025,Februari ,33224
+KEP. BANGKA BELITUNG,Jumlah Pengangguran,2025,Agustus,36588
+KEP. BANGKA BELITUNG,Jumlah AK,2025,Februari ,796206
+KEP. BANGKA BELITUNG,Jumlah AK,2025,Agustus,822311
+KEP. BANGKA BELITUNG,% Bekerja / AK,2025,Februari ,95.83
+KEP. BANGKA BELITUNG,% Bekerja / AK,2025,Agustus,95.55
+KEP. RIAU,Bekerja,2025,Februari ,1016540
+KEP. RIAU,Bekerja,2025,Agustus,1051975
+KEP. RIAU,Jumlah Pengangguran,2025,Februari ,75214
+KEP. RIAU,Jumlah Pengangguran,2025,Agustus,72559
+KEP. RIAU,Jumlah AK,2025,Februari ,1091754
+KEP. RIAU,Jumlah AK,2025,Agustus,1124534
+KEP. RIAU,% Bekerja / AK,2025,Februari ,93.11
+KEP. RIAU,% Bekerja / AK,2025,Agustus,93.55
+DKI JAKARTA,Bekerja,2025,Februari ,5137602
+DKI JAKARTA,Bekerja,2025,Agustus,5128464
+DKI JAKARTA,Jumlah Pengangguran,2025,Februari ,338394
+DKI JAKARTA,Jumlah Pengangguran,2025,Agustus,330335
+DKI JAKARTA,Jumlah AK,2025,Februari ,5475996
+DKI JAKARTA,Jumlah AK,2025,Agustus,5458799
+DKI JAKARTA,% Bekerja / AK,2025,Februari ,93.82
+DKI JAKARTA,% Bekerja / AK,2025,Agustus,93.95
+JAWA BARAT,Bekerja,2025,Februari ,24994586
+JAWA BARAT,Bekerja,2025,Agustus,24506852
+JAWA BARAT,Jumlah Pengangguran,2025,Februari ,1807211
+JAWA BARAT,Jumlah Pengangguran,2025,Agustus,1779622
+JAWA BARAT,Jumlah AK,2025,Februari ,26801797
+JAWA BARAT,Jumlah AK,2025,Agustus,26286474
+JAWA BARAT,% Bekerja / AK,2025,Februari ,93.26
+JAWA BARAT,% Bekerja / AK,2025,Agustus,93.23
+JAWA TENGAH,Bekerja,2025,Februari ,20923962
+JAWA TENGAH,Bekerja,2025,Agustus,21295797
+JAWA TENGAH,Jumlah Pengangguran,2025,Februari ,947248
+JAWA TENGAH,Jumlah Pengangguran,2025,Agustus,1040401
+JAWA TENGAH,Jumlah AK,2025,Februari ,21871210
+JAWA TENGAH,Jumlah AK,2025,Agustus,22336198
+JAWA TENGAH,% Bekerja / AK,2025,Februari ,95.67
+JAWA TENGAH,% Bekerja / AK,2025,Agustus,95.34
+DI YOGYAKARTA,Bekerja,2025,Februari ,2168563
+DI YOGYAKARTA,Bekerja,2025,Agustus,2200071
+DI YOGYAKARTA,Jumlah Pengangguran,2025,Februari ,71192
+DI YOGYAKARTA,Jumlah Pengangguran,2025,Agustus,78743
+DI YOGYAKARTA,Jumlah AK,2025,Februari ,2239755
+DI YOGYAKARTA,Jumlah AK,2025,Agustus,2278814
+DI YOGYAKARTA,% Bekerja / AK,2025,Februari ,96.82
+DI YOGYAKARTA,% Bekerja / AK,2025,Agustus,96.54
+JAWA TIMUR,Bekerja,2025,Februari ,23864700
+JAWA TIMUR,Bekerja,2025,Agustus,23801034
+JAWA TIMUR,Jumlah Pengangguran,2025,Februari ,894495
+JAWA TIMUR,Jumlah Pengangguran,2025,Agustus,960700
+JAWA TIMUR,Jumlah AK,2025,Februari ,24759195
+JAWA TIMUR,Jumlah AK,2025,Agustus,24761734
+JAWA TIMUR,% Bekerja / AK,2025,Februari ,96.39
+JAWA TIMUR,% Bekerja / AK,2025,Agustus,96.12
+BANTEN,Bekerja,2025,Februari ,5801246
+BANTEN,Bekerja,2025,Agustus,5755926
+BANTEN,Jumlah Pengangguran,2025,Februari ,412713
+BANTEN,Jumlah Pengangguran,2025,Agustus,412356
+BANTEN,Jumlah AK,2025,Februari ,6213959
+BANTEN,Jumlah AK,2025,Agustus,6168282
+BANTEN,% Bekerja / AK,2025,Februari ,93.36
+BANTEN,% Bekerja / AK,2025,Agustus,93.31
+BALI,Bekerja,2025,Februari ,2694024
+BALI,Bekerja,2025,Agustus,2701726
+BALI,Jumlah Pengangguran,2025,Februari ,43131
+BALI,Jumlah Pengangguran,2025,Agustus,40994
+BALI,Jumlah AK,2025,Februari ,2737155
+BALI,Jumlah AK,2025,Agustus,2742720
+BALI,% Bekerja / AK,2025,Februari ,98.42
+BALI,% Bekerja / AK,2025,Agustus,98.51
+NUSA TENGGARA BARAT,Bekerja,2025,Februari ,3088113
+NUSA TENGGARA BARAT,Bekerja,2025,Agustus,3106729
+NUSA TENGGARA BARAT,Jumlah Pengangguran,2025,Februari ,102629
+NUSA TENGGARA BARAT,Jumlah Pengangguran,2025,Agustus,97932
+NUSA TENGGARA BARAT,Jumlah AK,2025,Februari ,3190742
+NUSA TENGGARA BARAT,Jumlah AK,2025,Agustus,3204661
+NUSA TENGGARA BARAT,% Bekerja / AK,2025,Februari ,96.78
+NUSA TENGGARA BARAT,% Bekerja / AK,2025,Agustus,96.94
+NUSA TENGGARA TIMUR,Bekerja,2025,Februari ,2976360
+NUSA TENGGARA TIMUR,Bekerja,2025,Agustus,2989090
+NUSA TENGGARA TIMUR,Jumlah Pengangguran,2025,Februari ,99272
+NUSA TENGGARA TIMUR,Jumlah Pengangguran,2025,Agustus,102428
+NUSA TENGGARA TIMUR,Jumlah AK,2025,Februari ,3075632
+NUSA TENGGARA TIMUR,Jumlah AK,2025,Agustus,3091518
+NUSA TENGGARA TIMUR,% Bekerja / AK,2025,Februari ,96.77
+NUSA TENGGARA TIMUR,% Bekerja / AK,2025,Agustus,96.69
+KALIMANTAN BARAT,Bekerja,2025,Februari ,2791377
+KALIMANTAN BARAT,Bekerja,2025,Agustus,2930432
+KALIMANTAN BARAT,Jumlah Pengangguran,2025,Februari ,123374
+KALIMANTAN BARAT,Jumlah Pengangguran,2025,Agustus,148253
+KALIMANTAN BARAT,Jumlah AK,2025,Februari ,2914751
+KALIMANTAN BARAT,Jumlah AK,2025,Agustus,3078685
+KALIMANTAN BARAT,% Bekerja / AK,2025,Februari ,95.77
+KALIMANTAN BARAT,% Bekerja / AK,2025,Agustus,95.18
+KALIMANTAN TENGAH,Bekerja,2025,Februari ,1446139
+KALIMANTAN TENGAH,Bekerja,2025,Agustus,1417683
+KALIMANTAN TENGAH,Jumlah Pengangguran,2025,Februari ,52049
+KALIMANTAN TENGAH,Jumlah Pengangguran,2025,Agustus,58612
+KALIMANTAN TENGAH,Jumlah AK,2025,Februari ,1498188
+KALIMANTAN TENGAH,Jumlah AK,2025,Agustus,1476295
+KALIMANTAN TENGAH,% Bekerja / AK,2025,Februari ,96.53
+KALIMANTAN TENGAH,% Bekerja / AK,2025,Agustus,96.03
+KALIMANTAN SELATAN,Bekerja,2025,Februari ,2154947
+KALIMANTAN SELATAN,Bekerja,2025,Agustus,2153139
+KALIMANTAN SELATAN,Jumlah Pengangguran,2025,Februari ,88499
+KALIMANTAN SELATAN,Jumlah Pengangguran,2025,Agustus,93409
+KALIMANTAN SELATAN,Jumlah AK,2025,Februari ,2243446
+KALIMANTAN SELATAN,Jumlah AK,2025,Agustus,2246548
+KALIMANTAN SELATAN,% Bekerja / AK,2025,Februari ,96.06
+KALIMANTAN SELATAN,% Bekerja / AK,2025,Agustus,95.84
+KALIMANTAN TIMUR,Bekerja,2025,Februari ,2009990
+KALIMANTAN TIMUR,Bekerja,2025,Agustus,1969739
+KALIMANTAN TIMUR,Jumlah Pengangguran,2025,Februari ,113166
+KALIMANTAN TIMUR,Jumlah Pengangguran,2025,Agustus,107674
+KALIMANTAN TIMUR,Jumlah AK,2025,Februari ,2123156
+KALIMANTAN TIMUR,Jumlah AK,2025,Agustus,2077413
+KALIMANTAN TIMUR,% Bekerja / AK,2025,Februari ,94.67
+KALIMANTAN TIMUR,% Bekerja / AK,2025,Agustus,94.82
+KALIMANTAN UTARA,Bekerja,2025,Februari ,375513
+KALIMANTAN UTARA,Bekerja,2025,Agustus,380572
+KALIMANTAN UTARA,Jumlah Pengangguran,2025,Februari ,15232
+KALIMANTAN UTARA,Jumlah Pengangguran,2025,Agustus,15231
+KALIMANTAN UTARA,Jumlah AK,2025,Februari ,390745
+KALIMANTAN UTARA,Jumlah AK,2025,Agustus,395803
+KALIMANTAN UTARA,% Bekerja / AK,2025,Februari ,96.1
+KALIMANTAN UTARA,% Bekerja / AK,2025,Agustus,96.15
+SULAWESI UTARA,Bekerja,2025,Februari ,1294920
+SULAWESI UTARA,Bekerja,2025,Agustus,1339333
+SULAWESI UTARA,Jumlah Pengangguran,2025,Februari ,83130
+SULAWESI UTARA,Jumlah Pengangguran,2025,Agustus,85368
+SULAWESI UTARA,Jumlah AK,2025,Februari ,1378050
+SULAWESI UTARA,Jumlah AK,2025,Agustus,1424701
+SULAWESI UTARA,% Bekerja / AK,2025,Februari ,93.97
+SULAWESI UTARA,% Bekerja / AK,2025,Agustus,94.01
+SULAWESI TENGAH,Bekerja,2025,Februari ,1595512
+SULAWESI TENGAH,Bekerja,2025,Agustus,1652846
+SULAWESI TENGAH,Jumlah Pengangguran,2025,Februari ,49605
+SULAWESI TENGAH,Jumlah Pengangguran,2025,Agustus,49705
+SULAWESI TENGAH,Jumlah AK,2025,Februari ,1645117
+SULAWESI TENGAH,Jumlah AK,2025,Agustus,1702551
+SULAWESI TENGAH,% Bekerja / AK,2025,Februari ,96.98
+SULAWESI TENGAH,% Bekerja / AK,2025,Agustus,97.08
+SULAWESI SELATAN,Bekerja,2025,Februari ,4577588
+SULAWESI SELATAN,Bekerja,2025,Agustus,4759077
+SULAWESI SELATAN,Jumlah Pengangguran,2025,Februari ,238797
+SULAWESI SELATAN,Jumlah Pengangguran,2025,Agustus,208950
+SULAWESI SELATAN,Jumlah AK,2025,Februari ,4816385
+SULAWESI SELATAN,Jumlah AK,2025,Agustus,4968027
+SULAWESI SELATAN,% Bekerja / AK,2025,Februari ,95.04
+SULAWESI SELATAN,% Bekerja / AK,2025,Agustus,95.79
+SULAWESI TENGGARA,Bekerja,2025,Februari ,1383095
+SULAWESI TENGGARA,Bekerja,2025,Agustus,1434033
+SULAWESI TENGGARA,Jumlah Pengangguran,2025,Februari ,46716
+SULAWESI TENGGARA,Jumlah Pengangguran,2025,Agustus,49164
+SULAWESI TENGGARA,Jumlah AK,2025,Februari ,1429811
+SULAWESI TENGGARA,Jumlah AK,2025,Agustus,1483197
+SULAWESI TENGGARA,% Bekerja / AK,2025,Februari ,96.73
+SULAWESI TENGGARA,% Bekerja / AK,2025,Agustus,96.69
+GORONTALO,Bekerja,2025,Februari ,615170
+GORONTALO,Bekerja,2025,Agustus,633263
+GORONTALO,Jumlah Pengangguran,2025,Februari ,19817
+GORONTALO,Jumlah Pengangguran,2025,Agustus,22418
+GORONTALO,Jumlah AK,2025,Februari ,634987
+GORONTALO,Jumlah AK,2025,Agustus,655681
+GORONTALO,% Bekerja / AK,2025,Februari ,96.88
+GORONTALO,% Bekerja / AK,2025,Agustus,96.58
+SULAWESI BARAT,Bekerja,2025,Februari ,764613
+SULAWESI BARAT,Bekerja,2025,Agustus,800433
+SULAWESI BARAT,Jumlah Pengangguran,2025,Februari ,25021
+SULAWESI BARAT,Jumlah Pengangguran,2025,Agustus,23603
+SULAWESI BARAT,Jumlah AK,2025,Februari ,789634
+SULAWESI BARAT,Jumlah AK,2025,Agustus,824036
+SULAWESI BARAT,% Bekerja / AK,2025,Februari ,96.83
+SULAWESI BARAT,% Bekerja / AK,2025,Agustus,97.14
+MALUKU,Bekerja,2025,Februari ,931667
+MALUKU,Bekerja,2025,Agustus,922486
+MALUKU,Jumlah Pengangguran,2025,Februari ,58967
+MALUKU,Jumlah Pengangguran,2025,Agustus,61755
+MALUKU,Jumlah AK,2025,Februari ,990634
+MALUKU,Jumlah AK,2025,Agustus,984241
+MALUKU,% Bekerja / AK,2025,Februari ,94.05
+MALUKU,% Bekerja / AK,2025,Agustus,93.73
+MALUKU UTARA,Bekerja,2025,Februari ,663611
+MALUKU UTARA,Bekerja,2025,Agustus,673456
+MALUKU UTARA,Jumlah Pengangguran,2025,Februari ,29532
+MALUKU UTARA,Jumlah Pengangguran,2025,Agustus,32122
+MALUKU UTARA,Jumlah AK,2025,Februari ,693143
+MALUKU UTARA,Jumlah AK,2025,Agustus,705578
+MALUKU UTARA,% Bekerja / AK,2025,Februari ,95.74
+MALUKU UTARA,% Bekerja / AK,2025,Agustus,95.45
+PAPUA BARAT,Bekerja,2025,Februari ,295161
+PAPUA BARAT,Bekerja,2025,Agustus,288323
+PAPUA BARAT,Jumlah Pengangguran,2025,Februari ,12965
+PAPUA BARAT,Jumlah Pengangguran,2025,Agustus,13755
+PAPUA BARAT,Jumlah AK,2025,Februari ,308126
+PAPUA BARAT,Jumlah AK,2025,Agustus,302078
+PAPUA BARAT,% Bekerja / AK,2025,Februari ,95.79
+PAPUA BARAT,% Bekerja / AK,2025,Agustus,95.45
+PAPUA BARAT DAYA,Bekerja,2025,Februari ,300928
+PAPUA BARAT DAYA,Bekerja,2025,Agustus,301862
+PAPUA BARAT DAYA,Jumlah Pengangguran,2025,Februari ,21289
+PAPUA BARAT DAYA,Jumlah Pengangguran,2025,Agustus,22209
+PAPUA BARAT DAYA,Jumlah AK,2025,Februari ,322217
+PAPUA BARAT DAYA,Jumlah AK,2025,Agustus,324071
+PAPUA BARAT DAYA,% Bekerja / AK,2025,Februari ,93.39
+PAPUA BARAT DAYA,% Bekerja / AK,2025,Agustus,93.15
+PAPUA,Bekerja,2025,Februari ,475118
+PAPUA,Bekerja,2025,Agustus,434016
+PAPUA,Jumlah Pengangguran,2025,Februari ,35316
+PAPUA,Jumlah Pengangguran,2025,Agustus,32475
+PAPUA,Jumlah AK,2025,Februari ,510434
+PAPUA,Jumlah AK,2025,Agustus,466491
+PAPUA,% Bekerja / AK,2025,Februari ,93.08
+PAPUA,% Bekerja / AK,2025,Agustus,93.04
+PAPUA SELATAN,Bekerja,2025,Februari ,216820
+PAPUA SELATAN,Bekerja,2025,Agustus,217682
+PAPUA SELATAN,Jumlah Pengangguran,2025,Februari ,11176
+PAPUA SELATAN,Jumlah Pengangguran,2025,Agustus,9160
+PAPUA SELATAN,Jumlah AK,2025,Februari ,227996
+PAPUA SELATAN,Jumlah AK,2025,Agustus,226842
+PAPUA SELATAN,% Bekerja / AK,2025,Februari ,95.1
+PAPUA SELATAN,% Bekerja / AK,2025,Agustus,95.96
+PAPUA TENGAH,Bekerja,2025,Februari ,840817
+PAPUA TENGAH,Bekerja,2025,Agustus,790239
+PAPUA TENGAH,Jumlah Pengangguran,2025,Februari ,30963
+PAPUA TENGAH,Jumlah Pengangguran,2025,Agustus,29721
+PAPUA TENGAH,Jumlah AK,2025,Februari ,871780
+PAPUA TENGAH,Jumlah AK,2025,Agustus,819960
+PAPUA TENGAH,% Bekerja / AK,2025,Februari ,96.45
+PAPUA TENGAH,% Bekerja / AK,2025,Agustus,96.38
+PAPUA PEGUNUNGAN,Bekerja,2025,Februari ,1008269
+PAPUA PEGUNUNGAN,Bekerja,2025,Agustus,1040001
+PAPUA PEGUNUNGAN,Jumlah Pengangguran,2025,Februari ,17240
+PAPUA PEGUNUNGAN,Jumlah Pengangguran,2025,Agustus,17737
+PAPUA PEGUNUNGAN,Jumlah AK,2025,Februari ,1025509
+PAPUA PEGUNUNGAN,Jumlah AK,2025,Agustus,1057738
+PAPUA PEGUNUNGAN,% Bekerja / AK,2025,Februari ,98.32
+PAPUA PEGUNUNGAN,% Bekerja / AK,2025,Agustus,98.32
+INDONESIA,Bekerja,2025,Februari ,145771180
+INDONESIA,Bekerja,2025,Agustus,146542264
+INDONESIA,Jumlah Pengangguran,2025,Februari ,7278307
+INDONESIA,Jumlah Pengangguran,2025,Agustus,7461507
+INDONESIA,Jumlah AK,2025,Februari ,153049487
+INDONESIA,Jumlah AK,2025,Agustus,154003771
+INDONESIA,% Bekerja / AK,2025,Februari ,95.24
+INDONESIA,% Bekerja / AK,2025,Agustus,95.15
+ACEH,Bekerja,2026,Februari ,2500477
+ACEH,Jumlah Pengangguran,2026,Februari ,156233
+ACEH,Jumlah AK,2026,Februari ,2656710
+ACEH,% Bekerja / AK,2026,Februari ,94.12
+SUMATERA UTARA,Bekerja,2026,Februari ,7727186
+SUMATERA UTARA,Jumlah Pengangguran,2026,Februari ,407646
+SUMATERA UTARA,Jumlah AK,2026,Februari ,8134832
+SUMATERA UTARA,% Bekerja / AK,2026,Februari ,94.99
+SUMATERA BARAT,Bekerja,2026,Februari ,3063934
+SUMATERA BARAT,Jumlah Pengangguran,2026,Februari ,178677
+SUMATERA BARAT,Jumlah AK,2026,Februari ,3242611
+SUMATERA BARAT,% Bekerja / AK,2026,Februari ,94.49
+RIAU,Bekerja,2026,Februari ,3218300
+RIAU,Jumlah Pengangguran,2026,Februari ,137115
+RIAU,Jumlah AK,2026,Februari ,3355415
+RIAU,% Bekerja / AK,2026,Februari ,95.91
+JAMBI,Bekerja,2026,Februari ,1796779
+JAMBI,Jumlah Pengangguran,2026,Februari ,74617
+JAMBI,Jumlah AK,2026,Februari ,1871396
+JAMBI,% Bekerja / AK,2026,Februari ,96.01
+SUMATERA SELATAN,Bekerja,2026,Februari ,4591310
+SUMATERA SELATAN,Jumlah Pengangguran,2026,Februari ,171032
+SUMATERA SELATAN,Jumlah AK,2026,Februari ,4762342
+SUMATERA SELATAN,% Bekerja / AK,2026,Februari ,96.41
+BENGKULU,Bekerja,2026,Februari ,1100350
+BENGKULU,Jumlah Pengangguran,2026,Februari ,36748
+BENGKULU,Jumlah AK,2026,Februari ,1137098
+BENGKULU,% Bekerja / AK,2026,Februari ,96.77
+LAMPUNG,Bekerja,2026,Februari ,4913587
+LAMPUNG,Jumlah Pengangguran,2026,Februari ,202317
+LAMPUNG,Jumlah AK,2026,Februari ,5115904
+LAMPUNG,% Bekerja / AK,2026,Februari ,96.05
+KEP. BANGKA BELITUNG,Bekerja,2026,Februari ,782112
+KEP. BANGKA BELITUNG,Jumlah Pengangguran,2026,Februari ,33841
+KEP. BANGKA BELITUNG,Jumlah AK,2026,Februari ,815953
+KEP. BANGKA BELITUNG,% Bekerja / AK,2026,Februari ,95.85
+KEP. RIAU,Bekerja,2026,Februari ,1032989
+KEP. RIAU,Jumlah Pengangguran,2026,Februari ,76155
+KEP. RIAU,Jumlah AK,2026,Februari ,1109144
+KEP. RIAU,% Bekerja / AK,2026,Februari ,93.13
+DKI JAKARTA,Bekerja,2026,Februari ,5199783
+DKI JAKARTA,Jumlah Pengangguran,2026,Februari ,333856
+DKI JAKARTA,Jumlah AK,2026,Februari ,5533639
+DKI JAKARTA,% Bekerja / AK,2026,Februari ,93.97
+JAWA BARAT,Bekerja,2026,Februari ,25104780
+JAWA BARAT,Jumlah Pengangguran,2026,Februari ,1786425
+JAWA BARAT,Jumlah AK,2026,Februari ,26891205
+JAWA BARAT,% Bekerja / AK,2026,Februari ,93.36
+JAWA TENGAH,Bekerja,2026,Februari ,21379591
+JAWA TENGAH,Jumlah Pengangguran,2026,Februari ,946163
+JAWA TENGAH,Jumlah AK,2026,Februari ,22325754
+JAWA TENGAH,% Bekerja / AK,2026,Februari ,95.76
+DI YOGYAKARTA,Bekerja,2026,Februari ,2212583
+DI YOGYAKARTA,Jumlah Pengangguran,2026,Februari ,69538
+DI YOGYAKARTA,Jumlah AK,2026,Februari ,2282121
+DI YOGYAKARTA,% Bekerja / AK,2026,Februari ,96.95
+JAWA TIMUR,Bekerja,2026,Februari ,24252741
+JAWA TIMUR,Jumlah Pengangguran,2026,Februari ,892645
+JAWA TIMUR,Jumlah AK,2026,Februari ,25145386
+JAWA TIMUR,% Bekerja / AK,2026,Februari ,96.45
+BANTEN,Bekerja,2026,Februari ,5827270
+BANTEN,Jumlah Pengangguran,2026,Februari ,411235
+BANTEN,Jumlah AK,2026,Februari ,6238505
+BANTEN,% Bekerja / AK,2026,Februari ,93.41
+BALI,Bekerja,2026,Februari ,2616980
+BALI,Jumlah Pengangguran,2026,Februari ,42319
+BALI,Jumlah AK,2026,Februari ,2659299
+BALI,% Bekerja / AK,2026,Februari ,98.41
+NUSA TENGGARA BARAT,Bekerja,2026,Februari ,3139311
+NUSA TENGGARA BARAT,Jumlah Pengangguran,2026,Februari ,96663
+NUSA TENGGARA BARAT,Jumlah AK,2026,Februari ,3235974
+NUSA TENGGARA BARAT,% Bekerja / AK,2026,Februari ,97.01
+NUSA TENGGARA TIMUR,Bekerja,2026,Februari ,3076412
+NUSA TENGGARA TIMUR,Jumlah Pengangguran,2026,Februari ,100369
+NUSA TENGGARA TIMUR,Jumlah AK,2026,Februari ,3176781
+NUSA TENGGARA TIMUR,% Bekerja / AK,2026,Februari ,96.84
+KALIMANTAN BARAT,Bekerja,2026,Februari ,2907218
+KALIMANTAN BARAT,Jumlah Pengangguran,2026,Februari ,139171
+KALIMANTAN BARAT,Jumlah AK,2026,Februari ,3046389
+KALIMANTAN BARAT,% Bekerja / AK,2026,Februari ,95.43
+KALIMANTAN TENGAH,Bekerja,2026,Februari ,1452816
+KALIMANTAN TENGAH,Jumlah Pengangguran,2026,Februari ,51705
+KALIMANTAN TENGAH,Jumlah AK,2026,Februari ,1504521
+KALIMANTAN TENGAH,% Bekerja / AK,2026,Februari ,96.56
+KALIMANTAN SELATAN,Bekerja,2026,Februari ,2149708
+KALIMANTAN SELATAN,Jumlah Pengangguran,2026,Februari ,84851
+KALIMANTAN SELATAN,Jumlah AK,2026,Februari ,2234559
+KALIMANTAN SELATAN,% Bekerja / AK,2026,Februari ,96.2
+KALIMANTAN TIMUR,Bekerja,2026,Februari ,1995214
+KALIMANTAN TIMUR,Jumlah Pengangguran,2026,Februari ,111092
+KALIMANTAN TIMUR,Jumlah AK,2026,Februari ,2106306
+KALIMANTAN TIMUR,% Bekerja / AK,2026,Februari ,94.73
+KALIMANTAN UTARA,Bekerja,2026,Februari ,378196
+KALIMANTAN UTARA,Jumlah Pengangguran,2026,Februari ,153492
+KALIMANTAN UTARA,Jumlah AK,2026,Februari ,393545
+KALIMANTAN UTARA,% Bekerja / AK,2026,Februari ,96.1
+SULAWESI UTARA,Bekerja,2026,Februari ,1265628
+SULAWESI UTARA,Jumlah Pengangguran,2026,Februari ,77198
+SULAWESI UTARA,Jumlah AK,2026,Februari ,1342826
+SULAWESI UTARA,% Bekerja / AK,2026,Februari ,94.25
+SULAWESI TENGAH,Bekerja,2026,Februari ,1622946
+SULAWESI TENGAH,Jumlah Pengangguran,2026,Februari ,49379
+SULAWESI TENGAH,Jumlah AK,2026,Februari ,1672325
+SULAWESI TENGAH,% Bekerja / AK,2026,Februari ,97.05
+SULAWESI SELATAN,Bekerja,2026,Februari ,4748492
+SULAWESI SELATAN,Jumlah Pengangguran,2026,Februari ,247119
+SULAWESI SELATAN,Jumlah AK,2026,Februari ,4995611
+SULAWESI SELATAN,% Bekerja / AK,2026,Februari ,95.05
+SULAWESI TENGGARA,Bekerja,2026,Februari ,1409865
+SULAWESI TENGGARA,Jumlah Pengangguran,2026,Februari ,47360
+SULAWESI TENGGARA,Jumlah AK,2026,Februari ,1457225
+SULAWESI TENGGARA,% Bekerja / AK,2026,Februari ,96.75
+GORONTALO,Bekerja,2026,Februari ,649006
+GORONTALO,Jumlah Pengangguran,2026,Februari ,21236
+GORONTALO,Jumlah AK,2026,Februari ,670242
+GORONTALO,% Bekerja / AK,2026,Februari ,96.83
+SULAWESI BARAT,Bekerja,2026,Februari ,801226
+SULAWESI BARAT,Jumlah Pengangguran,2026,Februari ,24202
+SULAWESI BARAT,Jumlah AK,2026,Februari ,825428
+SULAWESI BARAT,% Bekerja / AK,2026,Februari ,97.07
+MALUKU,Bekerja,2026,Februari ,950552
+MALUKU,Jumlah Pengangguran,2026,Februari ,58558
+MALUKU,Jumlah AK,2026,Februari ,1009110
+MALUKU,% Bekerja / AK,2026,Februari ,94.2
+MALUKU UTARA,Bekerja,2026,Februari ,666813
+MALUKU UTARA,Jumlah Pengangguran,2026,Februari ,31092
+MALUKU UTARA,Jumlah AK,2026,Februari ,697905
+MALUKU UTARA,% Bekerja / AK,2026,Februari ,95.54
+PAPUA BARAT,Bekerja,2026,Februari ,299187
+PAPUA BARAT,Jumlah Pengangguran,2026,Februari ,12800
+PAPUA BARAT,Jumlah AK,2026,Februari ,311987
+PAPUA BARAT,% Bekerja / AK,2026,Februari ,95.9
+PAPUA BARAT DAYA,Bekerja,2026,Februari ,307627
+PAPUA BARAT DAYA,Jumlah Pengangguran,2026,Februari ,21067
+PAPUA BARAT DAYA,Jumlah AK,2026,Februari ,328694
+PAPUA BARAT DAYA,% Bekerja / AK,2026,Februari ,93.59
+PAPUA,Bekerja,2026,Februari ,451356
+PAPUA,Jumlah Pengangguran,2026,Februari ,34078
+PAPUA,Jumlah AK,2026,Februari ,485434
+PAPUA,% Bekerja / AK,2026,Februari ,92.98
+PAPUA SELATAN,Bekerja,2026,Februari ,210435
+PAPUA SELATAN,Jumlah Pengangguran,2026,Februari ,116682
+PAPUA SELATAN,Jumlah AK,2026,Februari ,222103
+PAPUA SELATAN,% Bekerja / AK,2026,Februari ,94.75
+PAPUA TENGAH,Bekerja,2026,Februari ,878217
+PAPUA TENGAH,Jumlah Pengangguran,2026,Februari ,34990
+PAPUA TENGAH,Jumlah AK,2026,Februari ,913207
+PAPUA TENGAH,% Bekerja / AK,2026,Februari ,96.17
+PAPUA PEGUNUNGAN,Bekerja,2026,Februari ,986653
+PAPUA PEGUNUNGAN,Jumlah Pengangguran,2026,Februari ,17096
+PAPUA PEGUNUNGAN,Jumlah AK,2026,Februari ,1003749
+PAPUA PEGUNUNGAN,% Bekerja / AK,2026,Februari ,98.3
+INDONESIA,Bekerja,2026,Februari ,147667630
+INDONESIA,Jumlah Pengangguran,2026,Februari ,7243605
+INDONESIA,Jumlah AK,2026,Februari ,154911235
+INDONESIA,% Bekerja / AK,2026,Februari ,95.32
