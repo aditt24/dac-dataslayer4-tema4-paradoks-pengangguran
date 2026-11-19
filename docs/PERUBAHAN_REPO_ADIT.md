@@ -21,7 +21,7 @@ Disusun 19 Nov 2026. Dasar: guidebook DAC, rekap FAQ 1–39, dan uji ulang data.
 ## C. Data yang ditambah
 | File baru | Isi | Status |
 |---|---|---|
-| `Raw_Dataset/bps_web_terbaru/K01_tpt_kabkota_2017_2025.csv` | TPT 514 kab/kota 2017–2025 (tabel `MjgyNCMy` atau tabel total kab/kota) | Belum diambil. Cek apakah ada kolom total |
+| `Processed_Dataset/v6/kabkota_tpt_2017_2025.csv` + `kabkota_jejak_2017_2025.csv` (skrip `scripts/olah_kabkota_nasional.py`) | TPT 514 kab/kota 2017–2025 dari JSON WebAPI K01 yang sudah ada (var 2824, kolom Jumlah), kode BPS, TPT provinsi & nasional, persistensi | Sudah. 26 kab Papua dobel (kode lama 91/94) dibuang. 2018–2025 identik dengan BPS Jateng; 2017 beda ±0,1 (revisi) dan **Kota Pekalongan 2017 = 10,44 vs 5,05 di BPS Jateng** (anomali, perlu dicek). Lombok Utara 2018 kosong |
 | `Raw_Dataset/bps_jateng/J01_tpt_kabkota.csv` (diperluas) | TPT 35 kab Jateng 2007–2025 (tanpa 2016), format sama dengan J01 lama | Sudah. Nilai 2025 identik dengan J01 lama |
 | Batas wilayah dari sig.bps.go.id (jika bisa diunduh) | Untuk peta & tetangga | Belum dicek |
 | Lat/long kab/kota | Hanya visual peta (FAQ 12) | Belum ditentukan sumbernya |
