@@ -1,0 +1,103 @@
+sektor,jenjang_bps,persen,jenjang,urut_jenjang
+"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",Akademi/Diploma,8.1,Diploma,5
+Industri Pengolahan,Akademi/Diploma,10.7,Diploma,5
+Informasi dan Komunikasi,Akademi/Diploma,1.7,Diploma,5
+Jasa Kesehatan dan Kegiatan Sosial,Akademi/Diploma,22.6,Diploma,5
+Jasa Keuangan dan Asuransi,Akademi/Diploma,2.9,Diploma,5
+Jasa Lainnya,Akademi/Diploma,3.4,Diploma,5
+Jasa Pendidikan,Akademi/Diploma,6.2,Diploma,5
+Jasa Perusahaan,Akademi/Diploma,3.5,Diploma,5
+Konstruksi,Akademi/Diploma,2.6,Diploma,5
+"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",Akademi/Diploma,0.2,Diploma,5
+Pengadaan Listrik dan Gas,Akademi/Diploma,0.7,Diploma,5
+Penyediaan Akomodasi dan Makan Minum,Akademi/Diploma,7.5,Diploma,5
+"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",Akademi/Diploma,17.2,Diploma,5
+Pertambangan dan Penggalian,Akademi/Diploma,0.8,Diploma,5
+"Pertanian, Kehutanan, dan Perikanan",Akademi/Diploma,6.1,Diploma,5
+Real Estat,Akademi/Diploma,0.7,Diploma,5
+Transportasi dan Pergudangan,Akademi/Diploma,5.2,Diploma,5
+"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",SD,0.4,SD,1
+Industri Pengolahan,SD,12.5,SD,1
+Informasi dan Komunikasi,SD,0.1,SD,1
+Jasa Kesehatan dan Kegiatan Sosial,SD,0.3,SD,1
+Jasa Keuangan dan Asuransi,SD,0.1,SD,1
+Jasa Lainnya,SD,4.7,SD,1
+Jasa Pendidikan,SD,0.4,SD,1
+Jasa Perusahaan,SD,0.5,SD,1
+Konstruksi,SD,8.8,SD,1
+"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",SD,0.4,SD,1
+Pengadaan Listrik dan Gas,SD,0.1,SD,1
+Penyediaan Akomodasi dan Makan Minum,SD,7.2,SD,1
+"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",SD,15.2,SD,1
+Pertambangan dan Penggalian,SD,1.2,SD,1
+"Pertanian, Kehutanan, dan Perikanan",SD,44.8,SD,1
+Real Estat,SD,0.2,SD,1
+Transportasi dan Pergudangan,SD,3.0,SD,1
+"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",SLTA Kejuruan/SMK,3.1,SMK,4
+Industri Pengolahan,SLTA Kejuruan/SMK,22.3,SMK,4
+Informasi dan Komunikasi,SLTA Kejuruan/SMK,1.2,SMK,4
+Jasa Kesehatan dan Kegiatan Sosial,SLTA Kejuruan/SMK,1.1,SMK,4
+Jasa Keuangan dan Asuransi,SLTA Kejuruan/SMK,1.5,SMK,4
+Jasa Lainnya,SLTA Kejuruan/SMK,4.5,SMK,4
+Jasa Pendidikan,SLTA Kejuruan/SMK,1.8,SMK,4
+Jasa Perusahaan,SLTA Kejuruan/SMK,2.9,SMK,4
+Konstruksi,SLTA Kejuruan/SMK,5.7,SMK,4
+"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",SLTA Kejuruan/SMK,0.4,SMK,4
+Pengadaan Listrik dan Gas,SLTA Kejuruan/SMK,0.5,SMK,4
+Penyediaan Akomodasi dan Makan Minum,SLTA Kejuruan/SMK,10.4,SMK,4
+"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",SLTA Kejuruan/SMK,25.7,SMK,4
+Pertambangan dan Penggalian,SLTA Kejuruan/SMK,1.0,SMK,4
+"Pertanian, Kehutanan, dan Perikanan",SLTA Kejuruan/SMK,10.6,SMK,4
+Real Estat,SLTA Kejuruan/SMK,0.4,SMK,4
+Transportasi dan Pergudangan,SLTA Kejuruan/SMK,6.7,SMK,4
+"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",SLTA Umum/SMU,5.4,SMA,3
+Industri Pengolahan,SLTA Umum/SMU,15.0,SMA,3
+Informasi dan Komunikasi,SLTA Umum/SMU,1.0,SMA,3
+Jasa Kesehatan dan Kegiatan Sosial,SLTA Umum/SMU,1.0,SMA,3
+Jasa Keuangan dan Asuransi,SLTA Umum/SMU,1.4,SMA,3
+Jasa Lainnya,SLTA Umum/SMU,4.8,SMA,3
+Jasa Pendidikan,SLTA Umum/SMU,3.4,SMA,3
+Jasa Perusahaan,SLTA Umum/SMU,2.4,SMA,3
+Konstruksi,SLTA Umum/SMU,5.4,SMA,3
+"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",SLTA Umum/SMU,0.3,SMA,3
+Pengadaan Listrik dan Gas,SLTA Umum/SMU,0.3,SMA,3
+Penyediaan Akomodasi dan Makan Minum,SLTA Umum/SMU,9.4,SMA,3
+"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",SLTA Umum/SMU,23.5,SMA,3
+Pertambangan dan Penggalian,SLTA Umum/SMU,1.5,SMA,3
+"Pertanian, Kehutanan, dan Perikanan",SLTA Umum/SMU,18.5,SMA,3
+Real Estat,SLTA Umum/SMU,0.5,SMA,3
+Transportasi dan Pergudangan,SLTA Umum/SMU,6.1,SMA,3
+"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",SLTP,0.6,SMP,2
+Industri Pengolahan,SLTP,16.0,SMP,2
+Informasi dan Komunikasi,SLTP,0.3,SMP,2
+Jasa Kesehatan dan Kegiatan Sosial,SLTP,0.4,SMP,2
+Jasa Keuangan dan Asuransi,SLTP,0.3,SMP,2
+Jasa Lainnya,SLTP,5.2,SMP,2
+Jasa Pendidikan,SLTP,0.8,SMP,2
+Jasa Perusahaan,SLTP,1.2,SMP,2
+Konstruksi,SLTP,9.8,SMP,2
+"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",SLTP,0.3,SMP,2
+Pengadaan Listrik dan Gas,SLTP,0.1,SMP,2
+Penyediaan Akomodasi dan Makan Minum,SLTP,9.8,SMP,2
+"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",SLTP,20.4,SMP,2
+Pertambangan dan Penggalian,SLTP,1.2,SMP,2
+"Pertanian, Kehutanan, dan Perikanan",SLTP,29.0,SMP,2
+Real Estat,SLTP,0.3,SMP,2
+Transportasi dan Pergudangan,SLTP,4.3,SMP,2
+"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",Universitas,14.2,Universitas,6
+Industri Pengolahan,Universitas,6.2,Universitas,6
+Informasi dan Komunikasi,Universitas,2.0,Universitas,6
+Jasa Kesehatan dan Kegiatan Sosial,Universitas,5.8,Universitas,6
+Jasa Keuangan dan Asuransi,Universitas,4.4,Universitas,6
+Jasa Lainnya,Universitas,2.7,Universitas,6
+Jasa Pendidikan,Universitas,34.1,Universitas,6
+Jasa Perusahaan,Universitas,3.6,Universitas,6
+Konstruksi,Universitas,2.1,Universitas,6
+"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",Universitas,0.2,Universitas,6
+Pengadaan Listrik dan Gas,Universitas,0.4,Universitas,6
+Penyediaan Akomodasi dan Makan Minum,Universitas,3.6,Universitas,6
+"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",Universitas,12.4,Universitas,6
+Pertambangan dan Penggalian,Universitas,0.7,Universitas,6
+"Pertanian, Kehutanan, dan Perikanan",Universitas,4.3,Universitas,6
+Real Estat,Universitas,0.6,Universitas,6
+Transportasi dan Pergudangan,Universitas,2.6,Universitas,6

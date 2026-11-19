@@ -1,0 +1,199 @@
+indikator,jenjang,tahun,nilai,urut_jenjang,indikator_label
+tpt,SD,2015,2.71,1,Pengangguran terbuka (TPT)
+tpt,SD,2016,2.95,1,Pengangguran terbuka (TPT)
+tpt,SD,2017,2.62,1,Pengangguran terbuka (TPT)
+tpt,SD,2018,2.4,1,Pengangguran terbuka (TPT)
+tpt,SD,2019,2.39,1,Pengangguran terbuka (TPT)
+tpt,SD,2020,3.61,1,Pengangguran terbuka (TPT)
+tpt,SD,2021,3.61,1,Pengangguran terbuka (TPT)
+tpt,SD,2022,3.59,1,Pengangguran terbuka (TPT)
+tpt,SD,2023,2.56,1,Pengangguran terbuka (TPT)
+tpt,SD,2024,2.32,1,Pengangguran terbuka (TPT)
+tpt,SD,2025,2.3,1,Pengangguran terbuka (TPT)
+tpt,SMP,2015,6.24,2,Pengangguran terbuka (TPT)
+tpt,SMP,2016,5.84,2,Pengangguran terbuka (TPT)
+tpt,SMP,2017,5.52,2,Pengangguran terbuka (TPT)
+tpt,SMP,2018,4.77,2,Pengangguran terbuka (TPT)
+tpt,SMP,2019,4.72,2,Pengangguran terbuka (TPT)
+tpt,SMP,2020,6.46,2,Pengangguran terbuka (TPT)
+tpt,SMP,2021,6.45,2,Pengangguran terbuka (TPT)
+tpt,SMP,2022,5.95,2,Pengangguran terbuka (TPT)
+tpt,SMP,2023,4.78,2,Pengangguran terbuka (TPT)
+tpt,SMP,2024,4.11,2,Pengangguran terbuka (TPT)
+tpt,SMP,2025,3.8,2,Pengangguran terbuka (TPT)
+tpt,SMA,2015,10.27,3,Pengangguran terbuka (TPT)
+tpt,SMA,2016,8.63,3,Pengangguran terbuka (TPT)
+tpt,SMA,2017,8.32,3,Pengangguran terbuka (TPT)
+tpt,SMA,2018,7.9,3,Pengangguran terbuka (TPT)
+tpt,SMA,2019,7.87,3,Pengangguran terbuka (TPT)
+tpt,SMA,2020,9.86,3,Pengangguran terbuka (TPT)
+tpt,SMA,2021,9.09,3,Pengangguran terbuka (TPT)
+tpt,SMA,2022,8.57,3,Pengangguran terbuka (TPT)
+tpt,SMA,2023,8.15,3,Pengangguran terbuka (TPT)
+tpt,SMA,2024,7.05,3,Pengangguran terbuka (TPT)
+tpt,SMA,2025,6.88,3,Pengangguran terbuka (TPT)
+tpt,SMK,2015,13.02,4,Pengangguran terbuka (TPT)
+tpt,SMK,2016,11.49,4,Pengangguran terbuka (TPT)
+tpt,SMK,2017,11.38,4,Pengangguran terbuka (TPT)
+tpt,SMK,2018,11.18,4,Pengangguran terbuka (TPT)
+tpt,SMK,2019,10.36,4,Pengangguran terbuka (TPT)
+tpt,SMK,2020,13.55,4,Pengangguran terbuka (TPT)
+tpt,SMK,2021,11.13,4,Pengangguran terbuka (TPT)
+tpt,SMK,2022,9.42,4,Pengangguran terbuka (TPT)
+tpt,SMK,2023,9.31,4,Pengangguran terbuka (TPT)
+tpt,SMK,2024,9.01,4,Pengangguran terbuka (TPT)
+tpt,SMK,2025,8.63,4,Pengangguran terbuka (TPT)
+tpt,Diploma,2015,7.22,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2016,5.03,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2017,6.86,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2018,6.0,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2019,5.95,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2020,8.08,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2021,5.87,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2022,4.59,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2023,4.79,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2024,4.83,5,Pengangguran terbuka (TPT)
+tpt,Diploma,2025,4.31,5,Pengangguran terbuka (TPT)
+tpt,Universitas,2015,5.98,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2016,4.54,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2017,5.25,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2018,5.88,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2019,5.64,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2020,7.35,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2021,5.98,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2022,4.8,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2023,5.18,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2024,5.25,6,Pengangguran terbuka (TPT)
+tpt,Universitas,2025,5.39,6,Pengangguran terbuka (TPT)
+informal_nonag,SD,2015,67.69,1,Informal non-pertanian
+informal_nonag,SD,2016,65.99,1,Informal non-pertanian
+informal_nonag,SD,2017,66.69,1,Informal non-pertanian
+informal_nonag,SD,2018,66.35,1,Informal non-pertanian
+informal_nonag,SD,2019,65.61,1,Informal non-pertanian
+informal_nonag,SD,2020,69.18,1,Informal non-pertanian
+informal_nonag,SD,2021,70.26,1,Informal non-pertanian
+informal_nonag,SD,2022,70.59,1,Informal non-pertanian
+informal_nonag,SD,2023,70.34,1,Informal non-pertanian
+informal_nonag,SD,2024,68.76,1,Informal non-pertanian
+informal_nonag,SD,2025,68.43,1,Informal non-pertanian
+informal_nonag,SMP,2015,52.95,2,Informal non-pertanian
+informal_nonag,SMP,2016,52.89,2,Informal non-pertanian
+informal_nonag,SMP,2017,52.64,2,Informal non-pertanian
+informal_nonag,SMP,2018,53.68,2,Informal non-pertanian
+informal_nonag,SMP,2019,53.49,2,Informal non-pertanian
+informal_nonag,SMP,2020,59.25,2,Informal non-pertanian
+informal_nonag,SMP,2021,59.82,2,Informal non-pertanian
+informal_nonag,SMP,2022,59.4,2,Informal non-pertanian
+informal_nonag,SMP,2023,60.51,2,Informal non-pertanian
+informal_nonag,SMP,2024,59.4,2,Informal non-pertanian
+informal_nonag,SMP,2025,60.1,2,Informal non-pertanian
+informal_nonag,SMA,2015,34.15,3,Informal non-pertanian
+informal_nonag,SMA,2016,36.09,3,Informal non-pertanian
+informal_nonag,SMA,2017,36.99,3,Informal non-pertanian
+informal_nonag,SMA,2018,37.68,3,Informal non-pertanian
+informal_nonag,SMA,2019,38.26,3,Informal non-pertanian
+informal_nonag,SMA,2020,45.15,3,Informal non-pertanian
+informal_nonag,SMA,2021,44.76,3,Informal non-pertanian
+informal_nonag,SMA,2022,42.03,3,Informal non-pertanian
+informal_nonag,SMA,2023,43.14,3,Informal non-pertanian
+informal_nonag,SMA,2024,43.04,3,Informal non-pertanian
+informal_nonag,SMA,2025,43.75,3,Informal non-pertanian
+informal_nonag,SMK,2015,26.85,4,Informal non-pertanian
+informal_nonag,SMK,2016,30.38,4,Informal non-pertanian
+informal_nonag,SMK,2017,29.1,4,Informal non-pertanian
+informal_nonag,SMK,2018,31.17,4,Informal non-pertanian
+informal_nonag,SMK,2019,30.45,4,Informal non-pertanian
+informal_nonag,SMK,2020,34.7,4,Informal non-pertanian
+informal_nonag,SMK,2021,35.24,4,Informal non-pertanian
+informal_nonag,SMK,2022,33.47,4,Informal non-pertanian
+informal_nonag,SMK,2023,34.54,4,Informal non-pertanian
+informal_nonag,SMK,2024,33.78,4,Informal non-pertanian
+informal_nonag,SMK,2025,35.84,4,Informal non-pertanian
+informal_nonag,Diploma,2015,14.82,5,Informal non-pertanian
+informal_nonag,Diploma,2016,18.34,5,Informal non-pertanian
+informal_nonag,Diploma,2017,17.67,5,Informal non-pertanian
+informal_nonag,Diploma,2018,18.83,5,Informal non-pertanian
+informal_nonag,Diploma,2019,19.26,5,Informal non-pertanian
+informal_nonag,Diploma,2020,23.71,5,Informal non-pertanian
+informal_nonag,Diploma,2021,23.71,5,Informal non-pertanian
+informal_nonag,Diploma,2022,22.75,5,Informal non-pertanian
+informal_nonag,Diploma,2023,24.74,5,Informal non-pertanian
+informal_nonag,Diploma,2024,23.47,5,Informal non-pertanian
+informal_nonag,Diploma,2025,25.63,5,Informal non-pertanian
+informal_nonag,Universitas,2015,8.19,6,Informal non-pertanian
+informal_nonag,Universitas,2016,9.99,6,Informal non-pertanian
+informal_nonag,Universitas,2017,10.48,6,Informal non-pertanian
+informal_nonag,Universitas,2018,11.48,6,Informal non-pertanian
+informal_nonag,Universitas,2019,11.63,6,Informal non-pertanian
+informal_nonag,Universitas,2020,16.16,6,Informal non-pertanian
+informal_nonag,Universitas,2021,14.57,6,Informal non-pertanian
+informal_nonag,Universitas,2022,14.35,6,Informal non-pertanian
+informal_nonag,Universitas,2023,14.94,6,Informal non-pertanian
+informal_nonag,Universitas,2024,14.96,6,Informal non-pertanian
+informal_nonag,Universitas,2025,16.63,6,Informal non-pertanian
+setengah_peng,SD,2015,9.91,1,Setengah pengangguran
+setengah_peng,SD,2016,8.24,1,Setengah pengangguran
+setengah_peng,SD,2017,8.37,1,Setengah pengangguran
+setengah_peng,SD,2018,7.38,1,Setengah pengangguran
+setengah_peng,SD,2019,7.18,1,Setengah pengangguran
+setengah_peng,SD,2020,10.15,1,Setengah pengangguran
+setengah_peng,SD,2021,8.72,1,Setengah pengangguran
+setengah_peng,SD,2022,6.44,1,Setengah pengangguran
+setengah_peng,SD,2023,7.07,1,Setengah pengangguran
+setengah_peng,SD,2024,8.67,1,Setengah pengangguran
+setengah_peng,SD,2025,8.81,1,Setengah pengangguran
+setengah_peng,SMP,2015,8.83,2,Setengah pengangguran
+setengah_peng,SMP,2016,7.87,2,Setengah pengangguran
+setengah_peng,SMP,2017,8.41,2,Setengah pengangguran
+setengah_peng,SMP,2018,7.11,2,Setengah pengangguran
+setengah_peng,SMP,2019,7.04,2,Setengah pengangguran
+setengah_peng,SMP,2020,10.92,2,Setengah pengangguran
+setengah_peng,SMP,2021,9.18,2,Setengah pengangguran
+setengah_peng,SMP,2022,6.68,2,Setengah pengangguran
+setengah_peng,SMP,2023,7.04,2,Setengah pengangguran
+setengah_peng,SMP,2024,8.55,2,Setengah pengangguran
+setengah_peng,SMP,2025,8.58,2,Setengah pengangguran
+setengah_peng,SMA,2015,7.47,3,Setengah pengangguran
+setengah_peng,SMA,2016,6.79,3,Setengah pengangguran
+setengah_peng,SMA,2017,7.6,3,Setengah pengangguran
+setengah_peng,SMA,2018,6.72,3,Setengah pengangguran
+setengah_peng,SMA,2019,6.36,3,Setengah pengangguran
+setengah_peng,SMA,2020,11.03,3,Setengah pengangguran
+setengah_peng,SMA,2021,9.55,3,Setengah pengangguran
+setengah_peng,SMA,2022,7.02,3,Setengah pengangguran
+setengah_peng,SMA,2023,7.3,3,Setengah pengangguran
+setengah_peng,SMA,2024,8.61,3,Setengah pengangguran
+setengah_peng,SMA,2025,8.34,3,Setengah pengangguran
+setengah_peng,SMK,2015,5.61,4,Setengah pengangguran
+setengah_peng,SMK,2016,6.03,4,Setengah pengangguran
+setengah_peng,SMK,2017,5.82,4,Setengah pengangguran
+setengah_peng,SMK,2018,5.89,4,Setengah pengangguran
+setengah_peng,SMK,2019,5.4,4,Setengah pengangguran
+setengah_peng,SMK,2020,10.38,4,Setengah pengangguran
+setengah_peng,SMK,2021,8.59,4,Setengah pengangguran
+setengah_peng,SMK,2022,6.22,4,Setengah pengangguran
+setengah_peng,SMK,2023,6.39,4,Setengah pengangguran
+setengah_peng,SMK,2024,7.49,4,Setengah pengangguran
+setengah_peng,SMK,2025,6.81,4,Setengah pengangguran
+setengah_peng,Diploma,2015,5.55,5,Setengah pengangguran
+setengah_peng,Diploma,2016,5.07,5,Setengah pengangguran
+setengah_peng,Diploma,2017,4.75,5,Setengah pengangguran
+setengah_peng,Diploma,2018,3.78,5,Setengah pengangguran
+setengah_peng,Diploma,2019,3.73,5,Setengah pengangguran
+setengah_peng,Diploma,2020,6.85,5,Setengah pengangguran
+setengah_peng,Diploma,2021,6.33,5,Setengah pengangguran
+setengah_peng,Diploma,2022,3.93,5,Setengah pengangguran
+setengah_peng,Diploma,2023,3.81,5,Setengah pengangguran
+setengah_peng,Diploma,2024,4.01,5,Setengah pengangguran
+setengah_peng,Diploma,2025,4.58,5,Setengah pengangguran
+setengah_peng,Universitas,2015,5.42,6,Setengah pengangguran
+setengah_peng,Universitas,2016,5.26,6,Setengah pengangguran
+setengah_peng,Universitas,2017,4.81,6,Setengah pengangguran
+setengah_peng,Universitas,2018,3.79,6,Setengah pengangguran
+setengah_peng,Universitas,2019,4.23,6,Setengah pengangguran
+setengah_peng,Universitas,2020,8.06,6,Setengah pengangguran
+setengah_peng,Universitas,2021,7.07,6,Setengah pengangguran
+setengah_peng,Universitas,2022,4.47,6,Setengah pengangguran
+setengah_peng,Universitas,2023,4.45,6,Setengah pengangguran
+setengah_peng,Universitas,2024,5.03,6,Setengah pengangguran
+setengah_peng,Universitas,2025,5.29,6,Setengah pengangguran

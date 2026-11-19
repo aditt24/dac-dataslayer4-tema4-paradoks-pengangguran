@@ -44,12 +44,15 @@ kab["nama_prov"] = kab.kode_prov.map(prov)
 kab["is_kota"] = kab.kode.str[2] == "7"  # kode BPS xx71-xx79 = kota
 pv = d[d.is_prov].set_index(["kode_prov", "tahun"]).tpt.rename("tpt_prov")
 kab = kab.join(pv, on=["kode_prov", "tahun"]).join(nas, on="tahun")
-kab = kab[["kode", "nama", "kode_prov", "nama_prov", "is_kota", "tahun", "tpt", "tpt_l", "tpt_p", "tpt_prov", "tpt_nasional"]]
+# Kota Pekalongan 2017: tabel nasional 10,44 vs BPS Jateng (NjQjMg==) 5,05; tahun lain kedua sumber identik -> dianggap salah ketik, dikosongkan
+kab["anomali"] = (kab.kode == "3375") & (kab.tahun == 2017)
+kab.loc[kab.anomali, ["tpt", "tpt_l", "tpt_p"]] = float("nan")
+kab = kab[["kode", "nama", "kode_prov", "nama_prov", "is_kota", "tahun", "tpt", "tpt_l", "tpt_p", "tpt_prov", "tpt_nasional", "anomali"]]
 kab.sort_values(["kode", "tahun"]).to_csv(os.path.join(OUT, "kabkota_tpt_2017_2025.csv"), index=False)
 
 g = kab.assign(atas_prov=kab.tpt > kab.tpt_prov, atas_nas=kab.tpt > kab.tpt_nasional).groupby(
     ["kode", "nama", "kode_prov", "nama_prov", "is_kota"])
-agg = g.agg(n_tahun=("tahun", "nunique"), tahun_atas_prov=("atas_prov", "sum"),
+agg = g.agg(n_tahun=("tpt", "count"), tahun_atas_prov=("atas_prov", "sum"),
             tahun_atas_nasional=("atas_nas", "sum"), rata_tpt=("tpt", "mean"), rata_prov=("tpt_prov", "mean")).reset_index()
 agg["rata_selisih_prov"] = (agg.rata_tpt - agg.rata_prov).round(2)
 agg["rata_tpt"] = agg.rata_tpt.round(2)
