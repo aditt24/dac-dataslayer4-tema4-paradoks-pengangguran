@@ -245,7 +245,9 @@ Tidak ada angka target karangan. Pembanding provinsi hanya untuk konteks (§4.1)
 | Bobot indeks subjektif | Monte Carlo + slider | ✅ |
 | Kuadran sensitif definisi | Provinsi dekat batas ditandai; bukan headline tunggal | ⚠️ |
 | Pengaruh Papua | Semua uji diulang tanpa Papua | ✅ |
-| Pemekaran Papua 2022 | Pembanding 2018 → 2025 hanya 32 provinsi; kab/kota Papua baru pakai TPT provinsi induk sebelum 2024 (ditandai) | ✅ |
+| Pemekaran Papua 2022 (Papua → Papua, Papua Tengah, Papua Pegunungan, Papua Selatan; Papua Barat → Papua Barat, Papua Barat Daya) | **Provinsi:** analisis 2025 memakai 38 provinsi apa adanya; analisis 2018 → 2025 (pembanding, transisi, panel) hanya 32 provinsi, karena Papua & Papua Barat 2025 wilayahnya lebih kecil daripada 2018 dan 4 provinsi baru belum ada di 2018. **Kab/kota:** wilayahnya tidak berubah, jadi seri 2017–2025 utuh; BPS mencantumkan 26 kab ganda (kode lama 91/94 dan kode baru), nilainya terbukti identik (234 pasangan, 0 beda) → kode baru dipakai. TPT provinsi acuan sebelum 2024 = provinsi induk (ditandai `tpt_prov_induk`) | ✅ |
+| Kalimantan Utara (dimekarkan dari Kaltim 2012) | Data Sakernas Kaltara tersedia di semua tahun yang dipakai (2018–2025), tidak kosong. Hanya urbanisasi yang belum dipisah di proyeksi SP2010 → pakai nilai Kaltim [ESTIMASI], diuji ulang tanpa provinsi ini | ✅ / ⚠️ |
+| Sel kosong di tabel BPS | Diperiksa semua: provinsi 2025 dan panel 2018–2025 tidak ada yang kosong. Kab/kota hanya 2 sel kosong: Kota Pekalongan 2017 (dikosongkan karena anomali) dan Lombok Utara 2018 (tidak dirilis BPS). Tidak ada kab/kota baru sejak 2013, jadi tidak ada kekosongan karena wilayah belum terbentuk di 2017–2025. Sel kosong ditampilkan "Tidak ada data", tidak diisi/diinterpolasi | ✅ |
 | Pembanding = regresi ke rata-rata | Diuji; diturunkan jadi alat banding deskriptif | ✅ |
 | "Persisten tinggi" = efek kota | Ditambah pembanding median sejenis | ✅ |
 | Galat sampling kab/kota | Pakai persistensi 9 tahun, bukan ranking satu tahun | ✅ |
