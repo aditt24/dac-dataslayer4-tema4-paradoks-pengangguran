@@ -21,12 +21,12 @@
 
 ### Perubahan v5 → v6 (ringkas)
 1. Skala nasional penuh. Langkah Jawa Tengah diganti "pilih provinsi → kab/kota" untuk semua provinsi.
-2. Dari dashboard dibuang: proyeksi 2026–2030, panel fixed effects, loading PCA, LISA/peta poligon. Semua pindah ke paper.
+2. Dari dashboard dibuang: proyeksi 2026–2030, panel fixed effects, loading PCA. Semua pindah ke paper.
 3. Klaim "TPT dan kerja tidak layak berkebalikan" diturunkan menjadi "TPT **tidak mencerminkan** kerja layak" (ρ = −0,30; p = 0,066).
 4. Fitur "Kembaran Provinsi + target" diganti **Provinsi Pembanding** tanpa target (gagal uji tandingan, lihat §4).
 5. Klaim forecast kab/kota diuji ulang pada **514 kab/kota**, bukan hanya 35 kab/kota Jateng.
 6. Kab/kota "persisten tinggi" kini juga dibandingkan dengan **sesama kota / sesama kabupaten**, supaya tidak sekadar efek kota.
-7. Data batas wilayah non-BPS (`Spatial/`, `Raw_Dataset/spasial_non_bps/`) **disimpan di repo** sambil menunggu jawaban panitia, tetapi tidak dipakai di dashboard dan tidak masuk ZIP kecuali diizinkan.
+7. **Geometri batas wilayah geoBoundaries DIIZINKAN panitia** untuk peta dan analisis spasial, asalkan semua angka statistik dari BPS (jawaban panitia 20 Nov 2026, lihat `docs/JAWABAN_PANITIA_PETA.md`). Peta poligon kab/kota dan LISA boleh dipakai lagi.
 
 ---
 
@@ -59,7 +59,7 @@
 **Klaim yang gugur atau turun status:**
 - "Provinsi terdidik lebih formal" → [GUGUR] (didorong Papua; hilang setelah kontrol urbanisasi).
 - "Kembaran provinsi memberi target realistis" → [GUGUR] (lihat §4.1).
-- Proyeksi TPT SMK 2030, panel RLS → NEET (FE p = 0,02 tetapi first-difference ns; sebagian mekanis karena NEET = tidak sekolah), LISA Jateng → [PAPER].
+- Proyeksi TPT SMK 2030, panel RLS → NEET (FE p = 0,02 tetapi first-difference ns; sebagian mekanis karena NEET = tidak sekolah), LISA → opsional (diizinkan panitia; perlu dihitung ulang secara nasional sebelum jadi headline).
 
 ---
 
@@ -136,7 +136,7 @@ Provinsi yang awalnya tinggi cenderung turun dengan sendirinya (regresi ke rata-
 ### 4.3 Metode yang sengaja tidak dipakai
 - Forecast provinsi / deep learning: seri tahunan pendek + guncangan COVID.
 - ML untuk penjelasan (XGBoost, SHAP): 38 baris, mudah overfit.
-- Analisis spasial (LISA, SAR): butuh batas wilayah; sumber BPS yang bisa diunduh belum ada (menunggu panitia).
+- Model spasial lanjutan (SAR, GWR): jumlah wilayah per provinsi terlalu sedikit. Moran's I/LISA boleh (geometri diizinkan panitia).
 - Kausal: tidak ada pembanding valid.
 
 ---
@@ -221,7 +221,7 @@ Tidak ada angka target karangan. Pembanding provinsi hanya untuk konteks (§4.1)
 1. **Peta Berbalik**: tile map 38 provinsi, tombol TPT ↔ kerja tidak layak, mode cerita (Dynamic Zone Visibility, tetap 1 halaman).
 2. **Kamu Jadi Penimbang**: 4 slider bobot → ranking dinamis; pita p05–p95 dan "prioritas stabil" dari Monte Carlo ditampilkan terpisah (tidak berubah oleh slider).
 3. **Provinsi Pembanding**: klik provinsi → 3 provinsi berkondisi awal mirip + perubahan 2018 → 2025 berdampingan. Tanpa target.
-4. **Jejak Kab/Kota**: pilih provinsi → heatmap kab/kota × 2017–2025; default = 66 kab/kota persisten ganda.
+4. **Jejak Kab/Kota**: pilih provinsi → peta poligon kab/kota (warna = status persisten) + heatmap kab/kota × 2017–2025; default = 66 kab/kota persisten ganda.
 
 **Dilarang:** Smart Narrative, Q&A, Key Influencers, drillthrough (FAQ 9, 36).
 
@@ -231,7 +231,7 @@ Tidak ada angka target karangan. Pembanding provinsi hanya untuk konteks (§4.1)
 **Nasional (`Raw_Dataset/bps_webapi/`):** D01 TPT × pendidikan · D02/D02b informal × pendidikan · D03/D03b setengah pengangguran · D05 TPT provinsi · D07/D08/D10 informal/formal provinsi · D11 upah · D14 sektor × pendidikan · D15/D16 NEET · D18 RLS · D25 kemiskinan (Maret) · **K01 TPT kab/kota 2017–2025 (var 2824)**.
 **BPS Jawa Tengah (`Raw_Dataset/bps_jateng/`):** J01 TPT kab/kota 2007–2025 (cek silang K01), J02–J10 → [PAPER].
 **Statis BPS:** urbanisasi provinsi (proyeksi SP2010; 2018 = interpolasi [ESTIMASI]).
-**Non-BPS (disimpan, belum dipakai):** `Raw_Dataset/spasial_non_bps/`, `Spatial/`, `Processed_Dataset/v5/F_jateng_matriks_ketetanggaan.csv`. Menunggu jawaban panitia; jika dilarang, dikeluarkan dari ZIP.
+**Geometri non-BPS (diizinkan panitia, hanya bentuk wilayah tanpa angka):** `Raw_Dataset/spasial_non_bps/` (asli geoBoundaries, CC BY 3.0 IGO), `Spatial/IDN_kabkota_kode_bps.geojson` (514 kab/kota + kode BPS, dari `scripts/siapkan_geom.py`), `Processed_Dataset/v5/F_jateng_matriks_ketetanggaan.csv`. Boleh masuk ZIP dengan keterangan sumber.
 
 **Output untuk dashboard (`Processed_Dataset/tableau/`):** t1 jenjang tren · t2 jenjang × sektor · t3 provinsi 2025 · t4 pembanding + uji · t5 kab/kota tren + jejak · t6 transisi · t7 uji forecast kab/kota.
 
@@ -284,7 +284,8 @@ Tidak ada angka target karangan. Pembanding provinsi hanya untuk konteks (§4.1)
 - [ ] Link publik dashboard di PDF (FAQ 37)
 - [ ] ZIP ≤100 MB: PDF, workbook, Raw_Dataset (BPS saja kecuali diizinkan), Processed_Dataset, surat orisinalitas bermeterai
 - [ ] Nama tim ≤20 karakter
-- [ ] Jawaban panitia soal poligon non-BPS
+- [x] Jawaban panitia soal poligon non-BPS: boleh (`docs/JAWABAN_PANITIA_PETA.md`)
+- [ ] Caption sumber geometri di setiap peta
 - [ ] Buat ulang key WebAPI setelah lomba
 
 ---

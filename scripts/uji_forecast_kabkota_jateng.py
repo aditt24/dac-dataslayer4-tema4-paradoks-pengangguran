@@ -1,7 +1,7 @@
 # Uji mundur forecast TPT kab/kota Jateng (naif vs linear vs GB, dengan/tanpa tetangga).
 # Pakai: python scripts/uji_forecast_kabkota_jateng.py Raw_Dataset/bps_jateng/J01_tpt_kabkota.csv Processed_Dataset/v5/F_jateng_matriks_ketetanggaan.csv
 # Output: Processed_Dataset/v6/uji_forecast_kabkota_jateng.csv
-# Catatan: matriks tetangga diturunkan dari geoBoundaries (non-BPS) -> hasil ini hanya untuk paper, menunggu jawaban panitia.
+# Catatan: matriks tetangga diturunkan dari geoBoundaries (geometri non-BPS, diizinkan panitia 20 Nov 2026).
 # Uji tanpa tetangga untuk 514 kab/kota ada di scripts/uji_forecast_kabkota_nasional.py
 import pandas as pd, numpy as np, sys
 from sklearn.linear_model import LinearRegression

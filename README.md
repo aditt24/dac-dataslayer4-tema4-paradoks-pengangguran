@@ -25,13 +25,13 @@
 │   ├── bps_web_terbaru/             # Snapshot tabel BPS tahun terbaru
 │   ├── bps_jateng/                  # Tabel BPS Provinsi Jawa Tengah (cek silang & paper)
 │   ├── bps_static/                  # Tabel statis BPS (urbanisasi)
-│   └── spasial_non_bps/             # geoBoundaries (NON-BPS; disimpan, menunggu jawaban panitia)
+│   └── spasial_non_bps/             # geoBoundaries asli (geometri saja; diizinkan panitia)
 ├── Processed_Dataset/
 │   ├── tableau/                     # Paket data dashboard (t1–t7)
 │   ├── v6/                          # Kab/kota nasional, provinsi pembanding, uji forecast
 │   ├── v5/                          # Analisis jenjang & provinsi (PCA, kuadran, Monte Carlo)
 │   └── v4/, preliminary/            # Versi sebelumnya (jejak audit)
-├── Spatial/                         # SHP/GeoJSON turunan geoBoundaries (NON-BPS; tidak dipakai di dashboard)
+├── Spatial/                         # GeoJSON/SHP kab/kota; IDN_kabkota_kode_bps.geojson = siap join ke kode BPS
 └── scripts/                         # Seluruh skrip pengambilan & analisis data
 ```
 
@@ -45,6 +45,7 @@
 | `t5_kabkota_tren.csv`, `t5_kabkota_jejak.csv` | TPT 514 kab/kota 2017–2025 dan persistensinya |
 | `t6_transisi_2018_2025.csv` | Perpindahan kuadran 2018 → 2025 |
 | `t7_uji_forecast_kabkota.csv` | Uji mundur forecast kab/kota (kartu metode) |
+| `t8_geom_kabkota_kode.csv` + `Spatial/IDN_kabkota_kode_bps.geojson` | Poligon 514 kab/kota dengan kode BPS (join pakai `kode`) |
 
 Spesifikasi visual: [`docs/SPEK_DASHBOARD_TABLEAU.md`](docs/SPEK_DASHBOARD_TABLEAU.md).
 
@@ -60,12 +61,13 @@ python scripts/olah_kabkota_nasional.py
 python scripts/analisis_pembanding_v6.py
 python scripts/uji_forecast_kabkota_nasional.py
 python scripts/siapkan_tableau.py
+python scripts/siapkan_geom.py
 ```
 Key WebAPI **tidak disimpan** di repositori. Isi lewat environment variable.
 
 ## Sumber data & lisensi
 - **Badan Pusat Statistik (BPS)**: bps.go.id dan jateng.bps.go.id (Sakernas, Susenas, proyeksi penduduk). Semua angka statistik berasal dari BPS. Tautan tabel ada di konsep §9.
-- **Batas wilayah kab/kota**: [geoBoundaries](https://www.geoboundaries.org/) IDN ADM2 (2020). Sumber asli: BPS, WFP, dan OCHA ROAP via HDX. Lisensi **CC BY 3.0 IGO**. Tidak dipakai di dashboard v6; disimpan sampai panitia menjawab apakah poligon non-BPS boleh dipakai (FAQ 3, 12).
+- **Batas wilayah kab/kota**: [geoBoundaries](https://www.geoboundaries.org/) IDN ADM2 (2020). Sumber asli: BPS, WFP, dan OCHA ROAP via HDX. Lisensi **CC BY 3.0 IGO**. **Diizinkan panitia (20 Nov 2026)** untuk visual peta dan analisis spasial, karena hanya berisi geometri; seluruh angka statistik tetap dari BPS. Detail: [`docs/JAWABAN_PANITIA_PETA.md`](docs/JAWABAN_PANITIA_PETA.md).
 - Literatur: lihat daftar referensi di konsep (DOI terverifikasi).
 
 ## Catatan metodologi

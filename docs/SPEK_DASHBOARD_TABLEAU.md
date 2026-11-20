@@ -19,10 +19,12 @@ Semua visual dibuat tim di Tableau (FAQ 9). Dokumen ini hanya daftar data, formu
 | `t5_kabkota_jejak.csv` | 514 kab/kota | Daftar persisten, KPI |
 | `t6_transisi_2018_2025.csv` | 32 provinsi | Panah kuadran 2018 → 2025 (opsional) |
 | `t7_uji_forecast_kabkota.csv` | tahun target 2021–2025 + RATA2 | Kartu metode sheet I |
+| `Spatial/IDN_kabkota_kode_bps.geojson` (+ `t8_geom_kabkota_kode.csv`) | 514 poligon kab/kota + `kode` BPS | Peta kab/kota di sheet I (geometri diizinkan panitia) |
 
 Relasi (Data Source → Relationships):
 - `t3.wilayah` = `t4_pembanding.provinsi`
 - `t3.wilayah` = `t5_kabkota_jejak.nama_prov` dan `t5_kabkota_tren.nama_prov`
+- GeoJSON `kode` = `t5_kabkota_jejak.kode` (join pakai kode, bukan nama)
 
 Catatan data yang wajib ditulis di dashboard:
 - `t1` jenjang "SD" = tamat SD ke bawah.
@@ -181,6 +183,11 @@ Kartu metode di I (dari `t7_uji_forecast_kabkota.csv`, baris RATA2):
 Mode cerita (bookmark pengganti di Tableau = **Dynamic Zone Visibility**): buat field boolean per langkah (`[Langkah Cerita] = 1`, dst.) untuk menampilkan kotak teks sorotan di atas visual. Tetap 1 halaman (FAQ 36).
 
 ---
+
+### Peta poligon kab/kota (baru, diizinkan panitia 20 Nov)
+- Sheet I boleh ditambah peta kecil di atas heatmap: GeoJSON kab/kota, warna = `persisten_ganda` (atau `rata_tpt`), filter `[Tampil KabKota]`/provinsi terpilih, zoom otomatis ke provinsi.
+- Peta provinsi (sheet E) tetap tile map: semua provinsi terlihat sama besar, Papua tidak mendominasi.
+- Caption wajib: "Batas wilayah: geoBoundaries IDN ADM2 (CC BY 3.0 IGO), hanya geometri. Seluruh angka: BPS."
 
 ## 7. Status PDF default (yang dilihat juri di PDF)
 - `Pilih Provinsi` = `Indonesia` → sheet I menampilkan 66 kab/kota persisten ganda, narasi berisi ajakan klik.
