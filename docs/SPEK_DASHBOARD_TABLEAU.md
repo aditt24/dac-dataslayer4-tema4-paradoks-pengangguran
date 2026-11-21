@@ -98,7 +98,7 @@ Tambahkan **Parameter Action**: klik tile provinsi di peta mana pun → set `Pil
 
 ## 4. Palet warna (konsisten di semua visual)
 
-**Tema final: sky blue + cloudy white (±90%), aksen amber red (±10%).** Amber red hanya untuk hal yang mau ditekankan (SMK, informal, Rentan Ganda, prioritas stabil ★). Contoh visual: mockup HTML tim (`mockup/contoh/skyblue-amber_hal1.png`, `_hal2.png`).
+**Tema final: sky blue + cloudy white (±90%), aksen amber red (±10%).** Amber red hanya untuk hal yang mau ditekankan (SMK, informal, Rentan Ganda, prioritas stabil ★). Contoh visual: `docs/mockup/skyblue-amber_hal1.png` dan `docs/mockup/skyblue-amber_hal2.png`.
 
 | Makna | Warna |
 |---|---|
