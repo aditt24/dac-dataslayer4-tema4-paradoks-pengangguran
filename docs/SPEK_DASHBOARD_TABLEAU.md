@@ -98,17 +98,23 @@ Tambahkan **Parameter Action**: klik tile provinsi di peta mana pun → set `Pil
 
 ## 4. Palet warna (konsisten di semua visual)
 
+**Tema final: sky blue + cloudy white (±90%), aksen amber red (±10%).** Amber red hanya untuk hal yang mau ditekankan (SMK, informal, Rentan Ganda, prioritas stabil ★). Contoh visual: mockup HTML tim (`mockup/contoh/skyblue-amber_hal1.png`, `_hal2.png`).
+
 | Makna | Warna |
 |---|---|
-| Rentan Ganda | `#B2182B` |
-| Rentan Tersembunyi | `#EF8A62` |
-| Antrean Kerja Formal | `#67A9CF` |
-| Relatif Layak | `#1B7837` |
-| Ranking peta (sekuensial) | 1 = `#7F0000` → 38 = `#FEE8C8` |
+| Sidebar / sky utama, KPI 1 | `#3D93D1` |
+| Biru tua (KPI 3, tombol aktif, SMA) | `#1F6AA5` / `#2B7BB9` |
+| Background dashboard (cloudy white) | `#F5F8FB`; kartu `#FFFFFF`, garis `#E1EAF1` |
+| Aksen amber red (KPI SMK, SMK, informal) | `#E4572E`; latar sorotan `#FDEDE6` |
+| Rentan Ganda | `#E4572E` |
+| Rentan Tersembunyi | `#F6AE95` |
+| Antrean Kerja Formal | `#1F6AA5` |
+| Relatif Layak | `#9CCBEB` |
+| Ranking peta & heatmap (sekuensial) | 1 / nilai tinggi = `#164E7C` → 38 / rendah = `#EAF4FB` |
 | Terpilih / sorotan | garis tepi `#111111`, tebal 2 px |
-| Lain / konteks | `#D9D9D9` |
-| Di atas nasional / di bawah | `#C0392B` / `#E8E8E8` |
-| Teks utama / sekunder | `#1F1F1F` / `#6B6B6B` |
+| Lain / konteks | `#CBD9E4` |
+| `[Status Tahun]` di atas acuan / di bawah / tidak ada data | `#1F6AA5` / `#EAF4FB` / `#F2F2F2` |
+| Teks utama / sekunder | `#16324A` / `#5D7489` |
 
 Font ≥10 pt. Judul visual = **kalimat temuan**, bukan nama grafik. Tooltip selalu memuat sumber tabel BPS.
 
