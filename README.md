@@ -5,6 +5,7 @@
 > Angka pengangguran yang rendah bisa menyembunyikan pekerjaan yang tidak layak. Pasar kerja Indonesia punya dua wajah yang berbeda secara statistik, yaitu **"tidak bekerja"** dan **"bekerja tetapi tidak layak"**. Pendidikan menentukan wajah mana yang dialami seseorang, sedangkan struktur ekonomi wilayah menentukan seberapa besar kerja tidak layaknya.
 
 📄 **Konsep lengkap:** [`KONSEP_FINAL_DAC_TEMA4.md`](KONSEP_FINAL_DAC_TEMA4.md)
+📊 **Progres & tampilan dashboard terkini:** [`PROGRESS_TIM.md`](PROGRESS_TIM.md) · workbook [`DAC_Dashboard_Tema4_FINAL.twbx`](DAC_Dashboard_Tema4_FINAL.twbx)
 
 ---
 

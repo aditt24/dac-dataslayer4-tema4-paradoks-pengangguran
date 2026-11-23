@@ -6,3 +6,16 @@ __pycache__/
 .claude/
 Raw_Dataset/manual/
 Processed_Dataset/manual/
+
+# Workbook perantara/uji (disimpan lokal saja; yang di-repo: FINAL, BACKUP, desain_QA_v2)
+DAC_Dashboard_Tema4_FINAL_h2d.twbx
+DAC_Dashboard_Tema4_FINAL_h2e.twbx
+DAC_Dashboard_Tema4_FINAL_pre_v7.twbx
+DAC_Dashboard_Tema4_WORKING.twbx
+DAC_Dashboard_Tema4_new.twbx
+DAC_desain_QA.twbx
+DAC_desain_review.twbx
+DAC_desain_teruji.twbx
+DAC_revisi_verifikasi_23nov.twbx
+DAC_uji_bobot_nol.twbx
+DAC_verifikasi_B.twbx
