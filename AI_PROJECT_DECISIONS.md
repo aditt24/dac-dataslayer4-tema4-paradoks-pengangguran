@@ -11,3 +11,4 @@
 - 2026-11-23: Tidak ada tab/dynamic zone tersembunyi: semua isi penting harus terlihat di PDF.
 - 2026-11-23: Peta provinsi tetap tile map; peta geografis hanya di level kab/kota (hindari dua visual peta yang kembar).
 - 2026-11-23: Dumbbell TPT vs informal diganti grafik kupu-kupu dua skala (penyebut berbeda → tidak boleh satu sumbu).
+- 2026-11-23 (v8): Slope peringkat Hal 2 diganti kartu "Cek provinsimu" (peringkat, selisih dari median, tipe + usulan berlabel "tafsiran tim"). Kotak Kesimpulan paragraf diganti grafik "Langkah per tipe masalah" + angka 135. Kotak "Jadi" Hal 1 diganti 3 kartu angka; kartu "Alur halaman" dibuang. Georgia diganti font Tableau. Parameter "Fokus" (4 bobot pilihan tim + Atur sendiri) ditambahkan ke Priority Lab. Locale workbook = Indonesia (koma desimal). 3D tetap ditolak (lihat keputusan 22 Nov).

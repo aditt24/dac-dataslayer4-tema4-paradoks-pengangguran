@@ -3,6 +3,13 @@
 Last updated: 2026-11-23 ±11.00 WIB · Last updated by: Claude Code
 DEADLINE LOMBA: 23 Nov 2026 23.59 WIB (ZIP ≤100 MB + PDF GForm)
 
+## STATUS v8 (23 Nov ±16.05 WIB, Claude Code)
+- `DAC_Dashboard_Tema4_v8.twbx` jadi dan tersimpan dari Tableau (locale Indonesia, animasi 0,5 dtk). Build: `python scripts/redesign_tableau_v8.py <ekstrak FINAL.twbx>/DAC_Dashboard_Tema4_FINAL.twb out.twb` lalu `pack_twbx.py` (lalu set ulang locale/animasi tidak perlu: skrip sudah menulisnya).
+- LULUS diuji: buka tanpa error, kartu NTB/DKI, sorot tipe, Fokus "Perbaiki mutu kerja", pesan bobot 0, koma desimal.
+- BELUM DIUJI: Jateng, Papua Tengah, Maluku di kartu; Acuan pembanding; Fokus lain selain 1; ekspor gambar/PDF 1900x1100; animasi saat klik.
+- Revisi desain (16.20–17.15): kartu Cek provinsimu + menu "Provinsi" (pilih tanpa klik peta; diuji Papua Tengah 28→1, 87%), grafik "Langkah per tipe" satu baris per tipe (warna tipe terpilih, lainnya pudar), latar tint 96% + garis aksen kiri pada kartu angka (biru = TPT, merah bata = informal), KPI berkoma via angka bulat+desimal, label kuadran dua baris. Referensi pola: proyek lokal ASAP Gelar Rasa (daftar prioritas satu baris, kartu KPI aksen kiri).
+- Kekurangan tampilan tersisa: label kuadran "Rentan Ter-sembunyi"/"Antrea-n Kerja" patah; label tile map bertumpuk; baris Priority Lab rapat; sumbu tren 2014–2026; narasi di bawah peta masih nama kapital; P1 "3 teratas warna penuh" dan P2 lollipop tidak dikerjakan.
+
 ## STATUS TERKINI (baca ini dulu) — dihentikan user 23 Nov ±11.00 WIB untuk dilanjut nanti
 - **Workbook final: `DAC_Dashboard_Tema4_FINAL.twbx` = v7c** (1.950.874 byte, 23 Nov 11:00), dicek di Tableau 2026.3 lewat Dashboard > Export Image 1900×1100. Tableau sudah ditutup; semua jendela uji ditutup TANPA simpan (jendela lama berjudul FINAL juga "No" agar v7c tidak tertimpa).
 - Cadangan: `DAC_Dashboard_Tema4_FINAL_pre_v7.twbx` (versi sebelum redesain), `DAC_desain_QA_v2.twbx` (basis build, JANGAN dihapus), BACKUP/new (asli tim).

@@ -1,4 +1,23 @@
-# Progres Tim — Dashboard DAC Tema 4 (per 23 Nov 2026 siang)
+# Progres Tim — Dashboard DAC Tema 4 (per 23 Nov 2026 ±16.50)
+
+## VERSI KUMPUL: v8 → [`DAC_Dashboard_Tema4_v8.twbx`](DAC_Dashboard_Tema4_v8.twbx)
+Pakai file ini untuk PDF, Tableau Public, dan ZIP. `DAC_Dashboard_Tema4_FINAL.twbx` (v7c) tetap ada sebagai cadangan.
+
+Yang baru di v8 (dibangun lewat `scripts/redesign_tableau_v8.py` dari v7c, lalu dicek & disimpan di Tableau 2026.3):
+- **Hal 2 – Cek provinsimu**: pilih provinsi lewat menu **Provinsi** di kartu *atau* klik peta/kuadran/daftar. Kartu: peringkat TPT → kerja tidak layak, selisih 4 komponen dari median 38 provinsi, tipe + usulan tim. Default "Indonesia" menampilkan NTB (contoh).
+- **Fokus kebijakan** di Priority Lab: Seimbang / Kurangi pengangguran / Perbaiki mutu kerja / Anak muda (NEET) / Atur sendiri (slider). Menampilkan 8 teratas.
+- **Langkah per tipe masalah** (grafik, menggantikan paragraf kesimpulan) + angka 135 kab/kota.
+- **Hal 1**: 3 kartu angka (68,4% · 6 dari 6 · 8,6%) menggantikan kotak "Jadi"; kartu alur dihapus.
+- Font Tableau (Georgia dibuang), koma desimal (locale Indonesia), animasi 0,5 dtk, kartu angka berlatar tint + garis aksen kiri, label tile map & kuadran dirapikan.
+
+Sudah diuji di Tableau: NTB 34→2 (35%), DKI 7→38, Papua Tengah 28→1 (87%) lewat menu, Fokus "Perbaiki mutu kerja" (Papua Tengah, Aceh, Maluku, NTB, Sulbar), semua bobot 0 → pesan muncul.
+**Belum**: ekspor PDF, publish Tableau Public, ZIP + surat bermeterai.
+
+![Halaman 1 v8](deliverables/screenshots/v8_hal1.jpg)
+![Halaman 2 v8](deliverables/screenshots/v8_hal2.jpg)
+
+---
+## Arsip ringkasan v7c (23 Nov siang)
 
 Ringkasan untuk anggota tim: sudah sampai mana, apa yang selesai, bentuk dashboard saat ini, dan sisa tugas sebelum **deadline 23 Nov 2026 23.59 WIB**.
 

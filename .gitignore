@@ -19,3 +19,6 @@ DAC_desain_teruji.twbx
 DAC_revisi_verifikasi_23nov.twbx
 DAC_uji_bobot_nol.twbx
 DAC_verifikasi_B.twbx
+
+# File pemulihan otomatis Tableau
+~*.twbr

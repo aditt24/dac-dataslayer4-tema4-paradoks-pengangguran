@@ -51,3 +51,10 @@ Hal 2: axis title dumbbell pembanding ("Informal (%): biru muda 2018, merah 2025
 
 ## 2026-11-23 (±11.00) — Claude Code — sesi dihentikan user
 - Semua jendela Tableau ditutup tanpa simpan (file perantara r1–r17 sudah dihapus). FINAL.twbx = v7c tidak berubah setelah verifikasi. Progres & memori diperbarui untuk dilanjutkan.
+
+## 2026-11-23 sore — Claude Code — v8
+- `scripts/redesign_tableau_v8.py` (basis = v7c FINAL.twb, bukan build ulang v7) → `DAC_Dashboard_Tema4_v8.twbx`. FINAL.twbx (v7c) tidak diubah.
+- Hal 2: kartu H2-K1/K2/K3, sheet H2-R Keputusan, parameter Fokus (CASE di Total Bobot & Skor Dinamis), alias nama provinsi (nilai wilayah asli tetap), label Papua Tengah di kuadran, slope dikeluarkan dari dashboard.
+- Hal 1: tata letak baru, 3 kartu angka, judul kalimat biasa, label 1 desimal (kode format Tableau diawali `*`; `#,##0.0` diabaikan pada label).
+- GUI Tableau: Workbook Locale = Indonesian (Indonesia), animasi On 0,5 detik Simultaneous, lalu Ctrl+S. Skrip kini menulis keduanya juga.
+- Diuji di Tableau 2026.3: buka tanpa error; NTB 34→2 / Rentan Tersembunyi / 35% / selisih −21 −12 +42 +14; klik DKI → 7→38, baris Antrean Kerja Formal disorot; Fokus "Perbaiki mutu kerja" → Papua Tengah, Aceh, Maluku, NTB, Sulbar; Atur sendiri + semua bobot 0 → pesan muncul. Screenshot: deliverables/screenshots/v8_hal1.jpg, v8_hal2.jpg.
